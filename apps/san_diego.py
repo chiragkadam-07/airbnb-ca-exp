@@ -4,6 +4,7 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 import os
+import pathlib
 # import time
 # from dash_bootstrap_templates import load_figure_template
 # load_figure_template('DARKLY')
@@ -13,8 +14,11 @@ from app import app
 # start = time.time()
 
 # df = pd.read_csv("C:/Users/sahil/Downloads/New folder/San_Diego_subset.csv")
-file_path = os.path.join(os.path.dirname(__file__), "San_Diego_subset.csv")
-df = pd.read_csv(file_path)
+# file_path = os.path.join(os.path.dirname(__file__), "San_Diego_subset.csv")
+# df = pd.read_csv(file_path)
+PATH = pathlib.Path(__file__).parent
+DATA_PATH = PATH.joinpath("../datasets").resolve()
+df = pd.read_csv(DATA_PATH.joinpath("San_Diego_subset.csv"))
 colorscales = px.colors.named_colorscales()
 bar_colors = px.colors.qualitative.Plotly
 
