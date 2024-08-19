@@ -85,7 +85,7 @@ Los_angeles_layout = dbc.Container([
     dbc.Row([
         dbc.Col([
             dcc.Markdown('###### Select price range'),
-            price_slider := dcc.RangeSlider(min=df.price.min(), max=500, value=[0, 200], step=10,
+            dcc.RangeSlider(id='price_slider', min=df.price.min(), max=500, value=[0, 200], step=10,
                                             marks={'0': '0', '20': '20', '50': '50',
                                                    '100': '100', '150': '150',
                                                    '300': '300', '500': '500'},
@@ -110,16 +110,16 @@ Los_angeles_layout = dbc.Container([
                 dcc.Markdown("###### Minimum-Nights", style={'textAlign': 'center', 'marginBottom': '10px'})
             ], style={'textAlign': 'center'}),
             html.Div([
-                nights := dbc.Input(type='number', min=df.minimum_nights.min(), max=df.minimum_nights.max(), value=1,
+                dbc.Input(id='nights', type='number', min=df.minimum_nights.min(), max=df.minimum_nights.max(), value=1,
                                     style={'marginRight': '10px', 'textAlign':'center'}, persistence=True, persistence_type="memory"),
-                nights_max := dbc.Input(type='number', min=df.minimum_nights.min(), max=df.minimum_nights.max(), value=15,
+                dbc.Input(id='nights_max', type='number', min=df.minimum_nights.min(), max=df.minimum_nights.max(), value=15,
                                         className='text-center', persistence=True, persistence_type="memory")
             ], style={'display': 'flex', 'justifyContent': 'center'})
         ], width={'size': 2}),
 
         dbc.Col([
             dcc.Markdown('###### Available Days'),
-            days_slider := dcc.RangeSlider(min=df.availability_365.min(), max=365, value=[0, 160], step=5,
+            dcc.RangeSlider(id='days_slider', min=df.availability_365.min(), max=365, value=[0, 160], step=5,
                                            marks={'0': '0', '1': '1', '5': '5', '10': '10', '30': '30',
                                                   '60': '60', '120': '120', '200': '200', '300': '300', '365': '365'},
                                            tooltip={"placement": "bottom", "always_visible": True}, persistence=True,
@@ -206,9 +206,9 @@ Los_angeles_layout = dbc.Container([
      Output(map_chart2, 'figure'), Output('card-content', 'children'),
      Output('box_plot', 'figure')
      ],
-    [Input(interact, 'value'), Input(price_slider, 'value'),
-     Input(days_slider, 'value'), Input(nights, 'value'),
-     Input(nights_max, 'value'), Input("dropdown", "value"),
+    [Input(interact, 'value'), Input('price_slider', 'value'),
+     Input('days_slider', 'value'), Input('nights', 'value'),
+     Input('nights_max', 'value'), Input("dropdown", "value"),
      Input("dropdown-barcolor", "value")
      ]
 )
