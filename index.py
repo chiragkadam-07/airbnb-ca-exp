@@ -5,6 +5,7 @@ import numpy as np
 import plotly.express as px
 
 from app import app
+from app import server
 from apps import los_angeles, san_diego, san_francisco
 
 app_tabs = html.Div([
