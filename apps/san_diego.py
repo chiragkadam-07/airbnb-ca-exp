@@ -77,9 +77,8 @@ San_diego_layout = dbc.Container([
             interact := dcc.RadioItems(options=[
                     {'label': 'Enabled', 'value': 'Enabled'},
                     {'label': 'Disabled', 'value': 'Disabled'}
-                ],value='Enabled', className='radio-items2',
-                
-            )
+                ],value='Enabled', className='radio-items2'
+                )
         ], width={'size': 2, 'offset': 1}, style={'paddingTop': '11px'})
     ]),
 
@@ -90,7 +89,8 @@ San_diego_layout = dbc.Container([
                                             marks={'0': '0', '20': '20', '50': '50',
                                                    '100': '100', '150': '150',
                                                    '300': '300', '500': '500'},
-                                            tooltip={"placement": "bottom", "always_visible": True}
+                                            tooltip={"placement": "bottom", "always_visible": True}, persistence=True,
+                                            persistence_type="memory"
                                             )
         ], width=5),
 
@@ -110,8 +110,10 @@ San_diego_layout = dbc.Container([
                 dcc.Markdown("###### Minimum-Nights", style={'textAlign': 'center', 'marginBottom': '10px'})
             ], style={'textAlign': 'center'}),
             html.Div([
-                nights := dbc.Input(type='number', min=df.minimum_nights.min(), max=df.minimum_nights.max(), value=1, style={'marginRight': '10px', 'textAlign':'center'}),
-                nights_max := dbc.Input(type='number', min=df.minimum_nights.min(), max=df.minimum_nights.max(), value=15, className='text-center')
+                nights := dbc.Input(type='number', min=df.minimum_nights.min(), max=df.minimum_nights.max(), value=1,
+                                    style={'marginRight': '10px', 'textAlign':'center'}, persistence=True, persistence_type="memory"),
+                nights_max := dbc.Input(type='number', min=df.minimum_nights.min(), max=df.minimum_nights.max(), value=15,
+                                        className='text-center', persistence=True, persistence_type="memory")
             ], style={'display': 'flex', 'justifyContent': 'center'})
         ], width={'size': 2}),
 
@@ -120,7 +122,8 @@ San_diego_layout = dbc.Container([
             days_slider := dcc.RangeSlider(min=df.availability_365.min(), max=365, value=[0, 160], step=5,
                                            marks={'0': '0', '1': '1', '5': '5', '10': '10', '30': '30',
                                                   '60': '60', '120': '120', '200': '200', '300': '300', '365': '365'},
-                                           tooltip={"placement": "bottom", "always_visible": True}
+                                           tooltip={"placement": "bottom", "always_visible": True}, persistence=True,
+                                           persistence_type="memory"
                                            )
         ], width=5),
     ]),
@@ -177,7 +180,7 @@ San_diego_layout = dbc.Container([
                     dcc.Dropdown(
                         id='dropdown', 
                         options=colorscales,
-                        value='viridis')
+                        value='viridis', persistence=True, persistence_type="memory")
             ])
         ]),
 
@@ -187,7 +190,7 @@ San_diego_layout = dbc.Container([
                 dcc.Dropdown(
                     id='dropdown-barcolor', 
                     options=bar_colors,
-                    value='#636EFA'
+                    value='#636EFA', persistence=True, persistence_type="memory"
                 ),
                 ])
                 ])
