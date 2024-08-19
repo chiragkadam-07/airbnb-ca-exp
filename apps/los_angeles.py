@@ -5,34 +5,18 @@ import numpy as np
 import plotly.express as px
 import os
 import pathlib
-# import time
 # from dash_bootstrap_templates import load_figure_template
 # load_figure_template('DARKLY')
 from app import app
 
-
-# start = time.time()
-
-# df = pd.read_csv("C:/Users/sahil/Downloads/New folder/Los_Angeles_subset.csv")
-# file_path = os.path.join(os.path.dirname(__file__), "Los_Angeles_subset.csv")
-# df = pd.read_csv(file_path)
 PATH = pathlib.Path(__file__).parent
 DATA_PATH = PATH.joinpath("../datasets").resolve()
 df = pd.read_csv(DATA_PATH.joinpath("Los_Angeles_subset.csv"))
 colorscales = px.colors.named_colorscales()
 bar_colors = px.colors.qualitative.Plotly
 
-# top_neighbourhood = df['neighbourhood'].value_counts().head(1).index[0]
-# top_value = df['neighbourhood'].value_counts().head(1).values[0]
 
-# Define the layout
 Los_angeles_layout = dbc.Container([
-    # dbc.Row([
-    #     dbc.Col([
-    #         dcc.Markdown('# Los Angeles Airbnb Analysis', style={'textAlign': 'center'})
-    #     ], width=12)
-    # ]),
-
     dbc.Row([
         dbc.Col([
             dbc.Card([
@@ -63,13 +47,6 @@ Los_angeles_layout = dbc.Container([
                    dbc.CardBody(id='card-content',children=[], className='custom-card-body1')
               ], style={"width": "15rem"}, className='custom-card1')
          ], width={'size': 3}),
-
-        #  dbc.Col([
-        #         dcc.Markdown("nights"),
-        #         nights := dbc.Input(type='number', min=df.minimum_nights.min(), max=df.minimum_nights.max(), value=1),
-        #         nights_max := dbc.Input(type='number',  min=df.minimum_nights.min(), max=df.minimum_nights.max(), value=15),
-        #         html.Div(id='output-range')
-        #     ], width={'size': 1}),
          
         dbc.Col([
             dcc.Markdown("Interactivity", className='box',), # 6#=h6, __italic, *bold
@@ -93,17 +70,6 @@ Los_angeles_layout = dbc.Container([
                                             persistence_type="memory"
                                             )
         ], width=5),
-
-        # dbc.Col([
-        #         html.Div([
-        #             dcc.Markdown("minimum-Nights",),
-        #         ],),
-        #         nights := dbc.Input(type='number', min=df.minimum_nights.min(), max=df.minimum_nights.max(), value=1, #style={'marginRight': '10px'}
-        #                             ),
-        #         nights_max := dbc.Input(type='number',  min=df.minimum_nights.min(), max=df.minimum_nights.max(), value=15),
-        #         ], 
-        #         width={'size': 2}, #style={'display': 'flex', 'alignItems': 'center'}
-        #         ),
 
         dbc.Col([
             html.Div([
@@ -134,12 +100,6 @@ Los_angeles_layout = dbc.Container([
             map_chart := dcc.Graph(figure={}, className='graph-padding')
         ], width=12)
     ]),
-
-    # dbc.Row([
-    #     dbc.Col([
-    #         map_chart1 := dcc.Graph(figure={})
-    #     ], width=12)
-    # ]),
 
     dbc.Row([
         dbc.Col([
@@ -200,7 +160,6 @@ Los_angeles_layout = dbc.Container([
 
 @app.callback(
     [Output(map_chart, 'figure'), Output(hist_chart, 'figure'),
-    #  Output(map_chart1, 'figure'), 
      Output(bar_chart, 'figure'),
      Output(bar_chart1, 'figure'), Output(hist_chart2, 'figure'),
      Output(map_chart2, 'figure'), Output('card-content', 'children'),
@@ -218,7 +177,6 @@ def update_graph(option, prices_value, days_value, nights_min, nights_max, scale
         # dff = df[df.minimum_nights >= nights_value]
         # dff = df[(df.minimum_nights > nights_value[0]) & (df.minimum_nights < nights_value[1])]
         if option == "Enabled":
-            # dff = df
             # print("total dff rows", dff.shape[0])
             dff = df[(df.price >= prices_value[0]) & (df.price <= prices_value[1])]
             dff = dff[(dff.availability_365 >= days_value[0]) & (dff.availability_365 <= days_value[1])]
@@ -252,20 +210,12 @@ def update_graph(option, prices_value, days_value, nights_min, nights_max, scale
                                 template='plotly_dark')
         fig_hist.update_layout(yaxis_title='Count', xaxis_title='Available Days', margin=dict(r=20))
 
-        # Bar chart for room types
         room_type_counts = dff['room_type'].value_counts().reset_index()
         room_type_counts.columns = ['room_type', 'count']
         fig_bar = px.bar(room_type_counts, x='room_type', y='count', title='Listings Count by Room Type',
                          labels={'room_type':'Room Type', 'count':'Count'}, template='plotly_dark', color_continuous_scale=scale, color='count'
                         )
         fig_bar.update_layout(coloraxis_showscale=False)
-
-        # fig_mp1 = px.scatter_mapbox(data_frame=dff, lat='latitude', lon='longitude', color='availability_365',
-        #                             height=580,
-        #                             range_color=[0, 365], zoom=11, color_continuous_scale=px.colors.sequential.Sunset,
-        #                             hover_data={'latitude': False, 'longitude': False, 'room_type': True,
-        #                                         'minimum_nights': True})
-        # fig_mp1.update_layout(mapbox_style='carto-positron')
 
         a = df['host_name'].value_counts().reset_index(name='count')
         fig_bar1 = px.bar(a.sort_values(ascending=False, by='count').iloc[:5], 'host_name', 'count',
@@ -297,11 +247,4 @@ def update_graph(option, prices_value, days_value, nights_min, nights_max, scale
 
         print("dff rows after filter", dff.shape[0])
 
-        # fig = px.bar(dff, x='group', template='ggplot2')
-
-        return fig_map, fig_hist, fig_bar, fig_bar1, fig, fig_mp2,  card_content, fig_box,
-
-
-
-# end = time.time()
-# print(f"execution time is : {(end-start)*10**3} ms")
+        return fig_map, fig_hist, fig_bar, fig_bar1, fig, fig_mp2,  card_content, fig_box

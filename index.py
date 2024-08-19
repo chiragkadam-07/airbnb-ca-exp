@@ -1,8 +1,5 @@
-from dash import Dash, dcc, html, Output, Input
+from dash import Dash, html, Output, Input
 import dash_bootstrap_components as dbc
-import pandas as pd
-import numpy as np
-import plotly.express as px
 
 from app import app
 from app import server
