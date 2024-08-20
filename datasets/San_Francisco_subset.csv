@@ -1,15 +1,12 @@
-﻿id,host_id,host_name,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,calculated_host_listings_count,availability_365,number_of_reviews_ltm
+id,host_id,host_name,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,calculated_host_listings_count,availability_365,number_of_reviews_ltm
 958,1169,Holly,Western Addition,37.77028,-122.43317,Entire home/apt,202,2,383,1,128,59
 5858,8904,Philip And Tania,Bernal Heights,37.74474,-122.42089,Entire home/apt,235,30,111,1,365,0
-8142,21994,Aaron,Haight Ashbury,37.76555,-122.45213,Private room,56,32,9,13,365,1
 8739,7149,Ivan & Wendy,Mission,37.7603,-122.42197,Private room,110,1,770,2,159,34
 10537,36752,Teresa,Bayview,37.7175,-122.39698,Private room,95,1,19,2,365,1
 142177,656263,Noreen,Outer Richmond,37.7844,-122.47932,Entire home/apt,259,5,234,1,32,13
 490931,1269188,Maureen,Bernal Heights,37.74766,-122.42041,Private room,100,30,80,1,331,1
 10578,37049,Andrew,Nob Hill,37.79249,-122.41499,Entire home/apt,79,30,18,1,230,0
-12041,21994,Aaron,Haight Ashbury,37.76901,-122.44701,Private room,65,32,7,13,365,1
 491867,969518,Sona,Western Addition,37.77196,-122.43477,Entire home/apt,425,2,56,1,7,14
-12042,21994,Aaron,Haight Ashbury,37.76932,-122.44723,Private room,65,32,5,13,365,0
 12522,18431,Brenda,Castro/Upper Market,37.76237,-122.42992,Private room,99,3,446,1,7,19
 18231,70224,Arlene Helfand,Noe Valley,37.74916,-122.42971,Entire home/apt,95,30,69,1,192,2
 144978,216682,Jay,Pacific Heights,37.79233,-122.42431,Private room,55,30,121,9,55,1
@@ -71,12 +68,10 @@
 44032,98733,David + Tina,Mission,37.75158,-122.41158,Entire home/apt,99,30,300,1,58,5
 229319,12798954,Anya,Bernal Heights,37.73825,-122.41451,Entire home/apt,239,5,27,2,145,9
 571142,2072534,Adam,Inner Sunset,37.76459,-122.45483,Entire home/apt,199,30,47,1,74,2
-44680,196626,Paul,Mission,37.75131,-122.42167,Entire home/apt,150,60,3,1,28,0
 232060,1214006,Syl & Art,Inner Sunset,37.75893,-122.4664,Entire home/apt,99,30,113,1,247,0
 47682,216682,Jay,Pacific Heights,37.79186,-122.42429,Entire home/apt,125,30,34,9,365,3
 238204,1248132,"Jennifer, Maria , Andrew",Parkside,37.74228,-122.50415,Entire home/apt,140,2,278,1,230,30
 585326,2676602,Su,Outer Richmond,37.77547,-122.48116,Entire home/apt,85,2,914,2,91,95
-51557,237200,Len,Western Addition,37.7714,-122.42935,Entire home/apt,125,180,109,1,348,1
 589767,1692184,Joe & Katrina,Russian Hill,37.79769,-122.41155,Entire home/apt,275,7,27,3,335,2
 51773,216682,Jay,Pacific Heights,37.79373,-122.42507,Private room,57,30,166,9,293,0
 256176,976125,Eva,Inner Richmond,37.77713,-122.456,Private room,102,2,437,1,319,46
@@ -88,7 +83,6 @@
 269463,1244308,Lawrence,Haight Ashbury,37.76761,-122.45139,Entire home/apt,250,2,173,1,62,14
 54634,216682,Jay,Pacific Heights,37.79352,-122.42649,Entire home/apt,95,30,49,9,311,3
 55636,262875,Paul,Twin Peaks,37.74778,-122.44566,Entire home/apt,110,30,28,3,338,0
-269756,1409731,Daniel,Twin Peaks,37.75265,-122.45092,Private room,115,90,7,1,0,0
 56621,216682,Jay,Pacific Heights,37.79183,-122.42425,Private room,60,30,127,9,256,0
 593253,2929255,Trevor,Western Addition,37.7699,-122.42917,Private room,95,5,392,1,241,23
 57561,272890,Theodore,Bernal Heights,37.74684,-122.41548,Entire home/apt,178,30,223,1,310,2
@@ -100,7 +94,6 @@
 59702,287136,Toby,Bernal Heights,37.74188,-122.4127,Private room,150,30,192,1,145,0
 604221,2991110,Jerry,Downtown/Civic Center,37.78239,-122.41833,Entire home/apt,76,30,23,3,33,1
 274334,1434669,Ashli,Outer Sunset,37.7517,-122.5051,Private room,87,3,138,1,100,36
-59831,287859,Lawrence,Outer Sunset,37.75674,-122.49178,Private room,100,60,1,1,0,0
 280549,1454829,Luise,West of Twin Peaks,37.73948,-122.44947,Private room,250,1,36,1,331,1
 62519,304426,Abhay,Noe Valley,37.7422,-122.42996,Private room,120,2,37,2,14,0
 62804,233540,Chris,Western Addition,37.7702,-122.42913,Entire home/apt,300,3,4,1,10,0
@@ -142,7 +135,6 @@
 99094,522225,Marzio,Mission,37.76945,-122.42456,Entire home/apt,277,3,24,1,71,3
 371595,165574,Jonathan,Presidio Heights,37.78146,-122.45619,Entire home/apt,75,30,252,1,123,5
 663623,119920,Gwen,Mission,37.7562,-122.40944,Entire home/apt,240,2,43,1,234,7
-105497,547669,Jamie,Outer Sunset,37.75699,-122.4973,Private room,90,45,4,4,0,0
 106025,359730252,Clare,Downtown/Civic Center,37.78693,-122.41539,Entire home/apt,113,30,65,1,44,2
 664307,3355966,Geoff,Mission,37.75292,-122.4186,Private room,94,2,473,2,353,38
 664315,3355966,Geoff,Mission,37.75502,-122.41889,Entire home/apt,136,7,6,2,0,0
@@ -155,7 +147,6 @@
 400433,1583699,Tracy,Mission,37.76015,-122.42098,Entire home/apt,385,2,51,1,60,11
 114401,580606,George,Castro/Upper Market,37.75939,-122.43051,Private room,115,1,687,1,338,55
 409549,684131,Mary,Bernal Heights,37.73812,-122.41807,Entire home/apt,208,3,185,1,30,60
-115242,582450,Dawn,North Beach,37.80599,-122.40943,Entire home/apt,140,33,18,1,71,3
 691023,3531780,Mickey,Castro/Upper Market,37.75757,-122.42693,Entire home/apt,500,4,48,1,19,11
 121065,608445,Hassan,Western Addition,37.77117,-122.43292,Entire home/apt,100,30,36,2,303,0
 122829,615007,D,South of Market,37.77341,-122.4208,Entire home/apt,80,30,72,1,45,2
@@ -167,7 +158,6 @@
 719431,783438,Phil,West of Twin Peaks,37.73993,-122.4686,Entire home/apt,96,5,430,2,76,61
 415498,216682,Jay,Pacific Heights,37.79395,-122.42609,Entire home/apt,86,30,29,9,340,1
 423300,1776403,Natallia,Mission,37.75686,-122.41019,Entire home/apt,104,28,31,5,166,3
-130775,21994,Aaron,Haight Ashbury,37.76555,-122.45213,Private room,56,32,11,13,365,0
 132441,650862,Kurt,Bernal Heights,37.73987,-122.4234,Private room,82,1,180,1,165,27
 424846,2112291,Martha,Inner Richmond,37.7835,-122.47445,Private room,196,2,247,2,208,15
 720811,93873,Ron & Cherie,Inner Richmond,37.77739,-122.46161,Entire home/apt,166,3,280,1,59,28
@@ -181,7 +171,6 @@
 734801,3832375,Basia,Pacific Heights,37.78972,-122.43086,Entire home/apt,255,31,34,1,317,4
 734839,3832802,Kenji,North Beach,37.80074,-122.41048,Entire home/apt,295,30,197,1,34,6
 438940,1841207,Craig,Castro/Upper Market,37.758919,-122.434776,Private room,82,2,119,1,205,32
-781945,4124339,Tanmay,Financial District,37.78471,-122.39852,Entire home/apt,350,183,3,1,0,0
 442349,2198022,Judith,Western Addition,37.77528,-122.42706,Entire home/apt,150,30,20,1,0,0
 738547,3860047,Robert,Russian Hill,37.80601,-122.41901,Entire home/apt,395,3,191,1,264,26
 783821,137980,Jack,Castro/Upper Market,37.75919,-122.43723,Entire home/apt,395,30,23,3,46,1
@@ -204,20 +193,17 @@
 752607,3958328,Lily,Mission,37.76548,-122.42032,Entire home/apt,325,5,374,1,100,39
 819863,4306242,Michael And Polina,Inner Sunset,37.75868,-122.46912,Entire home/apt,88,2,120,1,293,27
 754117,3967658,Ryan & Tricia,Haight Ashbury,37.77234,-122.44622,Entire home/apt,200,30,175,1,139,3
-474107,2318089,Inés,Excelsior,37.72369,-122.42865,Private room,70,2,131,1,113,33
+474107,2318089,In�s,Excelsior,37.72369,-122.42865,Private room,70,2,131,1,113,33
 487019,2410550,Cecile,Potrero Hill,37.75622,-122.39821,Entire home/apt,249,5,30,1,274,4
 758815,3998807,Jacinta,Marina,37.80304,-122.44187,Entire home/apt,137,30,27,1,310,2
-830576,2350141,Eric,Pacific Heights,37.79644,-122.42546,Entire home/apt,175,200,2,1,0,0
 765914,4038852,Garry,Mission,37.75778,-122.41316,Entire home/apt,400,7,56,1,365,6
 767506,3807182,Jennifer,West of Twin Peaks,37.74412,-122.45273,Entire home/apt,410,2,136,1,264,12
 487499,1682183,Daniel,Mission,37.75884,-122.42232,Entire home/apt,125,30,192,1,239,4
 837045,4374318,Jolie,Western Addition,37.77028,-122.43156,Entire home/apt,249,2,62,2,8,5
-1141986,5960567,Karina,South of Market,37.77995,-122.40178,Entire home/apt,90,360,39,2,365,0
 769734,4060777,Annie,Mission,37.75796,-122.40913,Private room,83,2,124,1,97,15
 774323,4085271,Jan,Mission,37.76034,-122.42394,Private room,127,2,444,2,119,26
 838660,9965793,The Twist,Chinatown,37.790672,-122.407249,Entire home/apt,133,30,10,9,121,1
 776239,4094089,Josh,Castro/Upper Market,37.75948,-122.44357,Entire home/apt,338,5,46,1,154,11
-1145582,6281643,Luisa,Western Addition,37.78735,-122.43225,Entire home/apt,210,50,0,1,365,0
 779109,4091830,Daniel,Mission,37.74869,-122.41935,Private room,170,30,174,2,363,1
 856123,16382,Mark,Mission,37.76121,-122.41922,Private room,144,1,223,2,168,44
 779575,4110614,Francisco,South of Market,37.77685,-122.41701,Private room,120,30,7,1,365,0
@@ -232,7 +218,7 @@
 1159284,5548292,Shaun,North Beach,37.80521,-122.40579,Entire home/apt,295,30,6,1,363,1
 1511076,2403646,Gary,Castro/Upper Market,37.76137,-122.42661,Private room,142,2,454,1,90,54
 867499,4346130,Shannon,Western Addition,37.77119,-122.42461,Private room,199,2,27,2,0,0
-867555,4562696,Charles & René,Mission,37.76845,-122.41869,Entire home/apt,499,7,31,2,13,1
+867555,4562696,Charles & Ren�,Mission,37.76845,-122.41869,Entire home/apt,499,7,31,2,13,1
 1520929,8055897,Annekarin,Potrero Hill,37.75991,-122.4048,Entire home/apt,250,2,265,1,333,45
 1525137,7390100,Dion,Pacific Heights,37.78792,-122.44379,Entire home/apt,180,30,211,1,265,4
 1160508,2801755,Debolina,Ocean View,37.72084293,-122.4542891,Entire home/apt,168,2,9,1,354,0
@@ -249,7 +235,6 @@
 1547477,3977854,Michael,Western Addition,37.77965,-122.42432,Entire home/apt,80,30,50,6,325,6
 891728,4737757,Joshua,Castro/Upper Market,37.75879,-122.42922,Entire home/apt,500,30,1,1,293,0
 1550913,497158,Seth And Alexa,Mission,37.75141,-122.4198,Entire home/apt,153,5,220,1,42,17
-1195374,5024596,Megan,Castro/Upper Market,37.7689,-122.42765,Entire home/apt,140,45,3,1,0,0
 1198464,5565510,Lulu,West of Twin Peaks,37.73386,-122.4638,Private room,46,5,118,5,344,1
 895381,1257432,San Francisco Life Real Estate,Downtown/Civic Center,37.7774,-122.42003,Entire home/apt,114,30,12,28,365,2
 1200068,6555530,Phyllis,Outer Mission,37.73411,-122.44805,Private room,55,30,20,3,336,1
@@ -259,7 +244,6 @@
 1589228,8478388,Claire,Noe Valley,37.74442,-122.42525,Entire home/apt,350,30,10,1,0,0
 1201159,6561127,Omid,South of Market,37.78242,-122.39963,Entire home/apt,80,30,44,1,240,3
 905399,4843181,Nancy,Mission,37.75007,-122.41837,Private room,80,5,175,3,23,7
-1202686,4152942,Clara,Mission,37.76503,-122.42034,Entire home/apt,122,110,24,4,221,1
 1212513,1237762,Myles,Castro/Upper Market,37.76067,-122.4389,Private room,350,2,7,2,178,1
 1589283,3532224,Andrew,South of Market,37.77944,-122.40333,Entire home/apt,109,30,12,1,99,0
 1598872,8523981,Teresa,Western Addition,37.77162,-122.43124,Entire home/apt,235,5,39,1,0,2
@@ -281,11 +265,9 @@
 1627455,7066914,Paul,Downtown/Civic Center,37.78878,-122.41176,Private room,129,30,38,1,365,0
 948066,2880747,Scott,Potrero Hill,37.76285,-122.40185,Entire home/apt,221,30,52,1,296,2
 950094,5153588,Gaylene,Bayview,37.73457,-122.39348,Private room,56,30,51,3,249,2
-1629330,4895196,Tomasz,South of Market,37.78005,-122.39795,Entire home/apt,214,60,29,1,279,0
 1629740,6346492,Dana,Downtown/Civic Center,37.78888,-122.41072,Private room,192,1,55,29,0,0
 1267206,6081814,Nancy,Glen Park,37.74184,-122.42423,Private room,74,3,82,2,241,11
 1273394,4836128,Vivian,Presidio Heights,37.78754,-122.45868,Private room,500,30,0,2,365,0
-961900,5238718,Daniela,South of Market,37.77784,-122.39412,Entire home/apt,191,90,55,1,259,0
 1276953,799436,David,Western Addition,37.77055,-122.4314,Entire home/apt,296,4,53,1,10,6
 1633173,8676376,Herbert,Excelsior,37.72686,-122.42014,Private room,39,30,236,5,206,0
 964751,674976,Phil,Inner Richmond,37.77815,-122.45789,Entire home/apt,103,30,285,3,177,5
@@ -296,11 +278,8 @@
 968037,2548643,Thomas,North Beach,37.80017,-122.40334,Entire home/apt,225,30,93,1,365,2
 1641060,6869592,Sharon,West of Twin Peaks,37.73875,-122.46224,Entire home/apt,225,3,114,1,333,24
 980397,5148234,Tom,Bernal Heights,37.7334,-122.41832,Entire home/apt,500,1,46,1,264,3
-1645724,1686240,Grace,Ocean View,37.71762,-122.46577,Private room,40,365,8,1,364,0
 980783,5371124,Katie,Potrero Hill,37.76249,-122.40307,Entire home/apt,181,30,168,1,197,5
-1299242,169184,Therese And Nelson,Bernal Heights,37.74296,-122.42148,Entire home/apt,200,365,4,2,365,0
 1665516,3071180,Adam&Roz,Outer Richmond,37.77878,-122.48282,Entire home/apt,206,3,264,1,185,44
-1672055,262875,Paul,Twin Peaks,37.74725,-122.44512,Entire home/apt,199,90,0,3,185,0
 991765,5446518,Jennifer,Mission,37.75707,-122.4116,Entire home/apt,350,4,48,1,3,4
 1673777,8860167,William,Western Addition,37.77437,-122.43502,Entire home/apt,105,30,4,2,364,2
 1299759,6225200,Myrna,Western Addition,37.77743,-122.44421,Entire home/apt,98,30,40,1,0,5
@@ -348,7 +327,6 @@
 1083810,5959211,Kat,Noe Valley,37.75417,-122.43705,Entire home/apt,495,1,37,3,197,10
 1807493,1359769,Tom,South of Market,37.77985,-122.40496,Entire home/apt,180,30,115,1,97,5
 1388523,549522,Steve & Debbie,Mission,37.75444,-122.42473,Entire home/apt,120,30,43,1,363,1
-1084068,5960567,Karina,South of Market,37.77985,-122.40352,Entire home/apt,180,365,40,2,365,0
 1087427,5977346,Melissa,Outer Sunset,37.75629,-122.47907,Private room,65,30,2,5,89,1
 1391982,5972849,Eliza,Mission,37.75415,-122.42263,Entire home/apt,364,5,44,1,110,16
 1814061,820856,Dave,Noe Valley,37.75259,-122.42552,Entire home/apt,150,30,24,1,146,5
@@ -360,7 +338,6 @@
 1094764,172460,Leila,Inner Richmond,37.78814,-122.46547,Entire home/apt,150,30,1,2,365,0
 1407881,1467308,The Cabinets,Castro/Upper Market,37.76235,-122.4307,Entire home/apt,160,30,197,1,0,0
 1409218,5203636,Alex,South of Market,37.77593,-122.41064,Entire home/apt,215,30,66,2,270,0
-1841832,3192044,AC And Linda,Nob Hill,37.79424,-122.41493,Entire home/apt,93,113,199,1,3,3
 1101403,2335495,Hao,Mission,37.76761,-122.42474,Entire home/apt,275,2,38,2,0,0
 1844877,3350634,Sebastian,Potrero Hill,37.7615,-122.40283,Entire home/apt,106,30,97,1,70,0
 1421671,7630810,Michael,Mission,37.77125549,-122.4239883,Entire home/apt,207,2,366,3,45,55
@@ -383,7 +360,6 @@
 1861344,3286545,Kate,South of Market,37.77799,-122.39805,Entire home/apt,172,30,20,2,154,4
 1864390,9686057,Kaleen,Western Addition,37.7757,-122.42966,Entire home/apt,142,30,153,1,222,4
 1985338,30250,Nichole & Julien,Bernal Heights,37.73963,-122.41492,Private room,111,3,227,1,58,23
-1865406,38836,Bernat,Western Addition,37.7769,-122.43495,Entire home/apt,92,45,35,22,279,1
 1887206,4027973,Zak,Bayview,37.71926,-122.39355,Entire home/apt,90,30,16,1,86,0
 1434425,3227887,David,Castro/Upper Market,37.76581955,-122.4344177,Private room,130,3,135,2,358,1
 1438864,7728783,Cynthia,Noe Valley,37.74584,-122.43292,Private room,290,3,83,2,170,1
@@ -438,7 +414,6 @@
 2139562,8037793,Becky,West of Twin Peaks,37.72816,-122.45817,Private room,156,4,157,1,324,12
 2636716,4437415,Mario,Pacific Heights,37.7937,-122.42497,Entire home/apt,160,30,21,1,0,0
 3465396,17459345,Eric,Potrero Hill,37.76307,-122.39585,Private room,120,30,26,1,0,0
-2145207,2991110,Jerry,Downtown/Civic Center,37.78206,-122.41657,Entire home/apt,84,40,11,3,49,0
 3475515,13832870,International,Pacific Heights,37.79608,-122.43571,Entire home/apt,182,30,4,17,344,0
 2154122,10992775,George,West of Twin Peaks,37.73623,-122.45516,Entire home/apt,483,3,26,1,364,3
 3479568,167143,Jessie,Haight Ashbury,37.76787,-122.44961,Entire home/apt,400,3,41,1,0,13
@@ -449,7 +424,6 @@
 2683857,224012,Karyn,Outer Richmond,37.77577,-122.49306,Entire home/apt,235,7,40,1,8,3
 3486460,6884446,Emily,Potrero Hill,37.75713,-122.39694,Private room,95,1,366,2,38,11
 2172308,11082476,Chris & Neil,Pacific Heights,37.79025,-122.43632,Entire home/apt,483,2,201,1,289,42
-3509878,4152942,Clara,Mission,37.76048,-122.42223,Entire home/apt,155,100,22,4,221,0
 2702606,13830783,David,South of Market,37.7766,-122.39674,Entire home/apt,194,30,0,1,0,0
 2175930,11098043,Miegan,Bernal Heights,37.74707,-122.40607,Entire home/apt,150,1,223,1,320,49
 2702686,545357,Jenny,Mission,37.75725852,-122.4093966,Private room,100,1,40,2,0,1
@@ -473,11 +447,9 @@
 2747383,12449463,Brian,Outer Sunset,37.7587,-122.50819,Entire home/apt,225,2,208,1,298,27
 2221057,11331176,Blythe & Michael,Outer Sunset,37.7472,-122.50567,Entire home/apt,200,4,143,1,63,22
 3612236,17042045,The Bartlett,Downtown/Civic Center,37.78687,-122.40789,Private room,89,1,142,46,69,3
-2234256,11406448,Kurt,Bayview,37.71093,-122.38713,Entire home/apt,130,90,13,1,330,0
 3655811,13832870,International,Russian Hill,37.79941,-122.41859,Entire home/apt,133,30,10,17,309,1
 3664261,2555455,Max,Castro/Upper Market,37.76714,-122.43748,Entire home/apt,257,2,287,1,28,30
 2771688,14168367,Marc,Mission,37.75079,-122.41825,Entire home/apt,105,30,150,2,129,3
-2236226,11417078,David,North Beach,37.80008,-122.4056,Entire home/apt,90,80,103,4,337,2
 2783251,14235899,Ellen B,Russian Hill,37.80232,-122.41871,Entire home/apt,159,5,337,1,38,31
 2244652,11417078,David,North Beach,37.80008,-122.4056,Entire home/apt,81,30,109,4,333,3
 2802418,13923854,Gina,Outer Richmond,37.7751,-122.50099,Private room,108,2,373,1,322,42
@@ -490,7 +462,7 @@
 2291164,10699902,Kevin Michelle And Liana,Western Addition,37.77722,-122.42557,Entire home/apt,100,30,25,3,273,0
 3697738,837274,Tina And Jay,Haight Ashbury,37.7694,-122.44749,Entire home/apt,270,30,19,2,247,1
 2926901,6346492,Dana,Downtown/Civic Center,37.78849,-122.40916,Private room,179,2,44,29,0,0
-2927781,4562696,Charles & René,Mission,37.76797,-122.41918,Private room,189,2,192,2,156,6
+2927781,4562696,Charles & Ren�,Mission,37.76797,-122.41918,Private room,189,2,192,2,156,6
 2298930,2917099,Carly & Allie,Marina,37.79793,-122.4418,Private room,207,1,57,2,64,3
 2933899,6346492,Dana,Downtown/Civic Center,37.78839,-122.40902,Private room,180,1,24,29,0,0
 2935400,9965793,The Twist,Nob Hill,37.79102,-122.40921,Entire home/apt,97,30,8,9,27,0
@@ -583,7 +555,6 @@
 3992022,5565510,Lulu,West of Twin Peaks,37.73372,-122.46382,Private room,41,5,124,5,359,0
 3994686,10374314,Dave,Potrero Hill,37.76241,-122.3972,Entire home/apt,385,3,98,1,46,11
 2571453,13165755,Min,Outer Richmond,37.77497,-122.49951,Entire home/apt,400,4,29,1,37,11
-4014209,20818179,Dave,Outer Sunset,37.76411,-122.5038,Entire home/apt,117,90,1,3,216,0
 3257886,15336469,Kathy And Matt,Outer Sunset,37.76359,-122.49762,Entire home/apt,214,1,650,1,169,60
 2578122,742560,Brian,Castro/Upper Market,37.76864,-122.4283,Private room,110,4,185,2,86,0
 3263219,4346065,Greg,Bernal Heights,37.73639,-122.42036,Entire home/apt,350,3,48,2,45,9
@@ -597,7 +568,6 @@
 4280408,11527863,Louise,Pacific Heights,37.79273,-122.43549,Private room,160,3,65,1,360,13
 3311711,16722899,Rye,Mission,37.7673,-122.41764,Private room,126,2,443,1,178,16
 4026354,20860681,Candy,Parkside,37.74486,-122.49064,Entire home/apt,146,1,429,1,41,63
-4282346,3130819,Shana,Marina,37.80181,-122.43301,Entire home/apt,115,90,7,2,365,0
 3319159,9632192,Susan,Castro/Upper Market,37.76528,-122.42953,Entire home/apt,110,30,33,12,340,1
 4287481,357468,Rumesha,Outer Sunset,37.76134,-122.48304,Entire home/apt,175,2,394,1,235,36
 3325741,6777297,Robert And Juan Carlos,Noe Valley,37.75575,-122.44029,Entire home/apt,115,2,664,1,61,48
@@ -686,7 +656,6 @@
 4588670,11693129,Ashur,Mission,37.75003,-122.4179,Entire home/apt,180,30,16,1,0,0
 4597675,5026313,Elena,Western Addition,37.78288,-122.44062,Private room,89,30,11,3,104,3
 5217164,26991996,Dale,Bayview,37.72823,-122.39253,Private room,114,3,93,1,0,2
-4598364,5026313,Elena,Western Addition,37.78433,-122.44213,Private room,69,60,3,3,250,2
 6156195,31936468,Kevin,Castro/Upper Market,37.76019,-122.43663,Entire home/apt,249,30,85,1,179,0
 5222044,107595,Jim & Suzanne,Haight Ashbury,37.77447,-122.44298,Entire home/apt,291,5,126,1,64,20
 4607282,7895922,Roselyn,West of Twin Peaks,37.72917,-122.46299,Entire home/apt,300,2,25,2,332,7
@@ -711,7 +680,6 @@
 5338610,2067111,Irene,Marina,37.79693,-122.43486,Private room,80,30,196,2,68,0
 5413930,24153978,Doris,Mission,37.76448,-122.42349,Entire home/apt,172,4,247,1,184,32
 6272183,32300861,Elizabeth,Inner Sunset,37.76284,-122.45487,Entire home/apt,95,30,76,1,35,0
-4653332,4237211,Nathan,Noe Valley,37.74509,-122.43105,Entire home/apt,220,60,11,1,0,0
 6272816,7965809,Praise,Mission,37.76972,-122.41966,Entire home/apt,180,1,188,1,16,2
 6301675,32546924,Bill,Downtown/Civic Center,37.78931,-122.41158,Entire home/apt,130,30,26,1,248,2
 5433133,10859576,Daryl,South of Market,37.78763,-122.3887,Entire home/apt,290,30,23,1,362,2
@@ -732,7 +700,6 @@
 5548977,6076870,Todd And Tatyana,Outer Richmond,37.78172,-122.49235,Entire home/apt,201,2,555,2,150,63
 5557316,10103567,Guillaume,South of Market,37.77831,-122.41228,Entire home/apt,180,31,22,1,259,2
 5560256,6334749,Tim,Mission,37.75533,-122.41465,Private room,195,30,0,3,0,0
-4713319,197237,Lynn,Potrero Hill,37.76073,-122.39041,Entire home/apt,210,60,18,1,315,2
 5561787,5565510,Lulu,West of Twin Peaks,37.73519,-122.46446,Private room,35,5,44,5,343,2
 6348742,17187571,Lloyd,Noe Valley,37.75213,-122.43693,Entire home/apt,115,30,97,1,153,4
 4718629,2683422,Josh,Outer Sunset,37.74631,-122.50614,Entire home/apt,120,1,258,1,56,36
@@ -750,7 +717,6 @@
 6423158,33511564,Alice,West of Twin Peaks,37.73152,-122.46188,Entire home/apt,145,2,438,1,285,57
 5592675,28996560,Otto,Marina,37.8054,-122.44376,Entire home/apt,125,30,16,2,217,4
 4788133,5977346,Melissa,Outer Sunset,37.75763,-122.47958,Private room,75,30,3,5,365,0
-4807817,24708935,Dallas,Bernal Heights,37.7407,-122.42001,Entire home/apt,121,60,37,2,157,3
 5616609,27289856,Kevin,West of Twin Peaks,37.74004,-122.45486,Private room,139,1,214,1,89,18
 5619003,6062018,Elaine,Marina,37.80227,-122.42691,Private room,160,30,0,1,365,0
 6430646,4098848,David,Twin Peaks,37.75914,-122.44684,Private room,108,2,354,1,155,55
@@ -761,13 +727,9 @@
 4832436,22343946,Rob,Twin Peaks,37.75816,-122.44681,Entire home/apt,285,3,82,1,7,16
 5632452,20497687,Ilya,Inner Sunset,37.7548,-122.4591,Entire home/apt,118,1,352,1,197,70
 6453774,22267033,Jennifer,Downtown/Civic Center,37.78712,-122.41103,Entire home/apt,292,2,49,19,359,0
-6472998,4110058,Tom,Potrero Hill,37.76,-122.40254,Private room,500,500,7,3,365,0
-6473013,4110058,Tom,Potrero Hill,37.76011,-122.40172,Private room,500,500,9,3,365,0
 4855686,1196837,Heather,Visitacion Valley,37.71142,-122.39825,Entire home/apt,189,2,36,2,8,0
-6473215,4110058,Tom,Potrero Hill,37.7598,-122.4013,Private room,500,500,10,3,365,0
 5666413,13471395,Josh,Nob Hill,37.79214,-122.40937,Entire home/apt,82,30,20,5,222,4
 5666454,13471395,Josh,Chinatown,37.79072,-122.40796,Entire home/apt,89,30,18,5,263,3
-4867594,25037624,Avery,Russian Hill,37.79809,-122.41613,Entire home/apt,175,90,3,2,83,0
 4879719,82904,Michael,Glen Park,37.73708,-122.43535,Entire home/apt,325,3,6,1,0,5
 5849626,7221947,Tiffany,Western Addition,37.77617,-122.44376,Entire home/apt,240,3,226,1,0,0
 4880988,878114,Audrey,Castro/Upper Market,37.75892,-122.43691,Entire home/apt,126,30,6,1,0,0
@@ -789,8 +751,6 @@
 5978964,31039935,Tammy,Excelsior,37.72862,-122.42703,Private room,75,2,175,1,76,19
 6523507,6777981,Sebastian,Noe Valley,37.74788,-122.43625,Entire home/apt,275,4,165,1,332,27
 6526129,2971941,Amy,Pacific Heights,37.79002,-122.43503,Entire home/apt,146,30,1,1,0,0
-4949779,96655,Maryam,Noe Valley,37.75384,-122.44114,Private room,125,60,46,2,214,1
-6526344,11053358,Jared,Mission,37.76314,-122.42136,Private room,50,60,2,1,0,0
 6557736,33948993,Paul,Outer Sunset,37.74834,-122.4921,Private room,61,1,425,3,135,42
 4959980,25419840,Tali,Outer Sunset,37.75394,-122.48475,Entire home/apt,155,2,447,1,42,48
 6600081,75978,Del,Mission,37.75254,-122.40497,Private room,92,3,325,3,172,38
@@ -865,12 +825,9 @@
 7958214,6346492,Dana,Downtown/Civic Center,37.78662,-122.40972,Private room,180,2,12,29,0,0
 7958278,6346492,Dana,Downtown/Civic Center,37.78851,-122.40911,Private room,180,2,7,29,0,0
 7958316,6346492,Dana,Downtown/Civic Center,37.78728,-122.41092,Private room,180,2,6,29,0,0
-6878780,1781314,James,Noe Valley,37.74748,-122.43773,Entire home/apt,178,366,15,1,0,0
-7068804,3248180,Sally,Ocean View,37.7253,-122.46807,Private room,80,60,204,1,89,0
 6883183,23593310,Meimei,Downtown/Civic Center,37.78729,-122.40928,Hotel room,250,2,34,1,155,0
 7958349,6346492,Dana,Downtown/Civic Center,37.78673,-122.41133,Private room,180,2,9,29,0,0
 7963103,22267033,Jennifer,Downtown/Civic Center,37.78879,-122.41111,Entire home/apt,306,2,15,19,359,0
-7072662,4186016,Nathan,Haight Ashbury,37.77429,-122.43781,Entire home/apt,132,90,6,1,0,0
 8653346,31380175,Mike,Western Addition,37.77159,-122.43103,Entire home/apt,245,2,33,1,0,5
 7073115,11609628,Isaac,Lakeshore,37.73256,-122.49149,Private room,89,2,329,2,0,45
 8684508,17042045,The Bartlett,Downtown/Civic Center,37.78702,-122.40959,Private room,89,1,105,46,66,2
@@ -946,7 +903,6 @@
 8207665,10394065,Carol,Outer Richmond,37.77681,-122.481,Entire home/apt,141,1,194,2,116,20
 9051149,47224934,Elmer,Western Addition,37.77133,-122.43612,Private room,109,1,724,1,247,73
 9063798,235023271,Franc,Western Addition,37.77077,-122.43501,Private room,150,1,347,3,310,90
-8208052,43282341,Linda,Western Addition,37.78376,-122.4234,Entire home/apt,125,60,14,1,245,1
 7459988,1188065,Good Life Resorts,South of Market,37.78712,-122.39087,Entire home/apt,149,30,13,1,137,1
 8221207,42995477,Tietjen,Bernal Heights,37.73964,-122.41522,Private room,85,30,120,1,89,2
 8255072,32206317,Larry,Bayview,37.7359,-122.38547,Private room,105,2,140,1,330,12
@@ -1005,7 +961,6 @@
 7764531,4202870,Jinsoo,Castro/Upper Market,37.76679,-122.43315,Entire home/apt,355,2,88,1,32,23
 9293284,48249770,Kathy,Russian Hill,37.80213,-122.41516,Entire home/apt,165,30,0,1,83,0
 7785897,40970701,Karla,Bayview,37.72013,-122.39822,Entire home/apt,68,1,74,1,104,5
-8556635,45040916,Alan,Bernal Heights,37.73915,-122.40851,Entire home/apt,250,90,6,4,32,0
 7808104,41102404,Nat,Mission,37.76016,-122.42225,Entire home/apt,300,3,46,1,10,5
 8565105,17042045,The Bartlett,Downtown/Civic Center,37.78749,-122.40976,Private room,89,1,95,46,69,1
 8565153,17042045,The Bartlett,Downtown/Civic Center,37.78747,-122.40821,Private room,89,1,92,46,64,3
@@ -1027,7 +982,6 @@
 9433478,48895257,Rad,Nob Hill,37.79603,-122.41259,Entire home/apt,145,30,7,1,274,2
 9924449,744614,Michel,Mission,37.7572,-122.40871,Entire home/apt,245,3,92,2,186,18
 9463113,23719876,Yumi,Inner Richmond,37.78246,-122.47408,Private room,80,30,1,25,340,0
-9949873,45040916,Alan,Bernal Heights,37.74081,-122.40941,Private room,80,90,13,4,0,0
 9971053,9630766,Clint,South of Market,37.77631,-122.41081,Entire home/apt,150,30,35,1,255,3
 10832295,1745806,Andrew,Haight Ashbury,37.77291,-122.45231,Entire home/apt,450,5,26,1,164,10
 9477823,44679401,Alek,Lakeshore,37.73352,-122.48224,Private room,83,2,182,1,85,14
@@ -1056,7 +1010,6 @@
 9650878,235023271,Franc,Western Addition,37.77194,-122.43583,Private room,199,1,422,3,359,78
 10864914,46596909,Nadya,Noe Valley,37.74547,-122.42524,Entire home/apt,170,30,16,1,118,3
 10088395,42138725,Stephen,Castro/Upper Market,37.76095,-122.42958,Private room,200,2,223,1,88,21
-10864966,26859460,Eliana,Mission,37.75023,-122.41527,Entire home/apt,145,90,2,1,119,2
 9695480,21199285,Anthony,Parkside,37.74793,-122.47477,Entire home/apt,446,2,331,1,143,34
 10099733,51659350,Wes,Downtown/Civic Center,37.78964,-122.40968,Private room,100,5,106,4,137,26
 10103881,23918094,Nadine,South of Market,37.78402,-122.39853,Entire home/apt,295,30,18,2,284,1
@@ -1071,7 +1024,6 @@
 10137578,52025286,Christian,Bernal Heights,37.73628,-122.41252,Private room,85,2,284,1,357,18
 10897864,56475702,Russ,Marina,37.79938,-122.43899,Entire home/apt,125,30,56,1,352,4
 10149591,47514427,Jeffrey & Susan & Bryce,Downtown/Civic Center,37.77864,-122.42226,Private room,205,2,25,27,11,1
-9735841,44134050,Olivier,Excelsior,37.72013,-122.43096,Entire home/apt,110,60,83,2,248,1
 10156101,47514427,Jeffrey & Susan & Bryce,Downtown/Civic Center,37.77921,-122.4223,Private room,342,2,58,27,41,6
 10905721,15259486,Ava,Inner Richmond,37.78262,-122.46797,Entire home/apt,229,2,294,2,115,48
 10162904,9632192,Susan,Castro/Upper Market,37.76595,-122.4304,Entire home/apt,105,30,15,12,281,3
@@ -1083,7 +1035,6 @@
 10227655,52558265,Tim,Inner Richmond,37.78639,-122.47383,Entire home/apt,373,3,54,1,60,10
 10930490,4123854,Devanshu,Bayview,37.71878,-122.39119,Entire home/apt,85,2,128,1,64,0
 10280573,50292803,Bradley,Mission,37.75119,-122.41427,Entire home/apt,195,3,204,1,12,24
-11761292,25037624,Avery,Russian Hill,37.79789,-122.4158,Entire home/apt,175,90,0,2,359,0
 10282326,51659350,Wes,Downtown/Civic Center,37.7892,-122.40955,Private room,189,5,4,4,321,3
 11798814,51966852,Bob,Marina,37.80028,-122.44657,Entire home/apt,200,30,15,2,255,0
 10282371,51659350,Wes,Downtown/Civic Center,37.78773,-122.40768,Private room,225,2,4,4,301,1
@@ -1105,7 +1056,6 @@
 10427768,14001076,Meg,Western Addition,37.77257,-122.42509,Private room,125,2,220,1,131,46
 11948102,63799333,Lisa,Inner Richmond,37.77539,-122.47121,Entire home/apt,350,10,11,1,0,2
 10989099,57430925,Mikey & Mike,Inner Sunset,37.76271,-122.45419,Entire home/apt,110,30,139,1,93,5
-10992778,22649166,La Familia,Russian Hill,37.79997,-122.42223,Entire home/apt,300,365,38,1,363,0
 10431578,12703126,Jeff,Russian Hill,37.80562,-122.41879,Entire home/apt,135,30,12,6,185,3
 10998250,1504399,Skt Teo Melanie,Russian Hill,37.80552,-122.42304,Private room,40,30,97,2,138,1
 10454172,53861511,Pete,Noe Valley,37.74994,-122.44068,Entire home/apt,117,30,14,1,178,4
@@ -1159,11 +1109,9 @@
 12154878,65266850,Jim,Nob Hill,37.79401,-122.42084,Entire home/apt,107,30,108,1,127,4
 12154955,7335923,Allen,Outer Sunset,37.75676,-122.48438,Private room,45,30,1,2,355,0
 10661953,17536951,Rob,Bernal Heights,37.74282,-122.42033,Private room,90,4,149,4,30,12
-11284679,2899585,Sas,Bayview,37.7299,-122.36903,Entire home/apt,250,180,1,1,0,0
 10676501,3751184,Scott,Inner Richmond,37.7789,-122.46139,Private room,120,30,74,1,179,0
 12156553,1154836,Ginger,Noe Valley,37.75207,-122.4302,Entire home/apt,100,30,9,3,365,1
 10681956,55065227,Amal,Outer Sunset,37.76115,-122.49138,Entire home/apt,330,3,84,1,0,1
-11305302,21994,Aaron,Haight Ashbury,37.7658,-122.45223,Private room,58,32,2,13,365,0
 11315222,38292401,Gary,North Beach,37.80375,-122.40876,Entire home/apt,400,30,12,1,0,0
 12169644,9845255,Lynn,South of Market,37.78727,-122.39025,Entire home/apt,315,30,5,1,363,0
 12176844,377744,Scott,North Beach,37.799271,-122.404549,Entire home/apt,450,30,74,2,289,2
@@ -1194,14 +1142,12 @@
 12425557,63158923,Wanda,Inner Richmond,37.77734,-122.47364,Private room,79,30,1,3,89,0
 11439405,9965793,The Twist,Chinatown,37.79102,-122.40698,Entire home/apt,149,30,5,9,0,0
 11439599,9965793,The Twist,Chinatown,37.79102,-122.40698,Entire home/apt,126,30,2,9,85,0
-10789339,4001073,Hosein,Nob Hill,37.79617,-122.41428,Entire home/apt,150,60,83,1,300,1
 11442567,38836,Bernat,Mission,37.76493,-122.40559,Entire home/apt,179,3,277,22,296,45
 11446614,38836,Bernat,Mission,37.76302,-122.41999,Entire home/apt,92,30,15,22,310,0
 12425911,63158923,Wanda,Inner Richmond,37.77912,-122.47184,Private room,80,30,3,3,0,0
 10805884,55782784,Kevin,Chinatown,37.79056,-122.4071,Private room,275,2,7,24,339,1
 10806778,51089417,Frank,Inner Richmond,37.78445,-122.46339,Entire home/apt,120,30,8,2,0,0
 11493791,38836,Bernat,Mission,37.75837,-122.41092,Entire home/apt,114,30,13,22,349,3
-10810544,51089417,Frank,Inner Richmond,37.78445,-122.46313,Entire home/apt,111,180,7,2,0,0
 12429503,67232897,John,Pacific Heights,37.79715,-122.42556,Entire home/apt,175,30,15,2,0,0
 10812630,55983066,Cindy,Outer Richmond,37.77964,-122.48,Entire home/apt,240,30,141,1,365,0
 12432020,4430421,Landmark,Mission,37.76607,-122.41684,Entire home/apt,72,30,5,154,64,1
@@ -1250,7 +1196,6 @@
 14475808,86027378,Ernest,Excelsior,37.72599,-122.41867,Entire home/apt,88,30,78,7,321,4
 12725886,16921530,Debbie,Inner Sunset,37.76459,-122.46495,Private room,126,2,368,1,86,44
 13332858,1700631,Rob,Potrero Hill,37.76427,-122.39312,Entire home/apt,140,30,61,1,174,3
-12750864,49785728,Larry,North Beach,37.80352,-122.40407,Entire home/apt,500,60,1,1,179,0
 12779748,17042045,The Bartlett,Downtown/Civic Center,37.7874,-122.40904,Private room,89,1,93,46,69,0
 14476185,86027378,Ernest,Excelsior,37.72605,-122.4185,Private room,48,30,78,7,341,2
 14487347,17042045,The Bartlett,Downtown/Civic Center,37.78564,-122.40846,Private room,89,1,122,46,49,1
@@ -1265,7 +1210,6 @@
 14490262,6920252,Mary,Potrero Hill,37.75673,-122.40261,Entire home/apt,350,4,122,1,289,24
 14490343,9965793,The Twist,Chinatown,37.79094,-122.40724,Entire home/apt,133,30,0,9,179,0
 13430730,13408956,Kurt & Pedro,Castro/Upper Market,37.76425,-122.44025,Entire home/apt,110,30,28,1,196,5
-14501193,84616048,Suni,Marina,37.80422,-122.4255,Entire home/apt,160,240,0,1,359,0
 14501673,10764661,Carlos & Graciela,Downtown/Civic Center,37.78095,-122.42155,Entire home/apt,41,30,25,4,301,2
 12905538,70717919,Freya,Outer Sunset,37.74867,-122.48958,Entire home/apt,165,1,411,1,58,95
 13443665,10786181,Deborah,Ocean View,37.72131,-122.45217,Entire home/apt,169,30,59,2,339,2
@@ -1329,7 +1273,6 @@
 13788740,2259098,Thuy,Excelsior,37.72433,-122.43216,Entire home/apt,222,30,46,2,28,13
 13806046,81226014,Lynn & Ray,Outer Sunset,37.75814,-122.48835,Private room,120,1,120,4,26,14
 15314587,97565367,Natanya,Nob Hill,37.79455,-122.41029,Entire home/apt,130,30,8,1,243,3
-15327674,5138158,Barbara,Inner Richmond,37.77494,-122.47238,Entire home/apt,195,1125,65,1,179,0
 15330348,97717942,Ping,Diamond Heights,37.74354,-122.44248,Entire home/apt,123,3,387,1,75,20
 14714307,4430421,Landmark,Mission,37.76598,-122.41745,Entire home/apt,104,30,1,154,267,0
 14725307,17042045,The Bartlett,Downtown/Civic Center,37.78685,-122.4097,Private room,89,1,60,46,64,3
@@ -1388,7 +1331,6 @@
 14944663,1243792,Carolyn,Haight Ashbury,37.76299,-122.44985,Entire home/apt,400,4,105,1,199,24
 14983353,94424109,Jonathan,Western Addition,37.7775,-122.43799,Entire home/apt,220,30,38,1,0,0
 14225205,2517689,Michelle,South of Market,37.77311,-122.41649,Entire home/apt,148,30,85,1,0,0
-14988703,94478439,Carole,Potrero Hill,37.76368,-122.39567,Entire home/apt,112,365,52,1,139,3
 15663411,93714995,Hotel,Financial District,37.78999,-122.40495,Private room,121,1,11,15,345,7
 14254787,1617385,Jason,Presidio Heights,37.78725771,-122.4480299,Entire home/apt,212,30,0,1,364,0
 15664146,101134145,Hs,Outer Richmond,37.7827,-122.48822,Entire home/apt,215,30,51,1,0,0
@@ -1499,22 +1441,18 @@
 17405370,20369590,Peter,Russian Hill,37.80604,-122.42302,Entire home/apt,236,3,212,1,35,31
 16529602,35352879,Aaron,Parkside,37.743,-122.4913,Entire home/apt,63,30,12,4,364,6
 16542790,2513762,Trey,Western Addition,37.77359,-122.42441,Private room,53,30,137,3,67,2
-17408466,117716563,Daniel,South of Market,37.77946,-122.39827,Entire home/apt,105,90,14,1,225,3
 16162625,93714995,Hotel,Financial District,37.78931,-122.40588,Private room,121,1,282,15,352,29
 16173016,105578739,Elizabeth,Mission,37.76026,-122.40728,Entire home/apt,298,1,345,1,241,77
 16176101,93714995,Hotel,Financial District,37.78931,-122.40588,Private room,133,1,224,15,333,22
 16556338,8676376,Herbert,Excelsior,37.72546,-122.4202,Private room,89,30,138,5,182,0
 17408793,45156079,Peter,Outer Sunset,37.75746,-122.4863,Entire home/apt,146,2,430,1,71,70
 16560870,46593391,Steve,Western Addition,37.76969,-122.42818,Entire home/apt,125,30,3,1,179,0
-17419327,115849,Hiromi,Downtown/Civic Center,37.7877,-122.41211,Private room,70,32,28,12,89,2
 16569308,3843691,Amber,Pacific Heights,37.79161,-122.4368,Entire home/apt,500,30,8,2,364,0
-17419803,115849,Hiromi,Downtown/Civic Center,37.7877,-122.41211,Private room,63,32,15,12,80,0
 16178751,3470491,Andrew,Mission,37.75853,-122.41971,Entire home/apt,200,2,43,1,0,13
 16179065,3817487,Bruce/Keith -,Noe Valley,37.75375,-122.43739,Entire home/apt,127,30,40,1,355,3
 16570444,3843691,Amber,Western Addition,37.78418,-122.43768,Private room,200,30,6,2,179,0
 16570521,21303289,Eugenia And Alessandro,Seacliff,37.78732,-122.49336,Private room,169,2,129,1,154,45
 16190202,105724944,Aiden,Bernal Heights,37.74684,-122.40721,Entire home/apt,85,30,45,1,365,4
-17420087,115849,Hiromi,Downtown/Civic Center,37.7877,-122.41211,Private room,63,32,41,12,89,3
 16649876,48785800,Dawn,Outer Mission,37.73093,-122.4525,Entire home/apt,175,1,236,1,163,40
 17421876,61184414,Marina,Excelsior,37.71641,-122.4364,Entire home/apt,106,2,223,2,64,39
 16204265,1291823,Koncha,Mission,37.76156,-122.42059,Private room,126,1,523,3,303,84
@@ -1532,10 +1470,8 @@
 18209966,3273603,Donna,Western Addition,37.77378,-122.4245,Entire home/apt,178,1,177,2,46,34
 16710475,14818517,Aliah,Potrero Hill,37.75959,-122.39714,Private room,132,2,133,1,147,33
 17444964,34675376,Karen,Noe Valley,37.75275,-122.4412,Entire home/apt,425,2,145,1,56,29
-16738680,111017451,Rick,North Beach,37.80285,-122.40696,Entire home/apt,146,365,1,1,364,0
 17445405,40297300,MightyIgor,Bayview,37.72738,-122.372,Private room,52,30,200,1,364,21
 18212346,125735523,Diane,Inner Richmond,37.78201,-122.47841,Entire home/apt,425,3,3,1,0,0
-16745600,11417078,David,Downtown/Civic Center,37.78526,-122.41517,Entire home/apt,65,80,2,4,274,1
 16778737,35352879,Aaron,Parkside,37.74289,-122.49003,Private room,66,30,7,4,65,0
 16779057,35352879,Aaron,Parkside,37.74455,-122.48995,Entire home/apt,58,30,12,4,152,3
 18221524,5529529,Ida,Nob Hill,37.79017,-122.41397,Entire home/apt,85,30,9,1,0,0
@@ -1555,7 +1491,6 @@
 18291265,5254975,Angela,Parkside,37.73823,-122.48479,Private room,112,2,135,1,179,32
 16872797,32363478,Marie,Diamond Heights,37.74569,-122.44739,Private room,120,30,313,1,268,0
 18328333,8145777,Michael,South of Market,37.77737,-122.40398,Entire home/apt,140,30,7,7,336,2
-18333674,115849,Hiromi,Downtown/Civic Center,37.7877,-122.41211,Private room,70,32,11,12,89,1
 17570252,1483268,Sari,Castro/Upper Market,37.7575,-122.43347,Entire home/apt,125,30,5,1,41,0
 17585947,836116,Elizabeth,Outer Richmond,37.77726,-122.499298,Entire home/apt,265,3,202,2,107,30
 16900525,4225463,Scott,Mission,37.75489,-122.42066,Entire home/apt,262,2,67,1,13,16
@@ -1577,12 +1512,10 @@
 17626794,23719876,Yumi,Nob Hill,37.79092,-122.42124,Private room,76,30,11,25,248,3
 18359884,9483729,Gonzalo,Castro/Upper Market,37.76697,-122.4391,Entire home/apt,314,30,48,1,173,0
 16972383,100390518,Herbert,Downtown/Civic Center,37.78679,-122.40748,Private room,75,1,71,19,38,8
-16987679,115849,Hiromi,Downtown/Civic Center,37.7877,-122.41211,Private room,70,32,44,12,89,2
 18450146,4624326,Peter,Inner Sunset,37.75701,-122.47221,Entire home/apt,175,3,193,1,3,25
 17626927,23719876,Yumi,Nob Hill,37.79181,-122.41943,Private room,90,30,2,25,234,1
 17011295,103884979,Rams,South of Market,37.77628,-122.41507,Private room,90,1,107,14,198,33
 17642091,6641931,Audrey,Bernal Heights,37.74503,-122.41992,Entire home/apt,99,2,216,1,31,36
-17016281,115849,Hiromi,Downtown/Civic Center,37.7877,-122.41211,Private room,73,32,42,12,81,1
 17642620,23719876,Yumi,Nob Hill,37.79193,-122.42138,Private room,76,30,3,25,233,2
 18450289,124237,Griffin And Caitlyn,Mission,37.76779,-122.42107,Entire home/apt,243,3,5,1,0,0
 18459919,85132,Sanford,Chinatown,37.79101,-122.40616,Private room,391,2,7,15,364,1
@@ -1655,7 +1588,6 @@
 17944621,117141107,Zarinah,Haight Ashbury,37.76944,-122.44992,Private room,100,1,58,43,0,0
 18571224,128940936,Perry And Barbara,Outer Sunset,37.75834,-122.50591,Entire home/apt,103,30,2,1,229,2
 19163190,134008463,Diane,Bernal Heights,37.73445,-122.41832,Entire home/apt,375,4,5,1,0,0
-18582383,2721813,Robert,Noe Valley,37.7537,-122.43341,Entire home/apt,115,90,40,1,169,1
 17965243,96309245,Gene,Outer Sunset,37.75175,-122.50419,Entire home/apt,284,2,301,1,44,50
 19175066,38836,Bernat,Mission,37.76296,-122.42,Entire home/apt,92,30,17,22,326,2
 17979286,7198062,Georgina,West of Twin Peaks,37.73333,-122.45911,Entire home/apt,160,2,234,1,347,43
@@ -1672,7 +1604,6 @@
 19285250,21196676,Craig,Mission,37.74816,-122.42419,Private room,80,1,96,4,146,1
 18615032,9314255,Rudy,Castro/Upper Market,37.76454,-122.43476,Entire home/apt,177,2,287,1,30,77
 19307356,1264413,Denis,Parkside,37.74838,-122.47307,Entire home/apt,349,6,14,1,153,2
-18655682,129640793,Eden,Mission,37.76596,-122.41859,Entire home/apt,111,45,1,1,213,1
 18026337,8572404,Ashley,Ocean View,37.71455,-122.46908,Entire home/apt,80,1,47,1,39,42
 19309607,9082631,Jorge,Western Addition,37.77097,-122.43218,Entire home/apt,260,30,12,1,364,0
 18059324,23719876,Yumi,Nob Hill,37.79172,-122.41912,Private room,60,30,11,25,200,5
@@ -1682,7 +1613,6 @@
 19331975,135420210,Spencer,Ocean View,37.72002,-122.45248,Private room,105,1,340,1,262,39
 18735080,231825,Lisa,Russian Hill,37.80219,-122.4158,Entire home/apt,145,30,0,1,179,0
 18738360,114601830,Vasily,Outer Sunset,37.76358,-122.49363,Entire home/apt,80,30,29,2,265,4
-18069283,27357569,James,Bayview,37.70987,-122.38867,Private room,131,60,4,1,0,0
 18111498,124779213,Nada,Bayview,37.73791,-122.39041,Entire home/apt,100,2,80,1,162,29
 19332338,75323230,Joe,Nob Hill,37.79142,-122.41726,Entire home/apt,440,30,125,2,178,22
 19363609,9109983,Geoffrey,Outer Mission,37.72268,-122.44016,Private room,86,30,42,4,277,0
@@ -1699,7 +1629,6 @@
 18810290,129618781,Eileen,Inner Sunset,37.76059,-122.47674,Entire home/apt,185,5,134,1,54,25
 20096735,38307539,Tess,Western Addition,37.77349,-122.4333,Entire home/apt,119,30,4,1,0,0
 19403989,135377800,Margaret,Outer Sunset,37.75486,-122.47669,Private room,85,2,274,2,157,39
-20121985,10624127,Bed|N|Build,Nob Hill,37.79234,-122.41965,Private room,47,365,2,5,0,0
 19404355,2694941,Jd,Marina,37.80099,-122.44509,Entire home/apt,346,3,136,1,140,23
 19404978,135377800,Margaret,Outer Sunset,37.75433,-122.47838,Private room,85,2,183,2,166,30
 20155822,143421880,John & Andrea,Nob Hill,37.79418,-122.41437,Entire home/apt,150,30,42,1,81,3
@@ -1758,20 +1687,16 @@
 20331804,17536951,Rob,Bernal Heights,37.74305,-122.4213,Private room,85,4,32,4,0,0
 19626323,136131559,Cindy And Michelle,Outer Sunset,37.76488,-122.47843,Private room,70,30,114,5,64,1
 19637695,87315309,Noemi,Mission,37.75524,-122.42525,Private room,65,30,0,2,0,0
-20335923,10624127,Bed|N|Build,Nob Hill,37.79234,-122.41965,Private room,47,365,2,5,0,0
 19012658,87315309,Noemi,Noe Valley,37.75568,-122.42606,Private room,57,30,5,2,0,0
 19642407,66385869,Bobby,Outer Mission,37.72648,-122.44162,Private room,69,30,5,6,0,0
-20355620,45040916,Alan,Bernal Heights,37.74204,-122.40837,Private room,113,90,1,4,179,0
 19659835,106841643,Glen,Castro/Upper Market,37.75909,-122.43719,Entire home/apt,165,30,18,1,125,4
 19014320,49354377,Tyrisha,Mission,37.75213,-122.4129,Entire home/apt,73,30,111,2,202,6
 19014669,11166165,Andrew,Castro/Upper Market,37.76688,-122.43418,Entire home/apt,349,30,14,3,160,1
 19680922,12703126,Jeff,Chinatown,37.79294,-122.40806,Entire home/apt,105,30,13,6,151,1
 20361588,104809788,Elyssa,West of Twin Peaks,37.72667,-122.46094,Entire home/apt,189,3,164,1,39,21
-20361695,3130819,Shana,Marina,37.80078,-122.43121,Entire home/apt,275,90,1,2,340,0
 19714276,870172,Vika,Nob Hill,37.79528,-122.41884,Entire home/apt,144,30,13,2,175,3
 20367610,35433848,Je & Derren,Outer Sunset,37.74727,-122.47896,Private room,40,30,87,1,57,3
 19023994,38836,Bernat,South of Market,37.78037,-122.40999,Entire home/apt,86,30,5,22,0,0
-19026673,21994,Aaron,Haight Ashbury,37.7658,-122.45223,Private room,65,32,1,13,365,1
 19029310,6683937,Amit,South of Market,37.78074,-122.411,Private room,64,1,235,3,237,234
 19721174,139005195,Virginia,Western Addition,37.77494,-122.42638,Entire home/apt,450,2,202,1,159,44
 20990790,10573197,Beverly,Outer Richmond,37.77498,-122.50132,Entire home/apt,375,3,23,1,234,17
@@ -1793,7 +1718,6 @@
 21024486,8801754,Erin,Western Addition,37.78716,-122.44261,Private room,80,30,3,1,0,0
 21026079,117141107,Zarinah,Haight Ashbury,37.76944,-122.44992,Private room,100,1,65,43,0,0
 21026891,117141107,Zarinah,Haight Ashbury,37.76944,-122.44992,Shared room,50,1,85,43,0,0
-19813606,17902034,Vijay,Pacific Heights,37.79474,-122.42656,Entire home/apt,115,1000,5,1,0,0
 19827923,4430421,Landmark,Downtown/Civic Center,37.7842,-122.41518,Entire home/apt,91,30,9,154,177,3
 21026964,117141107,Zarinah,Haight Ashbury,37.76944,-122.44992,Shared room,50,1,74,43,0,0
 20488889,38836,Bernat,Bernal Heights,37.73566,-122.41317,Entire home/apt,88,30,7,22,89,1
@@ -1826,10 +1750,8 @@
 19954872,127638239,Ching Ho,Inner Richmond,37.78369,-122.46364,Private room,76,2,303,5,165,53
 20575733,136131559,Cindy And Michelle,Outer Sunset,37.76309,-122.48022,Private room,60,30,114,5,79,8
 20576493,77596452,Lily,Outer Richmond,37.77628,-122.49414,Entire home/apt,173,1,132,2,224,62
-21098885,38196024,Kanan,South of Market,37.78671,-122.38976,Entire home/apt,175,90,0,1,359,0
 21110366,4430421,Landmark,Mission,37.76426,-122.41723,Entire home/apt,90,30,5,154,152,1
 21111630,100586872,Mary Gaineng,Chinatown,37.79187,-122.40679,Private room,123,1,375,4,321,94
-20002651,10624127,Bed|N|Build,Nob Hill,37.79234,-122.41965,Private room,50,365,3,5,0,0
 20032338,13926160,Wendy,Visitacion Valley,37.7211,-122.40166,Entire home/apt,125,2,1,1,341,0
 21113266,2275870,Martina,Outer Mission,37.72531,-122.43926,Private room,275,1,227,3,166,17
 21125429,149725836,Liz And Luis,Inner Richmond,37.78706,-122.4644,Entire home/apt,210,2,93,1,313,27
@@ -1841,17 +1763,14 @@
 20608608,13615078,Amber,Glen Park,37.7353,-122.43792,Entire home/apt,250,30,2,1,263,0
 21136811,22718824,Jen,Inner Richmond,37.77707,-122.46633,Private room,151,2,102,2,85,21
 20093004,21899719,Terrance,Western Addition,37.77768,-122.4365,Entire home/apt,485,30,28,1,0,0
-21591945,21994,Aaron,Inner Sunset,37.76439,-122.45545,Private room,60,32,0,13,148,0
 21165478,758670,Donna,Haight Ashbury,37.77635,-122.44205,Entire home/apt,235,4,63,1,185,11
-21592081,21994,Aaron,Inner Sunset,37.76444,-122.45559,Private room,60,32,4,13,365,3
 21186680,152997097,James And Kim,Western Addition,37.77403,-122.42561,Entire home/apt,395,3,33,2,99,5
 20663782,18197535,Vicki,Marina,37.80077,-122.42981,Entire home/apt,261,30,14,1,206,3
-20664630,143561049,Adrian,Western Addition,37.77058,-122.42743,Entire home/apt,180,180,0,1,364,0
 21594483,157059672,Vasily,Outer Sunset,37.76383,-122.4955,Entire home/apt,88,30,160,2,66,5
 20695687,9054077,Tyler,Bernal Heights,37.74774,-122.40776,Private room,150,2,272,1,84,29
 21187925,5611653,Jorge,Bayview,37.73452,-122.39793,Entire home/apt,149,1,235,2,155,38
 21596397,4718164,Serena Leilani,Potrero Hill,37.75644,-122.40096,Entire home/apt,125,2,250,1,292,59
-20696391,6392096,Nicøle,Noe Valley,37.74436,-122.4323,Entire home/apt,99,30,23,1,68,6
+20696391,6392096,Nic�le,Noe Valley,37.74436,-122.4323,Entire home/apt,99,30,23,1,68,6
 21610333,4430421,Landmark,Downtown/Civic Center,37.78618,-122.41453,Entire home/apt,89,30,1,154,177,1
 20696918,26700102,Hebert,Crocker Amazon,37.71416,-122.44118,Private room,94,2,58,1,0,0
 20724784,148406261,Charles,North Beach,37.80254,-122.407,Private room,350,30,0,1,0,0
@@ -1886,7 +1805,6 @@
 21253864,1282404,Michelle,Ocean View,37.72133,-122.46872,Private room,40,30,4,2,123,1
 20847212,126644773,Evolve,Haight Ashbury,37.77382,-122.44677,Entire home/apt,300,7,16,6,253,6
 21645603,153797883,Phyllis,Mission,37.76268,-122.42029,Entire home/apt,249,5,189,3,246,22
-20851055,149639732,Sammi,Financial District,37.7915,-122.39595,Entire home/apt,199,90,11,1,0,0
 21279515,4430421,Landmark,Downtown/Civic Center,37.78599,-122.41465,Entire home/apt,101,30,0,154,138,0
 21648684,156943235,Jay,Bayview,37.72877,-122.39519,Entire home/apt,250,30,6,1,0,0
 21279801,24949158,Angela,Bernal Heights,37.74613,-122.41778,Entire home/apt,278,3,5,2,17,2
@@ -1932,13 +1850,10 @@
 22375226,2253513,Scott,Castro/Upper Market,37.76091,-122.43486,Entire home/apt,450,3,67,2,0,11
 21370662,115841608,Florian,Castro/Upper Market,37.76033,-122.43142,Entire home/apt,169,3,181,1,62,46
 21773131,4856574,Jeff,Mission,37.75739,-122.41297,Private room,56,30,5,7,29,0
-21784407,115849,Hiromi,Downtown/Civic Center,37.78775,-122.41204,Private room,73,32,6,12,59,2
 21377089,30784700,David,Western Addition,37.77633,-122.44402,Entire home/apt,175,30,12,1,174,3
-21785138,115849,Hiromi,Downtown/Civic Center,37.78775,-122.41204,Private room,63,32,16,12,89,3
 21377843,24157036,Angela,North Beach,37.79977,-122.40504,Entire home/apt,237,30,5,4,365,1
 22389574,134577004,David,Mission,37.75898,-122.42193,Shared room,500,3,3,2,343,2
 22396454,1257432,San Francisco Life Real Estate,Downtown/Civic Center,37.77512,-122.42004,Entire home/apt,115,30,10,28,232,4
-21785328,115849,Hiromi,Downtown/Civic Center,37.78775,-122.41204,Private room,70,32,39,12,57,2
 21786174,4430421,Landmark,Downtown/Civic Center,37.786,-122.41121,Entire home/apt,79,30,9,154,177,4
 21796486,4856574,Jeff,Mission,37.7589,-122.41459,Private room,65,30,6,7,53,0
 21798246,4430421,Landmark,Downtown/Civic Center,37.78597,-122.41036,Entire home/apt,81,30,2,154,142,1
@@ -1958,7 +1873,7 @@
 22435235,102598592,Luke,Castro/Upper Market,37.7657,-122.43372,Entire home/apt,485,30,0,1,0,0
 22453044,4430421,Landmark,Downtown/Civic Center,37.78559,-122.41654,Entire home/apt,83,30,1,154,177,1
 21880287,963387,Michael,Mission,37.75443,-122.41732,Private room,75,30,106,1,206,0
-22469468,10267172,Cédric & Jun,Visitacion Valley,37.72354,-122.40393,Private room,89,2,259,4,41,25
+22469468,10267172,C�dric & Jun,Visitacion Valley,37.72354,-122.40393,Private room,89,2,259,4,41,25
 21440528,155486904,Rosa,Bernal Heights,37.74735,-122.41016,Entire home/apt,160,30,39,1,137,4
 21897971,46740514,Freddi,Mission,37.75229,-122.41338,Private room,95,30,19,1,179,4
 21449226,117141107,Zarinah,Haight Ashbury,37.76944,-122.44992,Private room,100,1,49,43,0,0
@@ -1966,7 +1881,6 @@
 22483206,84011857,Preston,Castro/Upper Market,37.75807,-122.44195,Entire home/apt,327,3,24,2,261,13
 22495406,3138116,Jay & Kevin,Castro/Upper Market,37.76393,-122.42817,Private room,109,6,29,2,0,2
 21919621,47514427,Jeffrey & Susan & Bryce,Downtown/Civic Center,37.78784,-122.41036,Private room,320,2,31,27,111,1
-22507343,1272604,David,Castro/Upper Market,37.75923,-122.44279,Entire home/apt,400,120,0,1,365,0
 21923877,93427,Perry,West of Twin Peaks,37.72718,-122.46102,Entire home/apt,100,30,0,1,365,0
 22507454,150732464,Salman,Nob Hill,37.79574,-122.41739,Entire home/apt,99,30,6,7,278,2
 21924375,19312731,Ida,Castro/Upper Market,37.76157,-122.44001,Private room,99,30,10,1,173,1
@@ -1982,7 +1896,6 @@
 22532009,158469625,Jinza,Twin Peaks,37.75204,-122.45008,Entire home/apt,281,3,199,1,209,34
 21514950,156337070,Paul,Inner Richmond,37.7805,-122.47071,Entire home/apt,360,30,29,1,153,3
 21526852,156446034,Guadalupe,Mission,37.75749,-122.41137,Entire home/apt,196,30,26,1,0,0
-21981639,20818179,Dave,Outer Sunset,37.76256,-122.50537,Entire home/apt,165,90,1,3,293,0
 22001836,158369175,Ejlam,Marina,37.80152,-122.42526,Private room,82,30,4,5,179,2
 21529297,15293495,Charlie,Western Addition,37.77408,-122.4306,Private room,75,5,191,2,32,31
 21530578,15293495,Charlie,Western Addition,37.77401,-122.43051,Private room,65,4,138,2,54,6
@@ -2003,7 +1916,6 @@
 22032438,91333416,Jan,Western Addition,37.77566,-122.43099,Entire home/apt,130,30,7,25,347,3
 22032808,91333416,Jan,Pacific Heights,37.79062,-122.43428,Entire home/apt,90,30,3,25,346,1
 21583195,47514427,Jeffrey & Susan & Bryce,Downtown/Civic Center,37.77864,-122.42226,Entire home/apt,205,2,116,27,34,17
-22565419,165836221,Leslie,South of Market,37.77795,-122.39628,Entire home/apt,175,62,8,1,219,0
 22032836,91333416,Jan,Pacific Heights,37.79183,-122.43624,Entire home/apt,90,30,2,25,286,1
 21584555,9541214,Julian,Western Addition,37.77652,-122.43148,Private room,142,1,169,2,26,12
 22047367,4430421,Landmark,Downtown/Civic Center,37.78612,-122.41649,Entire home/apt,85,30,1,154,177,0
@@ -2047,7 +1959,6 @@
 22265031,1892430,Jan,Inner Sunset,37.76411,-122.4618,Entire home/apt,90,30,1,29,309,0
 23209264,23741447,Linda,Bayview,37.73304,-122.38619,Entire home/apt,106,1,339,2,69,83
 22277766,5822506,Kelly + Ivan,Excelsior,37.71603,-122.43722,Entire home/apt,195,30,11,1,0,0
-23215586,172659027,Bina,South of Market,37.76968,-122.38952,Entire home/apt,300,183,0,1,0,0
 23217998,2711732,Keith,Castro/Upper Market,37.76078,-122.43386,Private room,93,1,110,4,342,36
 22702846,4430421,Landmark,Downtown/Civic Center,37.78424,-122.41621,Entire home/apt,89,30,2,154,152,1
 22328157,163243187,Bryan,Castro/Upper Market,37.76221,-122.44159,Entire home/apt,337,3,71,2,248,24
@@ -2060,14 +1971,12 @@
 23222043,9632192,Susan,Western Addition,37.77317,-122.42439,Entire home/apt,110,30,13,12,340,4
 23240184,170765678,Rachel,Outer Mission,37.71285,-122.45034,Private room,94,2,204,2,358,27
 22715454,167574089,Aileen,Outer Sunset,37.76118,-122.50104,Entire home/apt,275,2,57,1,23,9
-23453660,46519368,Kenny,Chinatown,37.79596,-122.40953,Private room,63,365,10,8,365,1
 22718099,167608343,Alice,Outer Sunset,37.75932,-122.49847,Entire home/apt,138,3,196,1,247,47
 23453808,174981520,Earl,Inner Richmond,37.77459,-122.46735,Private room,114,2,114,3,360,26
 23271377,173206762,Stratford,Downtown/Civic Center,37.78669,-122.40882,Hotel room,119,1,8,61,284,1
 22737945,158369175,Ejlam,Russian Hill,37.80217,-122.4233,Private room,93,30,5,5,365,1
 22738026,158369175,Ejlam,Russian Hill,37.80126,-122.42316,Private room,120,30,10,5,365,3
 22748621,9632192,Susan,Western Addition,37.77248,-122.4252,Entire home/apt,108,30,4,12,333,3
-23470169,77013822,Carol,Inner Sunset,37.75878,-122.4758,Entire home/apt,167,60,1,1,364,0
 23470327,832651,Beatrice,Lakeshore,37.73539,-122.48234,Entire home/apt,150,1,18,1,347,18
 23504233,147265814,Courtney,Haight Ashbury,37.76645,-122.44487,Entire home/apt,82,30,25,1,40,6
 23292883,173206762,Stratford,Downtown/Civic Center,37.78788,-122.40713,Private room,119,1,14,61,284,6
@@ -2198,8 +2107,6 @@
 23686364,64646820,Michelle,Western Addition,37.77781,-122.42346,Private room,159,3,33,38,10,4
 24038598,61330172,Tamara,Ocean View,37.71531,-122.46417,Shared room,195,30,0,1,89,0
 23699151,64646820,Michelle,Downtown/Civic Center,37.78756,-122.40936,Private room,177,1,16,38,0,0
-24043927,10876114,Ranny,Castro/Upper Market,37.76378,-122.42925,Entire home/apt,150,32,10,1,218,3
-24994118,10624127,Bed|N|Build,Nob Hill,37.7924,-122.41952,Private room,47,365,1,5,0,0
 23700802,177152067,Irene,Outer Sunset,37.76299,-122.49784,Entire home/apt,399,1,45,1,176,10
 25027248,4430421,Landmark,Downtown/Civic Center,37.78467,-122.41474,Entire home/apt,81,30,1,154,179,0
 24065926,70722023,Michael,Downtown/Civic Center,37.78979,-122.40907,Entire home/apt,95,2,36,41,0,3
@@ -2221,7 +2128,6 @@
 23788672,1892430,Jan,Haight Ashbury,37.76437,-122.45183,Entire home/apt,127,30,2,29,340,0
 24129914,33068864,Leslie,Western Addition,37.78779,-122.42682,Entire home/apt,149,30,105,1,271,5
 23789066,1892430,Jan,Inner Sunset,37.76226,-122.45215,Entire home/apt,90,30,5,29,365,0
-25237201,1462572,Parker,Mission,37.74969,-122.42195,Entire home/apt,110,145,13,1,184,0
 23803703,131200418,Lois,Parkside,37.74334,-122.47579,Private room,54,30,8,25,176,2
 25238517,988375,Jennifer,Bernal Heights,37.73482,-122.41677,Entire home/apt,250,30,0,14,0,0
 24149977,2623502,Cindy,Parkside,37.74314,-122.5057,Entire home/apt,119,2,231,1,80,42
@@ -2275,7 +2181,6 @@
 26252354,107434423,Blueground,Nob Hill,37.790598,-122.410225,Entire home/apt,267,31,0,138,90,0
 25419563,28190541,Stephanie,Ocean View,37.71905,-122.44985,Entire home/apt,104,3,246,1,227,49
 26259702,183605554,Annette,Lakeshore,37.72987,-122.47288,Entire home/apt,153,2,193,1,241,52
-25422628,6262569,Jacqueline,Financial District,37.79044,-122.39168,Private room,198,60,0,2,364,0
 25432313,188173660,Yijia,Parkside,37.74429,-122.49138,Entire home/apt,83,1,222,3,77,67
 24379811,150525926,Karen,Lakeshore,37.73193,-122.4859,Entire home/apt,145,30,28,1,347,0
 26261610,189949162,Joey,Outer Sunset,37.74944,-122.50557,Private room,89,1,310,6,116,99
@@ -2311,60 +2216,41 @@
 25480815,156365053,Sierra,Russian Hill,37.80201,-122.42338,Entire home/apt,136,30,11,1,305,3
 26309675,2677096,Kevin,Nob Hill,37.79077,-122.41039,Private room,67,30,0,1,0,0
 26322467,131200418,Lois,Parkside,37.74273,-122.47589,Private room,69,30,6,25,269,2
-25554933,46519368,Kenny,Chinatown,37.79732,-122.40967,Private room,59,365,7,8,365,2
 25592607,191314376,Jane,Outer Sunset,37.764572,-122.479607,Private room,68,1,110,4,61,32
 24498877,28779856,Marc,Marina,37.80192,-122.42757,Entire home/apt,392,3,39,1,9,20
 24499851,70722023,Michael,Nob Hill,37.7918,-122.40936,Entire home/apt,95,2,27,41,1,2
 26323995,18474672,Farzad,Twin Peaks,37.74838752,-122.4460079,Entire home/apt,428,4,93,1,121,22
 24513782,159540074,Hewett,Crocker Amazon,37.71143,-122.44436,Private room,85,30,6,5,358,0
 24519748,1892430,Jan,North Beach,37.80427,-122.40738,Entire home/apt,400,30,0,29,364,0
-24538278,185272495,Marcus,Nob Hill,37.79196,-122.41154,Entire home/apt,400,60,6,1,0,0
 25621756,10624702,Karim,South of Market,37.77782,-122.4046,Entire home/apt,155,30,65,1,285,2
 25722729,57315524,Philip,Castro/Upper Market,37.76572,-122.4325,Entire home/apt,400,5,21,1,112,9
 26328350,174981520,Earl,Inner Richmond,37.77507,-122.46685,Private room,106,2,128,3,360,33
 25723504,988375,Jennifer,North Beach,37.80308,-122.4047,Entire home/apt,125,30,1,14,28,0
 25780281,40426550,Kagan,Outer Mission,37.71121,-122.44927,Private room,80,30,1,4,364,0
-24541927,13832870,International,Pacific Heights,37.79425,-122.43074,Entire home/apt,158,90,1,17,337,0
 24542177,64646820,Michelle,Downtown/Civic Center,37.78839,-122.41149,Private room,199,1,30,38,0,0
 26329118,174981520,Earl,Inner Richmond,37.77586,-122.46698,Private room,145,2,148,3,352,33
 24599232,64996654,Van,Twin Peaks,37.75192,-122.45106,Entire home/apt,462,3,109,1,319,25
-25785670,9354894,Ray,South of Market,37.78841,-122.39053,Entire home/apt,185,365,1,4,365,0
 25801232,1257432,San Francisco Life Real Estate,Financial District,37.7891,-122.3995,Entire home/apt,206,30,6,28,317,0
-26334584,141944806,Bed|N|Build #6,Nob Hill,37.7924,-122.41952,Private room,47,365,0,13,0,0
 25808640,46412254,Mehul,Visitacion Valley,37.71957,-122.40414,Entire home/apt,153,2,156,1,58,6
 24626225,6075152,Riccardo,Western Addition,37.78042,-122.43896,Private room,104,31,1,1,0,0
 24651682,29700311,Chopin,Outer Sunset,37.75968,-122.49696,Entire home/apt,120,30,8,1,179,1
 24651782,9292394,Judy,Pacific Heights,37.79355,-122.43529,Entire home/apt,140,30,16,1,151,9
-26334587,141944806,Bed|N|Build #6,Nob Hill,37.7924,-122.41952,Private room,47,365,0,13,0,0
 25842694,57068872,Echo,Visitacion Valley,37.712,-122.39997,Entire home/apt,68,30,23,3,36,1
-26334653,141944806,Bed|N|Build #6,Nob Hill,37.7924,-122.41952,Private room,47,365,0,13,0,0
 25864368,1892430,Jan,Ocean View,37.72187,-122.45456,Entire home/apt,120,30,1,29,249,0
 24654933,4430421,Landmark,Mission,37.75422,-122.42467,Entire home/apt,110,30,5,154,178,2
-26334655,141944806,Bed|N|Build #6,Nob Hill,37.7924,-122.41952,Private room,47,365,0,13,0,0
-26334733,141944806,Bed|N|Build #6,Nob Hill,37.7924,-122.41952,Private room,47,365,0,13,0,0
-26334834,141944806,Bed|N|Build #6,Nob Hill,37.7924,-122.41952,Private room,50,365,0,13,0,0
-26334835,141944806,Bed|N|Build #6,Nob Hill,37.7924,-122.41952,Private room,50,365,0,13,0,0
 24670819,186454974,Young,Haight Ashbury,37.76824,-122.44805,Entire home/apt,193,1,452,1,93,85
 24698383,4430421,Landmark,Downtown/Civic Center,37.78613,-122.41427,Entire home/apt,89,30,3,154,177,0
 25869469,103884979,Rams,South of Market,37.77628,-122.41507,Private room,77,1,62,14,155,33
-26334895,141944806,Bed|N|Build #6,Nob Hill,37.7924,-122.41952,Private room,50,365,0,13,0,0
-26334899,141944806,Bed|N|Build #6,Nob Hill,37.7924,-122.41952,Private room,50,365,0,13,0,0
-26334945,141944806,Bed|N|Build #6,Nob Hill,37.7924,-122.41952,Private room,47,365,1,13,0,0
-26334949,141944806,Bed|N|Build #6,Nob Hill,37.7924,-122.41952,Private room,50,365,1,13,0,0
 25892426,14482816,Julie,Outer Sunset,37.75577,-122.49127,Entire home/apt,285,30,5,1,77,3
-26335031,141944806,Bed|N|Build #6,Nob Hill,37.7924,-122.41952,Private room,50,365,0,13,0,0
 25907508,31607663,Ximena,West of Twin Peaks,37.72449,-122.45722,Private room,100,30,5,2,58,2
 25912297,11883320,Kim,Inner Richmond,37.77987,-122.45341,Entire home/apt,235,30,10,1,365,2
 24722081,39863074,Linda,Western Addition,37.78686,-122.43863,Entire home/apt,155,30,16,1,250,4
-26335033,141944806,Bed|N|Build #6,Nob Hill,37.7924,-122.41952,Private room,50,365,0,13,0,0
 26336274,47514427,Jeffrey & Susan & Bryce,Downtown/Civic Center,37.77791,-122.42302,Private room,205,2,16,27,149,0
 25948779,48589875,Ut,Financial District,37.78924,-122.39584,Private room,235,30,4,1,364,0
 26385989,1120983,Heather,Outer Sunset,37.746,-122.49796,Entire home/apt,164,3,173,1,122,27
 26004362,20767323,Roy & Annie,Inner Sunset,37.76334,-122.4694,Entire home/apt,299,2,52,1,0,15
 26008354,38836,Bernat,Haight Ashbury,37.76589,-122.44677,Entire home/apt,90,30,16,22,321,6
-27407557,115849,Hiromi,Downtown/Civic Center,37.78764,-122.41198,Private room,72,32,9,12,89,4
 26386164,15357626,Susanne,Mission,37.75886,-122.42046,Entire home/apt,289,31,12,1,154,12
-27408911,10699902,Kevin Michelle And Liana,Western Addition,37.77771,-122.42588,Entire home/apt,100,60,7,3,131,3
 26029679,107434423,Blueground,Nob Hill,37.790598,-122.410225,Entire home/apt,225,31,2,138,338,0
 26033791,5929484,Wisam,Castro/Upper Market,37.75621,-122.43847,Entire home/apt,400,30,6,1,192,1
 26035565,38836,Bernat,Haight Ashbury,37.76514,-122.44715,Entire home/apt,104,30,6,22,67,4
@@ -2375,7 +2261,6 @@
 26040040,15259486,Ava,Inner Richmond,37.78259,-122.46941,Entire home/apt,220,30,13,2,243,2
 26468572,62034618,Ting Ting,Outer Sunset,37.76391,-122.47833,Private room,49,30,2,20,364,0
 27491473,4792470,Emilse,Mission,37.7542,-122.41191,Entire home/apt,400,30,19,1,125,3
-26469082,199045796,Mark,Downtown/Civic Center,37.78424631,-122.4098687,Entire home/apt,92,365,0,1,363,0
 27491792,155142713,Hanna,Excelsior,37.72344,-122.43174,Entire home/apt,188,1,141,1,66,18
 28368154,4440278,Emmanuel,Castro/Upper Market,37.76412,-122.43026,Private room,120,30,1,3,269,0
 26519133,9063313,Andrew,North Beach,37.80738,-122.40798,Entire home/apt,249,30,0,1,0,0
@@ -2403,7 +2288,6 @@
 27529992,207656528,Ling,Excelsior,37.73132,-122.41331,Entire home/apt,173,3,252,1,44,51
 26747021,232759,Michael,Noe Valley,37.74639,-122.42864,Entire home/apt,168,2,123,2,217,41
 27530136,200417396,Eugene & Paul,Inner Richmond,37.77998,-122.46814,Entire home/apt,150,30,112,2,87,1
-26785153,201414298,Julie,South of Market,37.78818,-122.38828,Entire home/apt,283,365,5,1,359,0
 28517686,64646820,Michelle,Downtown/Civic Center,37.78689,-122.40982,Private room,220,1,5,38,0,0
 28581080,20762433,Isabelle,Mission,37.74931,-122.42389,Private room,75,30,0,1,0,0
 26787002,144896022,Victor,Bernal Heights,37.74802,-122.41142,Entire home/apt,250,30,0,2,0,0
@@ -2427,7 +2311,6 @@
 27082654,203788591,Nina,Presidio Heights,37.78724,-122.46002,Entire home/apt,136,30,17,1,138,4
 28733771,875221,Jessica,Mission,37.76826,-122.42327,Private room,57,30,54,9,101,5
 28734043,875221,Jessica,Mission,37.76826,-122.42327,Private room,65,30,57,9,49,5
-28755204,32140713,Julia,South of Market,37.77989,-122.4108,Entire home/apt,100,90,5,1,24,1
 27107519,46107941,Patti & Rob,Mission,37.76077,-122.42561,Entire home/apt,324,1,365,4,113,79
 27111574,191621741,Charles,Pacific Heights,37.78977,-122.44664,Entire home/apt,135,30,7,2,339,2
 28784618,20169016,Springer,Pacific Heights,37.7893,-122.44513,Private room,176,3,108,5,276,22
@@ -2469,7 +2352,6 @@
 29242016,4367053,Anna,Marina,37.79906,-122.44642,Entire home/apt,450,30,0,1,328,0
 29243902,2846262,Sergio,Noe Valley,37.75218,-122.44216,Private room,143,1,28,5,138,2
 29254981,5735614,Carolyne,Inner Sunset,37.76056,-122.46738,Entire home/apt,118,30,0,5,89,0
-29261601,46519368,Kenny,Chinatown,37.79721,-122.40988,Private room,63,365,14,8,365,3
 27707954,31764728,Erin,Western Addition,37.77002,-122.43449,Entire home/apt,199,30,41,1,0,0
 29825329,173416916,Van,Inner Sunset,37.76253,-122.454,Entire home/apt,120,30,0,21,267,0
 29825338,173416916,Van,Inner Sunset,37.76284,-122.45229,Entire home/apt,89,30,0,21,87,0
@@ -2503,7 +2385,6 @@
 27828332,107434423,Blueground,South of Market,37.782342,-122.388737,Entire home/apt,271,31,0,138,268,0
 29928078,12362435,Amy,Castro/Upper Market,37.76378,-122.44128,Entire home/apt,495,2,20,1,18,1
 27832283,56398946,Marcia,Outer Richmond,37.77817,-122.50428,Private room,91,2,247,3,267,44
-29486775,58924169,Nahal,Nob Hill,37.79381,-122.4117,Entire home/apt,230,180,0,1,0,0
 29928084,29112772,John,Mission,37.75954,-122.40823,Entire home/apt,150,2,21,2,0,0
 29491521,222115995,Anjanette,Noe Valley,37.74996,-122.42552,Entire home/apt,160,30,8,1,276,4
 29515076,8159368,Mark,South of Market,37.77392,-122.41065,Private room,105,2,162,1,101,46
@@ -2610,7 +2491,6 @@
 30534155,39729330,Brad,Russian Hill,37.80491,-122.42271,Entire home/apt,325,3,132,1,65,52
 31123927,232610653,Mary Clare,Inner Richmond,37.78297,-122.46461,Entire home/apt,129,2,173,1,177,38
 31124126,208750284,Dongmei,Bayview,37.73862,-122.3979,Private room,56,1,228,5,321,78
-31827469,115849,Hiromi,Downtown/Civic Center,37.78764,-122.41198,Private room,63,32,7,12,89,3
 31858008,202404209,Fei,Outer Mission,37.71566,-122.44665,Private room,90,1,67,2,0,34
 30534300,3286545,Kate,West of Twin Peaks,37.74107,-122.46294,Entire home/apt,275,1,132,2,87,25
 31124810,208750284,Dongmei,Bayview,37.73685,-122.39914,Private room,50,1,268,5,324,104
@@ -2621,7 +2501,6 @@
 31130054,62034618,Ting Ting,Outer Sunset,37.76529,-122.47825,Private room,58,30,2,20,364,1
 31131163,62034618,Ting Ting,Outer Sunset,37.76329,-122.47808,Private room,52,30,6,20,365,2
 31146290,117141107,Zarinah,Haight Ashbury,37.76942,-122.44991,Private room,100,1,23,43,0,0
-31924784,262069405,Scott,Downtown/Civic Center,37.78101,-122.42159,Entire home/apt,115,60,2,1,336,2
 30537976,117610,Angeline,Outer Sunset,37.75618,-122.50657,Entire home/apt,141,30,1,2,255,0
 31985315,13471395,Josh,Haight Ashbury,37.77022,-122.44869,Entire home/apt,130,30,7,5,159,4
 31994835,47514427,Jeffrey & Susan & Bryce,Downtown/Civic Center,37.78674,-122.41114,Private room,324,2,9,27,0,0
@@ -2650,7 +2529,6 @@
 31331285,2993648,Eduardo,Potrero Hill,37.75828,-122.39723,Entire home/apt,190,30,15,2,257,3
 31336364,77606360,Christine,Downtown/Civic Center,37.78868,-122.41104,Private room,199,2,11,3,0,10
 32042801,240237089,Walter & Barbara,Ocean View,37.71628,-122.46771,Entire home/apt,155,30,11,1,154,3
-30714980,229909490,Ahmad,Downtown/Civic Center,37.78016,-122.41439,Entire home/apt,87,90,6,1,212,3
 32045868,76053943,Betty,Western Addition,37.78267,-122.44357,Entire home/apt,195,30,9,1,308,4
 32047121,91333416,Jan,Inner Sunset,37.76225,-122.45259,Entire home/apt,121,30,1,25,339,0
 31338594,231021347,Helen,Outer Sunset,37.74738,-122.48071,Private room,45,30,11,4,339,3
@@ -2674,7 +2552,6 @@
 32050026,88810,Barbara,Nob Hill,37.79059,-122.41664,Entire home/apt,300,30,0,1,0,0
 31441024,5805679,Laurence,Downtown/Civic Center,37.78899,-122.41279,Private room,298,4,0,29,0,0
 32617088,47514427,Jeffrey & Susan & Bryce,Downtown/Civic Center,37.7874,-122.41138,Private room,320,2,8,27,44,0
-31446628,15982236,Tal,Western Addition,37.77652,-122.43139,Entire home/apt,210,180,0,1,0,0
 31450281,4346065,Greg,Bernal Heights,37.73633,-122.42129,Entire home/apt,116,2,69,2,83,23
 31488238,107434423,Blueground,Nob Hill,37.790598,-122.410225,Entire home/apt,219,31,0,138,198,0
 32072704,179161726,Barbara,Inner Richmond,37.77682,-122.4712,Entire home/apt,141,3,158,1,101,36
@@ -2697,7 +2574,6 @@
 31623662,52178915,Jim,Downtown/Civic Center,37.77907,-122.4211,Entire home/apt,158,2,7,43,8,6
 31629533,49354377,Tyrisha,Mission,37.75203,-122.41347,Entire home/apt,128,30,1,2,316,1
 31638887,52178915,Jim,Downtown/Civic Center,37.77823,-122.42125,Entire home/apt,135,2,19,43,3,11
-31652671,4808897,Heather,Haight Ashbury,37.76645,-122.45041,Entire home/apt,110,90,0,1,87,0
 31654235,131200418,Lois,Inner Sunset,37.76274,-122.47001,Private room,64,30,0,25,362,0
 32716563,64646820,Michelle,Downtown/Civic Center,37.7874,-122.41134,Private room,199,2,16,38,7,2
 32717018,64646820,Michelle,Russian Hill,37.80487,-122.41951,Entire home/apt,307,2,14,38,22,0
@@ -2719,21 +2595,19 @@
 32746725,1984693,Jackie,Outer Richmond,37.77853,-122.50835,Entire home/apt,199,4,135,1,130,39
 31708854,23974491,Brian,Western Addition,37.77056,-122.43551,Private room,200,2,37,1,80,0
 32747421,79715071,Yusuke,Ocean View,37.72086,-122.44997,Entire home/apt,30,30,20,9,31,6
-31717158,10267172,Cédric & Jun,Visitacion Valley,37.72148,-122.40507,Private room,124,2,24,4,0,0
-31718067,10267172,Cédric & Jun,Visitacion Valley,37.72168,-122.40397,Private room,119,2,27,4,0,0
+31717158,10267172,C�dric & Jun,Visitacion Valley,37.72148,-122.40507,Private room,124,2,24,4,0,0
+31718067,10267172,C�dric & Jun,Visitacion Valley,37.72168,-122.40397,Private room,119,2,27,4,0,0
 31724787,1588855,Arbe,North Beach,37.79954,-122.40554,Entire home/apt,135,30,4,2,365,2
 31738781,4582677,Felix,Parkside,37.73866,-122.49442,Entire home/apt,179,30,6,2,251,4
 31759412,223365296,Tony,Parkside,37.73928,-122.4792,Entire home/apt,176,3,173,1,40,44
 31778644,19610799,Eric,Castro/Upper Market,37.75791,-122.44073,Entire home/apt,350,6,7,2,79,1
-31798083,10267172,Cédric & Jun,Excelsior,37.72371,-122.40538,Entire home/apt,223,3,41,4,57,16
+31798083,10267172,C�dric & Jun,Excelsior,37.72371,-122.40538,Entire home/apt,223,3,41,4,57,16
 32291443,1486423,Kadir,Bernal Heights,37.73505,-122.42228,Entire home/apt,122,2,154,1,22,48
 32747602,74679017,Victoria,Inner Richmond,37.77983,-122.47415,Entire home/apt,234,2,149,1,120,47
 32293596,7630810,Michael,Mission,37.77045,-122.42374,Entire home/apt,395,4,18,3,96,3
 32312991,117141107,Zarinah,Haight Ashbury,37.76942,-122.44991,Shared room,90,1,68,43,0,0
 32338483,202536938,Kaleen,Western Addition,37.77614,-122.42852,Entire home/apt,143,30,6,4,134,2
 32748600,79715071,Yusuke,Ocean View,37.72239,-122.45125,Private room,34,30,3,9,32,2
-31803551,1766073,Svetha,Castro/Upper Market,37.76018,-122.44091,Entire home/apt,325,60,78,1,364,1
-32748703,79715071,Yusuke,Ocean View,37.72224,-122.45178,Private room,43,120,6,9,271,1
 32748841,79715071,Yusuke,Ocean View,37.7221,-122.4501,Entire home/apt,30,30,6,9,77,3
 32766699,28996560,Otto,Marina,37.80377,-122.44342,Entire home/apt,283,30,3,2,266,1
 32770430,81513590,Nejdeh,Parkside,37.74266,-122.47925,Entire home/apt,175,30,41,1,157,5
@@ -2750,7 +2624,6 @@
 32375294,107434423,Blueground,South of Market,37.77368,-122.40925,Entire home/apt,129,31,2,138,350,0
 32384648,64646820,Michelle,Downtown/Civic Center,37.78889,-122.41159,Private room,199,1,7,38,0,1
 32384878,34789506,Jessica,South of Market,37.77624,-122.40785,Entire home/apt,130,30,11,3,266,3
-33293217,116932500,Joe C,South of Market,37.77687,-122.41239,Entire home/apt,140,60,0,1,179,0
 33310899,2792397,Roby,Castro/Upper Market,37.76357,-122.42654,Entire home/apt,100,30,22,1,281,4
 32813435,127638239,Ching Ho,Inner Richmond,37.78354,-122.4621,Private room,68,1,227,5,165,51
 33311422,5298677,Stewart,Mission,37.75255,-122.40826,Entire home/apt,442,30,25,1,314,7
@@ -2776,8 +2649,6 @@
 32867573,103884979,Rams,South of Market,37.77628,-122.41507,Hotel room,91,1,55,14,14,18
 32870699,64646820,Michelle,Russian Hill,37.80639,-122.42144,Private room,317,2,27,38,19,0
 32441372,2146719,Nikki,Bayview,37.71859,-122.39424,Private room,44,30,13,11,341,3
-32445292,46519368,Kenny,Chinatown,37.79695,-122.40941,Private room,63,365,5,8,365,0
-33419983,1780407,Feb,South of Market,37.7773,-122.39505,Entire home/apt,250,120,0,1,359,0
 33420461,377744,Scott,North Beach,37.79848,-122.40394,Entire home/apt,450,30,9,2,0,0
 32871760,2919348,Zoe,Mission,37.75624,-122.42348,Entire home/apt,250,3,64,2,15,29
 32890587,107434423,Blueground,South of Market,37.78399,-122.389842,Entire home/apt,217,31,0,138,185,0
@@ -2787,7 +2658,6 @@
 33430562,30474972,Dana,Haight Ashbury,37.76438,-122.44706,Private room,500,1,0,3,0,0
 32891490,988375,Jennifer,Inner Sunset,37.76337,-122.47628,Entire home/apt,165,30,24,14,0,3
 32898423,150732464,Salman,Nob Hill,37.79591,-122.41812,Entire home/apt,85,30,14,7,64,4
-32445598,46519368,Kenny,Nob Hill,37.79709,-122.41151,Private room,69,365,7,8,365,0
 32920800,64646820,Michelle,Downtown/Civic Center,37.78878,-122.40984,Private room,240,3,12,38,19,5
 32921329,137211962,Jing,Inner Sunset,37.76171,-122.47289,Private room,32,30,9,6,248,1
 33451367,222767094,Megan,Haight Ashbury,37.77004,-122.44464,Entire home/apt,299,30,2,2,81,0
@@ -2848,7 +2718,6 @@
 32570953,1886606,Carolina,North Beach,37.80386,-122.41096,Entire home/apt,85,30,0,1,0,0
 32572501,64646820,Michelle,Downtown/Civic Center,37.78748,-122.4113,Private room,199,1,2,38,0,0
 32577104,64646820,Michelle,Downtown/Civic Center,37.78702,-122.4099,Private room,222,3,22,38,13,2
-33818649,32940115,Steven,Bayview,37.72895,-122.36823,Entire home/apt,198,180,0,1,312,0
 33859591,1700823,Jennifer,Marina,37.80499,-122.44473,Entire home/apt,360,30,1,2,33,1
 33873677,27376425,Natalie,Marina,37.80427,-122.42786,Entire home/apt,300,30,10,1,0,0
 33115368,1747847,Karina,South of Market,37.77341,-122.3986,Entire home/apt,150,30,0,1,0,0
@@ -2869,7 +2738,6 @@
 34289989,258893252,Ana,Visitacion Valley,37.71876,-122.40353,Entire home/apt,220,30,1,1,0,0
 33930957,107434423,Blueground,South of Market,37.77368,-122.40925,Entire home/apt,241,31,0,138,246,0
 33935404,97159379,HostWell,Pacific Heights,37.79285,-122.43445,Entire home/apt,150,30,4,2,364,1
-33960503,2208838,Aimee,Pacific Heights,37.78959,-122.43683,Entire home/apt,120,60,5,1,168,0
 33969918,250109940,Yotel,Downtown/Civic Center,37.78127,-122.41271,Hotel room,119,1,6,9,299,5
 33969945,250109940,Yotel,South of Market,37.77963,-122.41298,Hotel room,119,1,3,9,299,2
 33198942,72356201,Millennium Flats,Russian Hill,37.80184,-122.42296,Entire home/apt,120,30,14,1,184,2
@@ -2902,7 +2770,6 @@
 33268331,107434423,Blueground,Downtown/Civic Center,37.77479,-122.42057,Entire home/apt,159,31,2,138,314,0
 34084484,5758452,Josh,Bernal Heights,37.73754,-122.41143,Entire home/apt,406,3,12,1,177,12
 34097339,73256096,Gagan,Outer Mission,37.73246,-122.44777,Entire home/apt,188,2,44,1,0,20
-34123156,46519368,Kenny,Russian Hill,37.79732,-122.41227,Private room,69,365,4,8,365,0
 33269893,107434423,Blueground,Downtown/Civic Center,37.774794,-122.420569,Entire home/apt,165,31,0,138,287,0
 35190654,6169845,Rachel,Castro/Upper Market,37.75877,-122.43892,Entire home/apt,233,30,1,1,156,0
 34127900,5153588,Gaylene,Bayview,37.72942,-122.38468,Entire home/apt,97,30,12,3,308,5
@@ -2935,15 +2802,11 @@
 35911250,1229762,Jason,North Beach,37.80249,-122.40909,Private room,265,1,22,2,148,1
 35376420,103884979,Rams,South of Market,37.77644,-122.41472,Hotel room,90,1,99,14,173,49
 35387067,101516029,Eva,Visitacion Valley,37.72249,-122.40594,Private room,180,2,70,1,353,16
-35916856,267895362,Rocky,Nob Hill,37.79335,-122.42031,Private room,50,365,2,55,365,0
-35917031,267895362,Rocky,Nob Hill,37.7924,-122.42006,Private room,47,365,0,55,365,0
-35917078,267895362,Rocky,Nob Hill,37.79383,-122.42232,Private room,47,365,0,55,365,0
 35917405,269663896,Winnie,Outer Sunset,37.7536,-122.47797,Entire home/apt,152,2,193,1,120,68
 34606745,1368144,Leon,Ocean View,37.71472,-122.46901,Private room,99,1,151,6,364,80
 34607614,1368144,Leon,Ocean View,37.71287,-122.46868,Private room,62,1,105,6,358,61
 35392349,16022933,Rick,Excelsior,37.72213,-122.4308,Private room,49,30,5,1,352,3
 34626588,178494555,Dan,Bernal Heights,37.73835,-122.41889,Entire home/apt,395,4,10,1,134,4
-34641118,2675261,Hadar,Outer Mission,37.72599,-122.43689,Entire home/apt,100,90,0,1,0,0
 34646493,1368144,Leon,Ocean View,37.71225,-122.46734,Private room,62,1,42,6,364,9
 34656053,1368144,Leon,Ocean View,37.71237,-122.46814,Private room,69,1,84,6,178,34
 34656516,9194713,Lance,Visitacion Valley,37.71992,-122.40264,Entire home/apt,222,1,290,6,7,86
@@ -2955,7 +2818,6 @@
 35938695,270319103,Mary,Noe Valley,37.75532,-122.42618,Entire home/apt,190,30,10,1,293,1
 35944209,103884979,Rams,South of Market,37.77177,-122.40927,Hotel room,117,1,98,14,67,35
 35944237,209815290,Deniz,Inner Sunset,37.7523,-122.47398,Entire home/apt,170,10,102,1,4,45
-35421342,167530,Mary,Nob Hill,37.79109,-122.41421,Entire home/apt,125,60,4,1,226,1
 35944593,127625873,Nakisa,Western Addition,37.78662,-122.43628,Private room,59,30,2,1,0,0
 35952064,107434423,Blueground,South of Market,37.77368,-122.409254,Entire home/apt,179,31,2,138,349,1
 36001435,265485766,Sheng,Mission,37.75378,-122.40657,Private room,60,30,38,5,89,2
@@ -2974,7 +2836,6 @@
 35478472,107434423,Blueground,South of Market,37.772587,-122.393081,Entire home/apt,284,31,0,138,185,0
 35493661,266321575,Hotel Bijou,Downtown/Civic Center,37.78394,-122.40849,Hotel room,129,1,40,8,3,22
 36029332,23573644,Lisa,Bernal Heights,37.74666,-122.40616,Entire home/apt,255,2,207,1,136,72
-36036473,267895362,Rocky,Nob Hill,37.79407,-122.42024,Private room,50,365,1,55,365,0
 34704352,107434423,Blueground,South of Market,37.782342,-122.388737,Entire home/apt,153,31,0,138,352,0
 34781352,9194713,Lance,Visitacion Valley,37.71933,-122.40304,Private room,85,1,38,6,0,11
 35493829,266321575,Hotel Bijou,Downtown/Civic Center,37.78527,-122.40864,Hotel room,139,1,22,8,0,11
@@ -3005,7 +2866,6 @@
 34878846,107434423,Blueground,Marina,37.802841,-122.444116,Entire home/apt,264,31,0,138,276,0
 36083245,2360400,Richard,Bernal Heights,37.73777,-122.41019,Entire home/apt,225,30,0,1,0,0
 36087821,271474803,Kimberly,Mission,37.76379,-122.41853,Entire home/apt,133,30,0,1,0,0
-35543186,46519368,Kenny,Chinatown,37.79587,-122.40967,Private room,65,365,5,8,365,2
 35610445,48005494,Zeus,Russian Hill,37.79902,-122.41159,Entire home/apt,204,30,2,31,365,0
 35642179,265029065,Grant Plaza,Financial District,37.79035,-122.40619,Hotel room,123,1,900,4,314,322
 35642877,265029065,Grant Plaza,Chinatown,37.79206,-122.40663,Hotel room,113,1,139,4,314,99
@@ -3019,11 +2879,6 @@
 36116529,70722023,Michael,Downtown/Civic Center,37.77784,-122.42057,Entire home/apt,99,2,2,41,0,1
 34901719,262054570,Kenny,Marina,37.80589,-122.43536,Entire home/apt,249,2,180,3,163,50
 34906463,117141107,Zarinah,Haight Ashbury,37.7708,-122.44369,Shared room,79,1,34,43,0,0
-35651959,267895362,Rocky,Nob Hill,37.79172,-122.42083,Private room,50,365,1,55,365,0
-35652385,267895362,Rocky,Nob Hill,37.79272,-122.41856,Private room,47,365,4,55,365,0
-35655138,267895362,Rocky,Western Addition,37.77086,-122.42535,Private room,50,365,2,55,365,0
-35655221,267895362,Rocky,Mission,37.7697,-122.42367,Private room,47,365,3,55,365,0
-35685982,267895362,Rocky,Nob Hill,37.79195,-122.42152,Private room,50,365,0,55,365,0
 34930371,263143710,Rishi,Potrero Hill,37.76465,-122.38888,Entire home/apt,185,30,5,1,106,4
 36136157,271698124,Kay,Bayview,37.73064,-122.38995,Entire home/apt,175,3,17,2,257,11
 36139589,103884979,Rams,South of Market,37.77209,-122.40882,Hotel room,92,1,127,14,156,68
@@ -3034,8 +2889,6 @@
 35718179,6985248,Eve,Bernal Heights,37.74085,-122.41782,Entire home/apt,350,3,2,1,0,0
 36145583,271864698,Araceli,Inner Richmond,37.7759,-122.46311,Private room,50,30,0,1,0,0
 34932707,263228847,Andrew,Marina,37.79693,-122.44216,Entire home/apt,275,2,174,1,322,54
-35768977,41298864,Jesus,Excelsior,37.72548,-122.4321,Private room,38,180,29,1,26,0
-36153778,267895362,Rocky,Nob Hill,37.79135,-122.41929,Private room,50,365,0,55,365,0
 36170518,32630651,Nicole,South of Market,37.77319,-122.39777,Entire home/apt,184,30,0,1,0,0
 35773104,218088604,Jimmy,Outer Sunset,37.75927,-122.50161,Private room,60,1,249,3,339,77
 35773458,218088604,Jimmy,Outer Sunset,37.7595,-122.50003,Private room,58,1,321,3,344,95
@@ -3046,7 +2899,6 @@
 34978904,261024482,Erlinda,Outer Mission,37.72169,-122.44223,Private room,34,30,1,2,247,0
 35782679,267901434,Queen Anne Hotel,Nob Hill,37.79193,-122.42185,Private room,213,1,0,10,299,0
 34981775,44800516,Alejandro (Alex),Crocker Amazon,37.70871,-122.43731,Private room,45,30,7,2,40,2
-36184443,74332804,Andy,South of Market,37.7775,-122.413,Entire home/apt,195,45,3,1,184,1
 35782746,267901434,Queen Anne Hotel,Nob Hill,37.79404,-122.42037,Private room,185,1,21,10,328,4
 35782803,267901434,Queen Anne Hotel,Nob Hill,37.79388,-122.42237,Private room,203,1,0,10,327,0
 35783085,267901434,Queen Anne Hotel,Nob Hill,37.79359,-122.42042,Private room,203,1,2,10,328,1
@@ -3060,8 +2912,6 @@
 35816571,438702,Emmanuelle,Downtown/Civic Center,37.7852037,-122.4151808,Entire home/apt,68,30,0,1,280,0
 35826414,107434423,Blueground,South of Market,37.787258,-122.392715,Entire home/apt,227,31,1,138,261,0
 35831509,70722023,Michael,Downtown/Civic Center,37.78677,-122.41101,Entire home/apt,99,1,30,41,2,9
-36184844,45553959,Doug,Outer Richmond,37.7827,-122.48739,Private room,59,365,6,1,365,2
-36199714,9080666,Sandy,Ocean View,37.71402,-122.46359,Entire home/apt,99,60,1,6,331,0
 35003596,109550778,Greg,Nob Hill,37.79594,-122.41362,Entire home/apt,100,30,18,3,156,3
 35042200,26860,Elvina,Downtown/Civic Center,37.78692,-122.41795,Shared room,60,30,3,9,365,2
 35082335,117141107,Zarinah,Haight Ashbury,37.77073,-122.4449,Shared room,39,1,22,43,0,0
@@ -3075,7 +2925,6 @@
 35832211,2464884,Sarah,Mission,37.75882,-122.41,Entire home/apt,200,30,2,1,0,0
 35116393,29133762,Susan,Crocker Amazon,37.71248,-122.43083,Entire home/apt,158,2,34,1,69,31
 35835707,241073168,Lowrie,Western Addition,37.78809,-122.42925,Entire home/apt,423,1,14,3,0,0
-35124154,14856706,Wanxin,South of Market,37.77821,-122.39238,Entire home/apt,125,60,0,1,0,0
 36201151,270119323,An Elegant Hotel,Downtown/Civic Center,37.78698,-122.41296,Private room,127,1,5,8,0,0
 36201321,270119323,An Elegant Hotel,Downtown/Civic Center,37.78694,-122.41299,Private room,127,1,1,8,0,0
 36201396,270119323,An Elegant Hotel,Downtown/Civic Center,37.78694,-122.41299,Private room,136,1,2,8,0,0
@@ -3090,22 +2939,22 @@
 36527512,4430421,Landmark,Mission,37.76386,-122.41716,Entire home/apt,88,30,0,154,177,0
 36532979,274664234,Ken,Outer Sunset,37.75072,-122.48042,Entire home/apt,180,2,114,1,138,64
 36556453,70722023,Michael,Chinatown,37.7915,-122.40737,Entire home/apt,65,2,3,41,1,1
-36560687,266083019,Extra Holidays®,Downtown/Civic Center,37.7885,-122.41404,Hotel room,240,2,10,9,204,6
+36560687,266083019,Extra Holidays�,Downtown/Civic Center,37.7885,-122.41404,Hotel room,240,2,10,9,204,6
 36565301,8699695,Ning,North Beach,37.80408,-122.40525,Private room,118,30,2,1,166,0
 35132748,38209715,Tony,Bernal Heights,37.73832,-122.41719,Entire home/apt,240,3,58,3,52,41
 37530012,70722023,Michael,Chinatown,37.79181,-122.40882,Entire home/apt,95,2,2,41,0,0
 37530303,70722023,Michael,Nob Hill,37.79122,-122.40958,Entire home/apt,95,2,3,41,0,1
 37530583,70722023,Michael,Chinatown,37.79178,-122.40787,Entire home/apt,95,2,1,41,0,0
-36565321,266083019,Extra Holidays®,Downtown/Civic Center,37.7787601,-122.4222545,Private room,158,1,0,9,240,0
+36565321,266083019,Extra Holidays�,Downtown/Civic Center,37.7787601,-122.4222545,Private room,158,1,0,9,240,0
 37531516,70722023,Michael,Chinatown,37.79192,-122.40889,Entire home/apt,95,2,2,41,0,1
 36237325,4150590,Susan,Marina,37.79655,-122.43357,Entire home/apt,120,30,3,2,125,1
-36565331,266083019,Extra Holidays®,Downtown/Civic Center,37.7787601,-122.4222545,Private room,168,1,0,9,232,0
-36565347,266083019,Extra Holidays®,Downtown/Civic Center,37.7787601,-122.4222545,Private room,198,1,0,9,247,0
-36565368,266083019,Extra Holidays®,Downtown/Civic Center,37.7787601,-122.4222545,Private room,188,1,0,9,247,0
-36566784,266083019,Extra Holidays®,Downtown/Civic Center,37.7878653,-122.4104163,Private room,223,2,0,9,43,0
-36566826,266083019,Extra Holidays®,Downtown/Civic Center,37.7878653,-122.4104163,Private room,223,2,0,9,28,0
-36566860,266083019,Extra Holidays®,Downtown/Civic Center,37.7878653,-122.4104163,Private room,223,2,1,9,288,1
-36566892,266083019,Extra Holidays®,Russian Hill,37.8055,-122.4205787,Private room,313,1,0,9,0,0
+36565331,266083019,Extra Holidays�,Downtown/Civic Center,37.7787601,-122.4222545,Private room,168,1,0,9,232,0
+36565347,266083019,Extra Holidays�,Downtown/Civic Center,37.7787601,-122.4222545,Private room,198,1,0,9,247,0
+36565368,266083019,Extra Holidays�,Downtown/Civic Center,37.7787601,-122.4222545,Private room,188,1,0,9,247,0
+36566784,266083019,Extra Holidays�,Downtown/Civic Center,37.7878653,-122.4104163,Private room,223,2,0,9,43,0
+36566826,266083019,Extra Holidays�,Downtown/Civic Center,37.7878653,-122.4104163,Private room,223,2,0,9,28,0
+36566860,266083019,Extra Holidays�,Downtown/Civic Center,37.7878653,-122.4104163,Private room,223,2,1,9,288,1
+36566892,266083019,Extra Holidays�,Russian Hill,37.8055,-122.4205787,Private room,313,1,0,9,0,0
 37538105,66762479,Eric,Ocean View,37.71313,-122.4611,Entire home/apt,145,2,233,1,62,78
 37565353,4430421,Landmark,Downtown/Civic Center,37.78451,-122.41645,Entire home/apt,83,30,1,154,177,0
 37571304,70722023,Michael,Downtown/Civic Center,37.78976,-122.40762,Entire home/apt,95,2,4,41,2,2
@@ -3122,7 +2971,6 @@
 37719997,70722023,Michael,Nob Hill,37.79131,-122.40942,Entire home/apt,95,2,5,41,2,2
 37745373,13471395,Josh,Haight Ashbury,37.76828,-122.44679,Entire home/apt,70,30,2,5,171,0
 37747959,70722023,Michael,Chinatown,37.79194,-122.40883,Entire home/apt,95,2,4,41,3,1
-36280429,20917748,Sharine,Nob Hill,37.79173,-122.41015,Entire home/apt,150,90,2,2,364,0
 36301897,8662511,Bhawana,South of Market,37.77318,-122.41065,Entire home/apt,250,30,0,1,0,0
 36313431,53358593,Tatyana,Outer Sunset,37.7613229,-122.4965406,Private room,139,1,6,1,308,6
 36604109,4430421,Landmark,Mission,37.76531,-122.41882,Entire home/apt,88,30,0,154,177,0
@@ -3133,7 +2981,6 @@
 36631938,4430421,Landmark,Mission,37.76436,-122.41881,Entire home/apt,103,30,1,154,177,0
 37777767,199824554,Bob,Bernal Heights,37.74339,-122.40957,Entire home/apt,500,3,0,1,0,0
 37783256,70722023,Michael,Nob Hill,37.79214,-122.40935,Entire home/apt,95,2,3,41,1,2
-36320034,61808927,Jennifer,Ocean View,37.721569,-122.450691,Entire home/apt,75,365,60,1,209,2
 36333608,107434423,Blueground,South of Market,37.77368,-122.40925,Entire home/apt,218,31,0,138,318,0
 36342436,107434423,Blueground,South of Market,37.787258,-122.392715,Entire home/apt,190,31,1,138,277,1
 36348154,4430421,Landmark,Downtown/Civic Center,37.78426,-122.41644,Entire home/apt,85,30,1,154,177,1
@@ -3168,8 +3015,6 @@
 37882667,285173026,The New,Financial District,37.7841,-122.40198,Entire home/apt,325,30,1,1,0,0
 37884138,35025523,Laurence,Bayview,37.72946,-122.38662,Private room,95,1,26,1,42,7
 36456649,4838788,Israel,Mission,37.75739,-122.4184,Entire home/apt,270,30,26,1,0,3
-36476134,267895362,Rocky,Western Addition,37.77113,-122.42503,Private room,50,365,0,55,365,0
-36910851,267895362,Rocky,Nob Hill,37.79117,-122.42067,Private room,47,365,1,55,365,0
 36928741,219791143,Victor 2,Outer Mission,37.73183,-122.43014,Private room,59,2,135,8,171,36
 36928742,219791143,Victor 2,Bernal Heights,37.73206,-122.42837,Private room,59,2,138,8,171,40
 36944347,52178915,Jim,Russian Hill,37.80543,-122.42061,Entire home/apt,257,2,3,43,0,3
@@ -3207,23 +3052,10 @@
 37949362,49897504,Weng Ian (Cherry),Outer Richmond,37.7789,-122.50078,Entire home/apt,280,30,23,2,352,19
 37183606,279829523,Brandy,Visitacion Valley,37.71501,-122.40091,Entire home/apt,180,1,102,1,63,45
 37965290,287833155,Gina,Twin Peaks,37.74854,-122.44976,Entire home/apt,150,30,7,1,272,1
-37972466,267895362,Rocky,Western Addition,37.77094,-122.42508,Private room,50,365,0,55,365,0
-37972512,267895362,Rocky,Mission,37.76916,-122.4234,Private room,50,365,0,55,365,0
-37972553,267895362,Rocky,Western Addition,37.77095,-122.42522,Private room,50,365,0,55,365,0
-37972578,267895362,Rocky,Western Addition,37.77093,-122.42553,Private room,50,365,0,55,365,0
-37972611,267895362,Rocky,Nob Hill,37.7917,-122.42053,Private room,47,365,0,55,365,0
-37972793,267895362,Rocky,Mission,37.76936,-122.42491,Private room,50,365,0,55,0,0
-37972909,267895362,Rocky,Nob Hill,37.79357,-122.42193,Private room,50,365,0,55,365,0
 37973371,15674293,Mariam,Marina,37.80399,-122.43803,Entire home/apt,365,2,45,2,298,24
 38023230,1097396,Danna,Noe Valley,37.75318,-122.43834,Entire home/apt,156,30,6,4,42,2
 38024311,7325515,Jo Anne,Castro/Upper Market,37.75821,-122.42635,Entire home/apt,140,30,5,4,302,2
-38674830,267895362,Rocky,Western Addition,37.77127,-122.42482,Private room,60,365,2,55,365,0
-38675099,267895362,Rocky,Mission,37.76941,-122.4255,Private room,60,365,1,55,365,0
-38675356,267895362,Rocky,Nob Hill,37.79124,-122.4193,Private room,50,365,0,55,0,0
-38676315,267895362,Rocky,Nob Hill,37.79302,-122.42082,Private room,60,365,0,55,365,0
-38676491,267895362,Rocky,Nob Hill,37.79161,-122.42051,Private room,60,365,1,55,89,0
 38703237,988375,Jennifer,Outer Sunset,37.75062,-122.48895,Entire home/apt,105,3,59,14,9,27
-38047206,92965890,唱,Bayview,37.7298,-122.40096,Private room,45,90,0,1,0,0
 38051944,4297383,Rob,Western Addition,37.778206,-122.441261,Entire home/apt,310,10,4,3,0,0
 38077792,52178915,Jim,Downtown/Civic Center,37.77966,-122.42197,Entire home/apt,91,2,40,43,0,25
 37236213,10485472,Drew And Tamar,Noe Valley,37.75043,-122.42609,Entire home/apt,179,30,11,1,213,3
@@ -3233,16 +3065,13 @@
 37287951,4355687,Claudia,Mission,37.74952,-122.41932,Entire home/apt,251,30,0,1,218,0
 38129278,288169072,Alice & Ahmed,Noe Valley,37.751919,-122.434654,Entire home/apt,257,3,105,1,58,22
 38158914,1368144,Leon,Ocean View,37.71228,-122.46666,Private room,61,1,67,6,342,52
-38724925,128886977,Jéssica,Downtown/Civic Center,37.7886,-122.41383,Private room,100,30,1,1,89,1
-38728968,267895362,Rocky,Western Addition,37.77136,-122.42477,Private room,60,365,0,55,365,0
-38731565,149137483,Cathy,Bayview,37.73705,-122.38825,Entire home/apt,195,365,4,1,365,0
+38724925,128886977,J�ssica,Downtown/Civic Center,37.7886,-122.41383,Private room,100,30,1,1,89,1
 38753052,70722023,Michael,Downtown/Civic Center,37.78684,-122.41136,Entire home/apt,95,2,2,41,0,1
 38167638,24087059,Simon,Pacific Heights,37.79288,-122.43086,Entire home/apt,312,2,121,1,109,51
 38204418,107434423,Blueground,Downtown/Civic Center,37.78753,-122.421312,Entire home/apt,262,31,0,138,304,0
 38215107,266184542,Karla,Mission,37.75625,-122.41745,Entire home/apt,125,30,9,3,147,1
 38263835,1144980,Victor,Lakeshore,37.73127,-122.49066,Private room,90,30,0,2,0,0
 38289262,2275870,Martina,Outer Mission,37.72717,-122.43924,Private room,350,1,25,3,166,14
-37357200,139233,Jennifer,Mission,37.76247,-122.42551,Entire home/apt,95,90,0,1,29,0
 38775805,225241437,Rob,Castro/Upper Market,37.76295,-122.43424,Entire home/apt,170,30,0,1,309,0
 37358745,62034618,Ting Ting,Outer Sunset,37.76517,-122.47909,Entire home/apt,108,30,4,20,269,1
 37365939,183890810,Kelly,Financial District,37.78896,-122.39263,Private room,65,30,0,1,0,0
@@ -3293,7 +3122,6 @@
 38409480,172411153,Lesley,Russian Hill,37.80459,-122.42072,Entire home/apt,325,30,0,1,0,0
 38930864,1308596,Sandra,Western Addition,37.78661,-122.43355,Entire home/apt,300,4,34,1,97,17
 38940717,107434423,Blueground,Marina,37.802841,-122.444116,Entire home/apt,255,31,0,138,272,0
-39304442,2991110,Jerry,Downtown/Civic Center,37.78359,-122.41841,Entire home/apt,78,55,3,3,59,0
 39318438,272084446,Emily,Mission,37.75797,-122.41156,Entire home/apt,199,2,15,1,141,14
 38951144,467102,Johnny,Western Addition,37.78746,-122.44046,Private room,65,30,16,1,159,7
 38955191,298375038,Noel And George,Parkside,37.74001,-122.49544,Entire home/apt,169,2,126,1,84,32
@@ -3319,10 +3147,6 @@
 39368926,70722023,Michael,Downtown/Civic Center,37.78986,-122.40903,Entire home/apt,95,2,2,41,5,1
 39390570,302987199,Palihotel,Chinatown,37.79054,-122.4083,Private room,135,1,1,5,224,0
 39818312,169622214,Amit,South of Market,37.77272,-122.41855,Private room,115,30,0,1,0,0
-39053001,267895362,Rocky,Western Addition,37.77093,-122.42509,Private room,50,365,0,55,365,0
-39053254,267895362,Rocky,Mission,37.76988,-122.42324,Private room,50,365,0,55,365,0
-39053397,267895362,Rocky,Mission,37.76913,-122.4247,Private room,50,365,0,55,365,0
-39053559,267895362,Rocky,Nob Hill,37.79151,-122.41914,Private room,50,365,1,55,365,0
 39390698,302987199,Palihotel,Chinatown,37.79071,-122.40665,Private room,165,1,1,5,225,0
 39390741,302987199,Palihotel,Downtown/Civic Center,37.79006,-122.40838,Private room,115,1,0,5,224,0
 39390788,302987199,Palihotel,Chinatown,37.79095,-122.4068,Private room,210,1,0,5,225,0
@@ -3337,9 +3161,7 @@
 39059847,222647651,Anthony,Excelsior,37.71751,-122.43261,Private room,83,1,286,1,0,64
 39415485,6229402,Christian,Western Addition,37.77596,-122.43028,Private room,195,7,5,2,346,5
 39061848,7413885,Rob,Inner Richmond,37.77572,-122.46043,Entire home/apt,149,30,0,1,0,0
-39083504,20917748,Sharine,Nob Hill,37.78986,-122.41158,Entire home/apt,150,90,0,2,178,0
 39093552,107434423,Blueground,Downtown/Civic Center,37.78753,-122.421312,Entire home/apt,157,31,0,138,338,0
-39109565,267895362,Rocky,Mission,37.76947,-122.42538,Private room,60,365,0,55,365,0
 39835801,10508562,Susan,Marina,37.79802,-122.43125,Private room,167,2,30,1,149,30
 39842492,330231,Richard,Marina,37.80166,-122.43901,Entire home/apt,220,30,3,10,303,0
 39420371,263533987,Debnil,Haight Ashbury,37.76662,-122.44813,Private room,50,30,0,1,0,0
@@ -3364,7 +3186,6 @@
 39964120,1201942,Margie,Outer Mission,37.71605,-122.45002,Entire home/apt,295,1,9,3,106,7
 39969765,99158618,Yasemin,Western Addition,37.77071,-122.43183,Private room,95,30,22,2,160,3
 39988112,43691633,Robert,Castro/Upper Market,37.7577,-122.43683,Entire home/apt,152,6,13,1,140,7
-39225843,3695513,Dani,Downtown/Civic Center,37.78225,-122.42375,Entire home/apt,260,90,0,1,0,0
 39243166,107434423,Blueground,Financial District,37.7872571,-122.3963215,Entire home/apt,295,31,1,138,0,0
 39243209,107434423,Blueground,Financial District,37.7872571,-122.3963215,Entire home/apt,385,31,0,138,0,0
 39246764,30014099,Adell,South of Market,37.77599,-122.40201,Private room,175,4,8,3,24,5
@@ -3380,8 +3201,6 @@
 39468178,3078020,Anil,Mission,37.75924,-122.40843,Private room,108,3,98,3,256,41
 40015534,30171569,Vincent,Bayview,37.73531,-122.39319,Entire home/apt,156,1,100,1,112,67
 40017285,131200418,Lois,Inner Sunset,37.76358,-122.47148,Entire home/apt,69,30,3,25,229,1
-40029941,267895362,Rocky,Mission,37.76936,-122.42526,Private room,50,365,0,55,365,0
-40030053,267895362,Rocky,Western Addition,37.77124,-122.42503,Private room,50,365,0,55,365,0
 39470922,115809271,Sarah,Downtown/Civic Center,37.77989,-122.42286,Entire home/apt,65,2,1,3,0,0
 40057418,62034618,Ting Ting,Outer Sunset,37.76486,-122.47757,Private room,51,30,0,20,365,0
 39473367,34876815,Rene,Bayview,37.73715,-122.38654,Entire home/apt,155,18,5,1,41,5
@@ -3396,7 +3215,6 @@
 39507387,339635,Colin,Western Addition,37.77751,-122.43855,Private room,100,30,0,1,0,0
 39512393,148871117,Bowen,Parkside,37.73811,-122.48949,Entire home/apt,258,1,144,1,171,61
 40112429,309026529,Jessica,Mission,37.75081,-122.41526,Private room,91,30,27,3,247,3
-40112442,309026529,Jessica,Mission,37.75085,-122.41713,Private room,65,45,21,3,260,0
 40112466,309026529,Jessica,Mission,37.74889,-122.41571,Private room,87,30,33,3,199,2
 40116682,8097561,Adriana,Chinatown,37.7936,-122.4075,Private room,199,1,158,2,249,16
 40118113,300816681,Ganesh & Eswari,Western Addition,37.77794,-122.43117,Private room,299,30,20,2,169,3
@@ -3430,12 +3248,6 @@
 40603328,107434423,Blueground,Financial District,37.7872571,-122.3963215,Entire home/apt,295,31,0,138,0,0
 40619776,3078020,Anil,Mission,37.75886,-122.40831,Private room,105,3,86,3,55,49
 40179404,206986980,Evgeny,Nob Hill,37.78984,-122.41243,Entire home/apt,96,30,13,1,120,5
-40191004,267895362,Rocky,Mission,37.76953,-122.42507,Private room,50,365,0,55,365,0
-40191197,267895362,Rocky,Nob Hill,37.79115,-122.42042,Private room,47,365,0,55,365,0
-40191265,267895362,Rocky,Mission,37.76949,-122.42502,Private room,60,365,0,55,365,0
-40191346,267895362,Rocky,Nob Hill,37.79266,-122.41847,Private room,50,365,0,55,365,0
-40191423,267895362,Rocky,Nob Hill,37.79123,-122.41855,Private room,60,365,0,55,365,0
-40192456,267895362,Rocky,Western Addition,37.77111,-122.42491,Private room,47,365,0,55,365,0
 40201638,2146719,Nikki,Castro/Upper Market,37.76104,-122.42665,Entire home/apt,135,30,8,11,277,2
 40204501,14812458,Fred,Haight Ashbury,37.77298,-122.43759,Entire home/apt,500,30,24,1,232,6
 40260940,230265204,Athena,Excelsior,37.72816,-122.4201,Private room,51,30,8,3,339,5
@@ -3476,9 +3288,7 @@
 41395731,62034618,Ting Ting,Outer Sunset,37.76466,-122.47935,Entire home/apt,110,30,2,20,365,0
 39653265,5977346,Melissa,Outer Sunset,37.75566,-122.4799,Private room,85,30,2,5,167,0
 41408506,4430421,Landmark,Mission,37.76391,-122.4185,Entire home/apt,90,30,0,154,179,0
-39655309,50221702,Ivan,Downtown/Civic Center,37.77528,-122.41945,Entire home/apt,140,365,0,1,365,0
 41415290,20704144,William,Downtown/Civic Center,37.78806,-122.40948,Private room,162,2,35,20,10,10
-41430833,1257432,San Francisco Life Real Estate,Noe Valley,37.74311,-122.42817,Entire home/apt,127,365,4,28,294,3
 41431867,137698280,JoAnn,West of Twin Peaks,37.72891,-122.4652,Entire home/apt,150,1,42,1,33,27
 41432929,9795459,Karen,Mission,37.75819,-122.42289,Entire home/apt,333,30,0,1,125,0
 41434411,4430421,Landmark,Mission,37.7643,-122.41874,Entire home/apt,89,30,1,154,177,0
@@ -3577,7 +3387,6 @@
 41785581,309730457,Edwardian Hotel,South of Market,37.77276,-122.42227,Private room,103,1,25,5,357,11
 41789520,14765200,Mishi,Castro/Upper Market,37.76173,-122.43604,Private room,99,2,54,1,306,37
 42140976,131802738,Doris,Ocean View,37.72199,-122.45885,Entire home/apt,55,30,5,2,90,3
-42142242,45492116,Richard,South of Market,37.77369621,-122.3942584,Private room,100,35,0,1,310,0
 41794102,20525600,Eva,Outer Mission,37.71781,-122.44416,Private room,70,6,19,2,356,11
 41176203,211747814,Chris,Excelsior,37.72259,-122.41366,Private room,175,30,0,1,0,0
 41176646,12703126,Jeff,Chinatown,37.79227,-122.40803,Entire home/apt,85,30,6,6,137,0
@@ -3587,7 +3396,6 @@
 41179391,66773974,Yaya,Ocean View,37.71522,-122.45227,Entire home/apt,189,3,1,1,0,0
 41190385,107434423,Blueground,Financial District,37.7872571,-122.3963215,Entire home/apt,389,31,0,138,0,0
 41798843,330254802,RobAudreyAlbertKelly,Mission,37.76924,-122.42484,Entire home/apt,125,30,1,1,155,0
-41819493,267895362,Rocky,Nob Hill,37.7932,-122.42039,Private room,60,365,0,55,365,0
 41824348,46008084,Shannon,Castro/Upper Market,37.76782,-122.43371,Entire home/apt,250,7,1,2,31,1
 42161427,9999808,Matthew,Mission,37.7579,-122.41959,Entire home/apt,289,2,11,2,190,4
 42178642,334812277,Paula,Pacific Heights,37.79109,-122.44214,Entire home/apt,455,30,2,1,348,2
@@ -3608,18 +3416,14 @@
 42206227,85132,Sanford,Financial District,37.79031,-122.40601,Private room,391,2,1,15,365,1
 42206528,85132,Sanford,Downtown/Civic Center,37.78939,-122.40806,Private room,391,2,1,15,365,0
 42207965,335196582,Jr,Pacific Heights,37.79048,-122.43208,Entire home/apt,500,30,5,1,266,0
-41320010,36992501,Rachel,Western Addition,37.77434,-122.43039,Private room,94,60,0,1,365,0
 41890758,42942837,Mubasher,Bayview,37.72836,-122.39365,Entire home/apt,45,30,0,1,179,0
 41913203,4430421,Landmark,Downtown/Civic Center,37.78429,-122.41661,Entire home/apt,87,30,2,154,179,2
 41913755,4430421,Landmark,Mission,37.766,-122.41692,Entire home/apt,89,30,1,154,177,1
-41931183,267895362,Rocky,Nob Hill,37.79323,-122.41991,Private room,50,365,1,55,365,0
-41931319,267895362,Rocky,Nob Hill,37.79122,-122.42014,Private room,50,365,0,55,365,0
-41931392,267895362,Rocky,Nob Hill,37.79136,-122.41985,Private room,50,365,0,55,365,0
 41932652,270080833,Axiom Hotel,Downtown/Civic Center,37.78599,-122.40927,Private room,179,1,0,4,0,0
 41932702,270080833,Axiom Hotel,Downtown/Civic Center,37.78384,-122.40861,Private room,149,1,18,4,0,12
 42209720,19449399,Sam,Bernal Heights,37.73325,-122.41484,Entire home/apt,180,2,179,1,155,49
 41938161,8294705,Eric,Bayview,37.73649,-122.38951,Private room,75,30,2,3,89,2
-41328553,255455569,Şahin,Outer Sunset,37.76142,-122.4845,Shared room,45,30,1,1,0,0
+41328553,255455569,?ahin,Outer Sunset,37.76142,-122.4845,Shared room,45,30,1,1,0,0
 41342042,8294705,Eric,Bayview,37.73767,-122.38959,Private room,55,30,4,3,89,4
 42278240,335930199,Sophie,West of Twin Peaks,37.72674,-122.46278,Entire home/apt,89,1,2,1,0,0
 41350491,4430421,Landmark,Mission,37.75405,-122.42309,Entire home/apt,118,30,4,154,269,1
@@ -3665,11 +3469,8 @@
 42408462,140872749,Antelope,Russian Hill,37.79862,-122.41195,Entire home/apt,99,30,10,2,340,3
 42414518,25120232,Sharon,Lakeshore,37.73191,-122.47984,Entire home/apt,250,2,98,2,132,31
 42417490,52178915,Jim,Downtown/Civic Center,37.77756,-122.42065,Entire home/apt,112,3,24,43,10,19
-42429191,267895362,Rocky,Nob Hill,37.79302,-122.41848,Private room,60,365,0,55,365,0
-42429868,267895362,Rocky,Nob Hill,37.792,-122.41868,Private room,60,365,0,55,365,0
 41974184,310731324,Hotel Des Arts,Financial District,37.78931,-122.4058,Private room,121,1,22,4,340,6
 41976381,226555948,Gi'Angelo,Excelsior,37.72612,-122.40241,Private room,79,30,2,14,277,0
-41976745,226555948,Gi'Angelo,Excelsior,37.72463,-122.40301,Private room,49,120,8,14,364,3
 42433950,3078020,Anil,Mission,37.75934,-122.40814,Private room,110,3,75,3,21,37
 42434687,12703126,Jeff,Russian Hill,37.80652,-122.41933,Entire home/apt,125,30,2,6,193,2
 42434867,91333416,Jan,Haight Ashbury,37.76979,-122.43725,Entire home/apt,90,30,0,25,215,0
@@ -3721,10 +3522,7 @@
 42624438,52178915,Jim,Downtown/Civic Center,37.78807,-122.4095,Entire home/apt,147,2,24,43,4,19
 42646014,154514692,Channing,Haight Ashbury,37.77317,-122.43805,Entire home/apt,281,2,44,1,45,25
 43546682,58041824,Annika,North Beach,37.7991,-122.40121,Entire home/apt,180,30,13,1,0,6
-43547939,267895362,Rocky,Noe Valley,37.75191,-122.42818,Private room,47,365,0,55,365,0
 43548028,346671348,Jules,Downtown/Civic Center,37.78321,-122.41045,Private room,45,30,0,4,0,0
-43131853,5569348,Sako,South of Market,37.78306,-122.39982,Entire home/apt,110,180,0,1,0,0
-43147452,267895362,Rocky,Nob Hill,37.79169,-122.4203,Private room,60,365,0,55,365,0
 43149204,7179228,Jonathan,Inner Richmond,37.77813,-122.4562,Entire home/apt,120,30,11,2,57,5
 43149731,7088871,Shadi,South of Market,37.78624,-122.39035,Entire home/apt,295,30,0,2,364,0
 43157614,245447609,Kim,Downtown/Civic Center,37.77897,-122.4232,Entire home/apt,200,2,0,7,0,0
@@ -3745,11 +3543,9 @@
 44464605,4430421,Landmark,Downtown/Civic Center,37.78555,-122.4165,Entire home/apt,86,30,0,154,177,0
 44493175,157059672,Vasily,Outer Sunset,37.76325,-122.48698,Entire home/apt,72,30,11,2,48,4
 44516525,15203740,Tiffany,Downtown/Civic Center,37.77967,-122.41406,Entire home/apt,261,30,10,1,52,2
-43223129,320776642,Zarina,South of Market,37.77561,-122.41555,Private room,70,365,0,1,363,0
 44518520,248285981,The Landing,Potrero Hill,37.757,-122.39392,Entire home/apt,125,30,7,9,237,3
 44530899,360187354,Ziv,Castro/Upper Market,37.76049,-122.4414,Entire home/apt,275,2,124,1,57,60
 43232625,344265858,Landing,South of Market,37.77364,-122.39242,Entire home/apt,206,30,0,1,0,0
-43271982,267895362,Rocky,Noe Valley,37.75355,-122.43047,Private room,54,365,0,55,365,0
 43278051,5166113,Morgan,South of Market,37.77839,-122.39643,Entire home/apt,250,30,15,1,106,5
 43280077,79715071,Yusuke,Outer Richmond,37.77858,-122.48545,Private room,33,30,6,9,4,2
 43310054,303118342,Jesse,Haight Ashbury,37.76756,-122.44468,Entire home/apt,95,30,1,23,365,1
@@ -3780,10 +3576,8 @@
 44665164,4430421,Landmark,Mission,37.76595,-122.41873,Entire home/apt,87,30,0,154,179,0
 44667442,555501,Ruth,Excelsior,37.72891,-122.42938,Entire home/apt,130,2,56,1,100,28
 44683264,4430421,Landmark,Mission,37.75389,-122.42333,Entire home/apt,97,30,2,154,179,1
-43635205,104635458,Eun Youb,South of Market,37.78268,-122.39888,Entire home/apt,125,190,0,1,0,0
 43336608,88602439,Elena,Downtown/Civic Center,37.78777,-122.42075,Entire home/apt,173,30,3,1,364,3
 43346862,20850212,Young,Marina,37.79759,-122.42398,Private room,100,1,83,16,179,32
-43348706,4152942,Clara,Mission,37.75983,-122.42166,Entire home/apt,122,110,5,4,221,2
 43349696,226555948,Gi'Angelo,Excelsior,37.72578,-122.40243,Entire home/apt,59,30,3,14,364,1
 44684652,361846618,Kelly,Mission,37.75939,-122.4146,Entire home/apt,135,30,1,1,0,0
 43349769,8180570,Irina,Parkside,37.74006,-122.4925,Entire home/apt,99,1,71,1,71,24
@@ -3827,7 +3621,6 @@
 43459680,826995,Kary,Mission,37.76042,-122.41961,Entire home/apt,269,30,5,1,298,2
 43471386,131200418,Lois,Parkside,37.74289,-122.47397,Private room,59,30,5,25,358,1
 44999980,4430421,Landmark,Downtown/Civic Center,37.78578,-122.41004,Entire home/apt,78,30,1,154,179,1
-43714290,314029653,Karl,Russian Hill,37.79727,-122.41664,Private room,90,32,0,1,0,0
 43717711,71567392,Alene,Parkside,37.73681,-122.49748,Private room,45,30,3,2,33,1
 43475468,65136730,Ryan,Mission,37.75721,-122.41245,Entire home/apt,300,30,0,1,0,0
 45000250,16250434,Benjamin,Russian Hill,37.79923,-122.41462,Entire home/apt,100,30,10,2,339,0
@@ -3893,7 +3686,6 @@
 45238481,2567585,Lauren & Ron,Mission,37.76203,-122.42457,Entire home/apt,204,3,14,1,0,0
 45380601,123436073,Alex,Marina,37.80233,-122.44527,Entire home/apt,120,30,0,1,0,0
 45241087,82839,Erin,Bernal Heights,37.74254,-122.42031,Entire home/apt,100,30,4,1,217,2
-45829230,21554316,Tommy,Western Addition,37.78908,-122.42439,Entire home/apt,166,90,4,1,277,1
 45383300,11968934,Shayan,South of Market,37.78929,-122.3898,Private room,98,30,3,1,364,3
 45829352,218631586,Juan,Mission,37.75874,-122.42092,Entire home/apt,170,30,6,1,247,2
 45400716,14869382,Kevin,South of Market,37.77703,-122.40851,Entire home/apt,164,30,7,1,223,5
@@ -3913,7 +3705,6 @@
 44118516,370518,Brent,Mission,37.76803,-122.41786,Entire home/apt,349,30,49,1,41,12
 45843816,21795537,Liat,Mission,37.7585,-122.40815,Entire home/apt,337,2,57,1,0,11
 44139093,137027970,Leila,Marina,37.80387,-122.43378,Entire home/apt,298,30,5,1,356,1
-44210941,4152942,Clara,Western Addition,37.7741,-122.42781,Entire home/apt,175,110,2,4,221,1
 45467451,305752865,Keren,South of Market,37.77237,-122.41193,Entire home/apt,229,30,0,2,0,0
 45469961,56874549,Fatima,Marina,37.80021,-122.42921,Entire home/apt,129,30,10,2,144,6
 45866012,371841329,Beth,South of Market,37.77424,-122.41581,Entire home/apt,115,30,3,14,0,0
@@ -3934,14 +3725,11 @@
 45884692,66802755,Keshav,South of Market,37.77709926,-122.4121387,Entire home/apt,95,30,0,1,154,0
 44307673,2956748,Ajay,Noe Valley,37.74943,-122.43556,Entire home/apt,165,30,7,1,192,0
 44323000,988375,Jennifer,South of Market,37.77215,-122.42167,Entire home/apt,120,30,3,14,2,2
-45492947,110543095,Juliana,North Beach,37.80545,-122.40483,Entire home/apt,300,300,0,1,0,0
 45889585,5928633,Derek,Bernal Heights,37.74447632,-122.4186859,Entire home/apt,191,2,31,2,215,27
 45897643,18955613,Poppy,Western Addition,37.78815,-122.43009,Entire home/apt,145,30,5,2,151,2
-45498256,11937752,Shruti,Financial District,37.78993,-122.39139,Entire home/apt,250,60,0,1,0,0
 44323323,77807259,Guanying,Outer Sunset,37.75216,-122.4841,Entire home/apt,140,2,100,1,103,41
 44339384,4430421,Landmark,Downtown/Civic Center,37.78566,-122.41023,Entire home/apt,81,30,1,154,178,0
 44340065,4430421,Landmark,Downtown/Civic Center,37.78587,-122.41049,Entire home/apt,79,30,1,154,177,0
-45899378,13148801,Jen,Downtown/Civic Center,37.78172,-122.42236,Entire home/apt,152,150,5,1,364,2
 44354428,8537620,Matt,Castro/Upper Market,37.766075,-122.437706,Entire home/apt,260,30,5,1,255,5
 44377815,55491137,Mayank,Mission,37.75586,-122.40585,Entire home/apt,425,30,1,1,47,1
 44378665,4430421,Landmark,Mission,37.76549,-122.41706,Entire home/apt,88,30,0,154,177,0
@@ -3972,7 +3760,6 @@
 45972337,4888089,Dan,Haight Ashbury,37.76308,-122.44609,Entire home/apt,200,30,6,1,139,4
 46694062,313232693,Taylor,South of Market,37.77504,-122.40892,Private room,90,30,0,1,0,0
 46732281,56874549,Fatima,Marina,37.80017,-122.4292,Entire home/apt,149,30,16,2,63,9
-45614328,7167082,Ahmed,Outer Richmond,37.77753,-122.50454,Entire home/apt,235,60,0,1,269,0
 45988466,372793951,Mark,Marina,37.8025,-122.44014,Entire home/apt,161,30,24,1,118,2
 45618175,1516926,Crissy,South of Market,37.77832,-122.40279,Private room,109,1,161,1,110,54
 45624070,21196676,Craig,Noe Valley,37.747669,-122.425255,Private room,94,1,160,4,100,84
@@ -3987,17 +3774,13 @@
 46920923,21003274,Adrian,Bernal Heights,37.73674,-122.41352,Entire home/apt,240,30,2,1,94,1
 46927679,1154836,Ginger,Noe Valley,37.75339,-122.42791,Entire home/apt,105,30,0,3,363,0
 46022700,2761772,Traci,Noe Valley,37.75241,-122.43541,Entire home/apt,139,30,29,2,110,9
-46037704,11166165,Andrew,Castro/Upper Market,37.76675,-122.4328,Entire home/apt,89,45,6,3,19,1
 46037939,373161933,Thomas,Mission,37.75158,-122.40776,Entire home/apt,200,30,1,1,178,0
-45641505,18173199,Alex,Outer Sunset,37.76063,-122.50772,Entire home/apt,185,365,11,1,365,0
 46057087,50493756,Doug,Mission,37.76077,-122.42069,Entire home/apt,198,30,5,2,1,3
-46928150,378388723,Adan,Mission,37.76679,-122.42257,Entire home/apt,58,192,0,1,0,0
 46986918,694377,Beatrice,Russian Hill,37.79789,-122.41321,Entire home/apt,125,30,6,16,231,2
 46091378,4667343,David,Haight Ashbury,37.76923,-122.44675,Entire home/apt,250,30,13,1,263,2
 46993972,2035160,Mj,Potrero Hill,37.76553,-122.40025,Entire home/apt,259,30,5,1,179,1
 45655750,4026717,John,Castro/Upper Market,37.76185,-122.42912,Entire home/apt,200,30,5,1,365,2
 46099429,8145777,Michael,Mission,37.76351,-122.4221,Entire home/apt,160,30,4,7,353,4
-46118226,608445,Hassan,Downtown/Civic Center,37.78017,-122.42236,Entire home/apt,100,90,0,2,247,0
 46119764,177224235,Nona,Chinatown,37.79083,-122.40816,Entire home/apt,150,1,0,1,0,0
 45657042,369884091,Sally,Outer Sunset,37.7512,-122.50424,Private room,82,2,95,3,339,59
 45658379,369884091,Sally,Outer Sunset,37.74917,-122.50508,Private room,78,2,107,3,349,58
@@ -4018,7 +3801,6 @@
 45739694,370792476,Andrew,South of Market,37.78818,-122.38947,Entire home/apt,119,30,7,1,325,2
 45743806,6763925,Araceli,Haight Ashbury,37.76808,-122.44282,Entire home/apt,155,30,0,9,187,0
 47065418,14200913,Beau,Castro/Upper Market,37.76173,-122.43102,Private room,163,2,181,1,58,81
-47068509,3955832,Randall,Western Addition,37.77078,-122.42584,Entire home/apt,120,180,1,1,364,1
 47098696,371841329,Beth,South of Market,37.77331,-122.41494,Entire home/apt,128,30,1,14,6,0
 47100477,371841329,Beth,South of Market,37.77349,-122.41486,Entire home/apt,117,30,1,14,56,0
 47101484,12556651,Jaysa,West of Twin Peaks,37.73489,-122.44433,Entire home/apt,415,30,8,2,31,2
@@ -4056,7 +3838,6 @@
 46412534,7197110,Cedric,Mission,37.7558,-122.40671,Private room,59,30,0,4,276,0
 46416657,375561658,Kurt & Alexandra,Noe Valley,37.7513,-122.43315,Entire home/apt,175,30,5,1,275,2
 47175669,381077616,Annette,Pacific Heights,37.79024,-122.43743,Entire home/apt,200,30,11,4,233,3
-45806097,358097,Andrew,Mission,37.76225,-122.4143,Entire home/apt,195,35,3,1,2,3
 45813759,20766247,Jim,Noe Valley,37.7476,-122.43197,Entire home/apt,303,3,101,1,34,46
 45814991,3240477,Rick,Mission,37.75432,-122.4085,Entire home/apt,105,30,14,1,226,2
 46417292,375566645,Mark,Mission,37.76909,-122.42368,Private room,53,30,8,14,166,6
@@ -4079,9 +3860,7 @@
 46505554,4873926,Katherine & Philip,Marina,37.79757,-122.42562,Entire home/apt,274,30,6,2,157,1
 46509101,1433031,Patti,West of Twin Peaks,37.74068,-122.46144,Private room,50,30,0,1,0,0
 46512891,369884091,Sally,Outer Sunset,37.75134,-122.50476,Private room,82,2,99,3,338,51
-46526780,6340691,Mike,South of Market,37.77719,-122.40934,Entire home/apt,100,55,3,2,206,1
 48047294,151148,Rebecca,Outer Sunset,37.75058,-122.48564,Entire home/apt,189,4,15,1,57,13
-47403596,382671568,Edlira,Downtown/Civic Center,37.78081,-122.4224,Entire home/apt,120,90,6,1,232,3
 47475692,371841329,Beth,South of Market,37.77317,-122.41463,Entire home/apt,155,30,0,14,47,0
 47486385,22541573,Ken,South of Market,37.77562,-122.41805,Entire home/apt,289,30,1,17,329,0
 46527097,129904961,Galina,Outer Richmond,37.77873,-122.48769,Entire home/apt,120,30,3,5,130,1
@@ -4099,10 +3878,8 @@
 46617563,22541573,Ken,Financial District,37.78789,-122.4024,Entire home/apt,280,30,3,17,329,0
 46640594,27236449,Tim,West of Twin Peaks,37.73877,-122.44778,Entire home/apt,300,10,26,1,222,12
 48070225,109191440,Rebecca,Mission,37.75295,-122.42071,Entire home/apt,400,14,7,1,358,0
-46640666,4869538,Deb,Bernal Heights,37.74616,-122.41061,Entire home/apt,150,90,0,1,0,0
 48076259,14059100,Ani,South of Market,37.78536,-122.39508,Entire home/apt,240,30,3,1,282,2
 48082869,96117,Annette,Bayview,37.7372,-122.38801,Entire home/apt,249,2,5,2,0,5
-47586305,179291294,Ati,South of Market,37.7772,-122.39472,Entire home/apt,100,180,5,1,364,1
 46652698,2060012,Ari,Western Addition,37.77225,-122.42876,Private room,80,30,5,15,275,0
 48584558,391966955,John,Mission,37.7523,-122.41912,Entire home/apt,145,30,1,1,0,1
 47586424,206056863,Justin,Castro/Upper Market,37.75975,-122.44625,Entire home/apt,215,2,47,1,39,31
@@ -4126,7 +3903,6 @@
 47748204,694377,Beatrice,Nob Hill,37.79384,-122.41409,Entire home/apt,100,30,7,16,265,4
 47804599,137211962,Jing,Inner Sunset,37.76148,-122.47514,Private room,35,30,2,6,211,0
 47820287,2022946,Sarah,Haight Ashbury,37.76542,-122.44781,Entire home/apt,200,30,0,1,0,0
-48605702,10699902,Kevin Michelle And Liana,Western Addition,37.77867,-122.42667,Entire home/apt,130,90,3,3,180,1
 47857629,41630936,Ryan,Ocean View,37.71957,-122.45192,Private room,117,3,29,1,246,8
 48624676,9790104,Anita,South of Market,37.77745,-122.41274,Entire home/apt,150,30,10,1,342,6
 47863424,100428075,Sam,Financial District,37.79614,-122.39688,Entire home/apt,150,30,1,3,365,0
@@ -4163,7 +3939,6 @@
 48230046,385452652,James,Outer Richmond,37.77589,-122.49409,Entire home/apt,141,2,115,1,53,58
 48230949,381077616,Annette,Pacific Heights,37.78918,-122.4376,Entire home/apt,200,30,14,4,302,7
 48657907,56440441,Dan,Mission,37.7592,-122.41589,Entire home/apt,150,31,8,1,238,3
-49143540,75720211,Saeid,South of Market,37.78862,-122.39018,Entire home/apt,250,150,2,1,247,2
 48661006,2060012,Ari,Western Addition,37.77352,-122.4306,Private room,89,30,2,15,183,0
 48664836,2363198,Alexandra,Outer Sunset,37.75151,-122.50967,Entire home/apt,325,31,2,1,77,1
 48239143,2381759,Kelly,Nob Hill,37.79308,-122.41494,Entire home/apt,250,14,11,1,33,2
@@ -4249,7 +4024,6 @@
 48549141,428464,Andrew,Mission,37.76579,-122.42118,Private room,247,1,64,1,89,46
 48550865,785720,Robert,Inner Richmond,37.78553,-122.47062,Entire home/apt,129,30,2,1,107,1
 48551051,8329745,Alice,Mission,37.75742,-122.40647,Entire home/apt,130,30,2,5,91,2
-48566499,2060012,Ari,Western Addition,37.77394,-122.42892,Private room,81,90,1,15,213,0
 48900825,2489655,Christophe,Castro/Upper Market,37.7586,-122.44153,Entire home/apt,215,30,20,1,152,2
 49286754,27658327,Mei,Pacific Heights,37.79355,-122.42988,Private room,91,31,1,1,153,1
 48903812,91488071,Dan And Jan,Outer Richmond,37.7867,-122.47942,Entire home/apt,161,30,5,3,253,3
@@ -4277,7 +4051,6 @@
 48975753,739859,Jeff,Mission,37.75978,-122.40721,Entire home/apt,160,30,5,2,276,2
 48980962,157999191,Berlin,Marina,37.79919,-122.43421,Private room,57,30,6,24,177,3
 48981272,157999191,Berlin,Marina,37.80097,-122.43311,Private room,55,30,7,24,175,4
-49011402,1339470,Sandy,Outer Richmond,37.77186,-122.51136,Entire home/apt,159,60,4,2,166,2
 49635792,30210149,Karan,South of Market,37.78772,-122.38936,Entire home/apt,199,30,8,1,244,4
 49015924,330231,Richard,Bernal Heights,37.74442,-122.42287,Entire home/apt,138,30,4,10,294,3
 49016583,11026772,Kathy,Russian Hill,37.80167,-122.42338,Entire home/apt,245,30,8,1,105,5
@@ -4289,7 +4062,6 @@
 49345149,551394,Josh,Mission,37.76745,-122.42426,Entire home/apt,129,30,12,2,18,7
 49346564,323621670,Hotel Caza,North Beach,37.80658722,-122.4180145,Private room,188,1,233,6,349,34
 49639075,46884383,Kinsley,Parkside,37.74192,-122.48817,Entire home/apt,130,4,46,1,19,26
-49038059,226555948,Gi'Angelo,South of Market,37.78076,-122.39806,Entire home/apt,131,120,4,14,360,2
 49370364,325755259,Miko,Outer Sunset,37.76138,-122.48927,Private room,55,30,0,4,365,0
 49041741,34007109,Vicky,Inner Sunset,37.76027,-122.47527,Entire home/apt,310,1,81,3,89,35
 49640324,344223871,Jeffrey,Western Addition,37.7737,-122.42865,Private room,81,1,135,3,33,108
@@ -4312,7 +4084,6 @@
 49444697,398787940,Fa Hui,Excelsior,37.71789,-122.43813,Entire home/apt,109,1,59,2,165,38
 49081984,394604022,Veronica,Downtown/Civic Center,37.78967,-122.41261,Private room,96,2,74,4,151,38
 49089497,394604022,Veronica,Downtown/Civic Center,37.78953,-122.41274,Private room,92,2,53,4,168,31
-49090400,6340691,Mike,South of Market,37.77782,-122.41168,Entire home/apt,100,55,4,2,220,1
 49093030,229685084,Zhi Yuan,Excelsior,37.72299,-122.42622,Entire home/apt,130,3,67,1,93,38
 49450915,23612531,Maggie,Western Addition,37.77783,-122.42464,Private room,160,30,1,1,5,0
 49467545,323621670,Hotel Caza,North Beach,37.80658722,-122.4180145,Private room,213,1,63,6,364,55
@@ -4363,7 +4134,6 @@
 49800767,191758262,Haixia,Bayview,37.73018,-122.39922,Entire home/apt,126,2,53,1,150,29
 49592154,105835535,Peter,Marina,37.80015,-122.43413,Entire home/apt,158,30,21,1,326,6
 49592921,216743744,Nina,Bernal Heights,37.739,-122.41786,Entire home/apt,360,3,9,1,30,4
-50310528,267895362,Rocky,Mission,37.76945,-122.42379,Private room,54,365,1,55,364,0
 49593662,10162964,Shelley,Castro/Upper Market,37.76136,-122.44253,Entire home/apt,110,30,6,5,332,3
 50316375,303118342,Jesse,Ocean View,37.72292,-122.45486,Entire home/apt,80,30,1,23,293,1
 50323147,1892430,Jan,Ocean View,37.72178,-122.45418,Entire home/apt,67,30,4,29,292,3
@@ -4375,10 +4145,8 @@
 49597213,290158702,Fiona,Marina,37.79809,-122.43464,Entire home/apt,175,30,6,1,340,3
 49597911,157999191,Berlin,Marina,37.80116,-122.43457,Private room,56,30,4,24,40,4
 49832411,39651978,Linda,Crocker Amazon,37.71076,-122.43362,Entire home/apt,90,3,11,1,102,11
-50335212,4304238,Melik,South of Market,37.77311,-122.41917,Private room,43,60,7,2,62,3
 50335765,19139775,Lorie,Chinatown,37.79102,-122.40799,Private room,296,30,0,2,365,0
 49834625,1671976,Stefan,Nob Hill,37.796,-122.41101,Entire home/apt,140,30,4,3,139,3
-50338646,115849,Hiromi,Downtown/Civic Center,37.7887,-122.41302,Private room,63,32,3,12,89,1
 50341722,1892430,Jan,Pacific Heights,37.79141,-122.43605,Entire home/apt,125,30,0,29,181,0
 50361081,4184630,Kevin,Bernal Heights,37.74732,-122.4182,Entire home/apt,154,2,49,1,34,23
 49835338,401899585,Bin,Bayview,37.72212,-122.40008,Entire home/apt,179,2,40,1,161,38
@@ -4401,16 +4169,12 @@
 50384522,303137606,Hotel Spero,Downtown/Civic Center,37.78714,-122.41207,Private room,185,1,0,10,302,0
 49859494,45866515,Marcus & Claire,Outer Sunset,37.76369,-122.48426,Entire home/apt,235,2,68,1,0,37
 50384553,303137606,Hotel Spero,Downtown/Civic Center,37.78716,-122.41253,Private room,205,1,0,10,233,0
-49859540,267895362,Rocky,Western Addition,37.7711,-122.4253,Private room,50,365,0,55,364,0
-49862664,267895362,Rocky,Mission,37.76987,-122.42332,Private room,47,365,0,55,364,0
 50384582,303137606,Hotel Spero,Downtown/Civic Center,37.78536,-122.41088,Private room,195,1,0,10,270,0
 50384606,303137606,Hotel Spero,Downtown/Civic Center,37.7871,-122.41077,Private room,220,1,0,10,297,0
-49863191,267895362,Rocky,Mission,37.76918,-122.42327,Private room,60,365,1,55,364,0
 50384637,303137606,Hotel Spero,Downtown/Civic Center,37.7852,-122.41239,Private room,245,1,0,10,255,0
 50384670,303137606,Hotel Spero,Downtown/Civic Center,37.78549,-122.41061,Private room,220,1,0,10,221,0
 50770499,347434681,Ori,Western Addition,37.77064,-122.42554,Entire home/apt,84,30,6,1,279,3
 50384733,303137606,Hotel Spero,Downtown/Civic Center,37.78696,-122.41056,Private room,165,1,1,10,191,1
-49864106,267895362,Rocky,Noe Valley,37.75352,-122.43037,Entire home/apt,90,365,0,55,364,0
 50392940,387801231,Coleman,Russian Hill,37.80587,-122.420876,Entire home/apt,84,30,9,5,128,5
 50396652,9838978,Connie,Mission,37.7522,-122.42348,Entire home/apt,320,30,0,2,125,0
 49887963,17157402,Brooke,Parkside,37.73726,-122.50636,Entire home/apt,271,2,55,1,38,30
@@ -4445,7 +4209,6 @@
 50065326,387130426,Hotel Del Sol,Marina,37.79995,-122.43471,Private room,155,1,87,3,272,36
 50065520,387130426,Hotel Del Sol,Marina,37.79937,-122.433929,Private room,195,1,18,3,294,6
 50066936,24776510,John,South of Market,37.77049,-122.42169,Entire home/apt,150,30,9,4,0,4
-50070597,401286558,Dorian Jamal,Mission,37.75873,-122.42394,Entire home/apt,60,365,1,1,64,1
 50087990,291495355,Al,North Beach,37.80473,-122.40918,Entire home/apt,139,30,7,2,60,3
 50100184,14104528,Joseph,South of Market,37.78543,-122.3956,Entire home/apt,135,30,6,1,159,4
 50875485,407298390,San Francisco,Marina,37.800919,-122.425812,Private room,99,1,435,9,351,202
@@ -4485,11 +4248,8 @@
 50196447,189845056,Mili,Mission,37.74985,-122.42127,Entire home/apt,135,30,4,4,152,3
 50201215,8145777,Michael,South of Market,37.77905,-122.40512,Entire home/apt,130,30,3,7,160,1
 51027324,704593,Adam,Bernal Heights,37.74715,-122.42096,Private room,63,3,57,1,48,29
-50547275,267895362,Rocky,Nob Hill,37.78943,-122.41943,Private room,60,365,0,55,364,0
 50547535,29591034,Brian,Nob Hill,37.78874,-122.42099,Entire home/apt,278,3,31,4,270,31
 51027403,8091342,William,Western Addition,37.78076,-122.44039,Entire home/apt,200,10,3,1,0,3
-50547559,267895362,Rocky,Nob Hill,37.78931,-122.41987,Private room,50,365,0,55,364,0
-50547744,267895362,Rocky,Nob Hill,37.79083,-122.41759,Private room,47,365,0,55,364,0
 50549243,737738,Ting Ting,Western Addition,37.77315,-122.42634,Entire home/apt,199,4,16,1,0,7
 50581810,43453992,Alison,Outer Sunset,37.74872,-122.49485,Entire home/apt,153,1,119,1,70,119
 51045180,383468034,Elena,South of Market,37.78497,-122.39276,Entire home/apt,125,30,0,1,0,0
@@ -4570,7 +4330,7 @@
 50734589,30437251,Steve,Russian Hill,37.7993,-122.41903,Entire home/apt,471,30,17,1,262,14
 51248089,89685111,Natasja,Inner Richmond,37.7747,-122.46873,Private room,88,30,2,1,364,2
 51250970,8030315,Sebastian,Excelsior,37.72523,-122.40763,Entire home/apt,165,30,4,1,229,2
-51265257,16762410,Benoîte,Western Addition,37.78203,-122.4419,Private room,85,3,71,1,38,67
+51265257,16762410,Beno�te,Western Addition,37.78203,-122.4419,Private room,85,3,71,1,38,67
 51497434,417121494,CitizenM San Francisco,Downtown/Civic Center,37.7849,-122.40791,Private room,139,1,61,1,76,61
 51505215,346212466,Marika,Pacific Heights,37.792068,-122.440948,Entire home/apt,315,3,39,1,238,29
 50749922,15376205,Simon,Bayview,37.71425,-122.38943,Private room,76,1,6,3,0,4
@@ -4642,8 +4402,6 @@
 52309464,33399301,Ryan,Mission,37.7599,-122.4163,Entire home/apt,160,30,4,1,212,3
 52315138,421626962,Larry,Western Addition,37.7715,-122.42906,Private room,96,2,71,4,76,59
 51622113,407298390,San Francisco,Marina,37.80017,-122.42528,Shared room,41,1,118,9,361,90
-51639052,226555948,Gi'Angelo,Excelsior,37.72409,-122.41672,Private room,79,120,4,14,325,4
-51639202,226555948,Gi'Angelo,Excelsior,37.72404,-122.41655,Private room,47,120,1,14,364,1
 52009897,20717633,Shagun,Western Addition,37.78069,-122.43029,Private room,89,1,79,3,126,54
 52009898,20717633,Shagun,Western Addition,37.78069,-122.43167,Private room,64,1,41,3,62,36
 52010007,7037328,Dipti,Bernal Heights,37.736839,-122.414902,Private room,160,1,30,1,23,27
@@ -4721,7 +4479,6 @@
 52144461,203065170,Serhan,Noe Valley,37.74769,-122.43305,Private room,59,30,3,14,0,2
 52144541,316362,Laura,Western Addition,37.77565,-122.42678,Entire home/apt,199,30,0,1,0,0
 52148168,403919314,Daikha,Bernal Heights,37.74001,-122.42001,Entire home/apt,189,3,45,1,110,36
-52519816,424895335,Music City,Nob Hill,37.78912,-122.42062,Shared room,27,32,0,1,178,0
 52523471,2060012,Ari,Western Addition,37.77197,-122.43055,Entire home/apt,289,30,0,15,236,0
 52533880,28371410,Kristine,Outer Sunset,37.74954,-122.50145,Entire home/apt,250,14,8,1,216,4
 52901955,418905992,Urban,Financial District,37.78939,-122.40611,Private room,102,7,24,2,301,23
@@ -4792,7 +4549,6 @@
 52955013,428712037,Annison,Outer Sunset,37.761391,-122.509018,Private room,103,1,49,2,0,22
 53497601,234725693,Paloma,Bernal Heights,37.73489,-122.4156,Entire home/apt,321,2,21,1,232,21
 53502313,433246480,Nick,Haight Ashbury,37.77106,-122.44072,Entire home/apt,272,1,7,2,28,7
-52974854,10770504,Becca,Excelsior,37.72932,-122.42592,Entire home/apt,60,150,4,1,365,3
 52985560,415840703,Anyplace,South of Market,37.77493,-122.41567,Entire home/apt,131,30,3,24,364,2
 52989479,415840703,Anyplace,South of Market,37.7751,-122.41764,Entire home/apt,215,30,2,24,332,2
 52996565,52178915,Jim,Downtown/Civic Center,37.77836,-122.42317,Entire home/apt,91,2,31,43,10,22
@@ -4813,7 +4569,6 @@
 53044428,162419166,Carol,Haight Ashbury,37.7697,-122.44431,Private room,86,3,33,1,54,28
 53047143,203065170,Serhan,Noe Valley,37.7487,-122.43295,Private room,79,30,0,14,0,0
 53065936,1282594,Rachel,Mission,37.75673,-122.40795,Private room,70,30,2,1,363,1
-53066536,429575203,Jesse,Financial District,37.79689,-122.40521,Private room,70,32,2,3,247,2
 53519481,150749015,Kalin,Outer Richmond,37.78029,-122.49069,Private room,60,30,0,7,0,0
 53096053,426258540,Iraida,Noe Valley,37.75464,-122.43863,Private room,449,3,60,1,77,46
 53112260,4103249,Andrew,Noe Valley,37.75225,-122.4313,Entire home/apt,500,30,1,1,280,1
@@ -4888,7 +4643,6 @@
 53260411,2001297,Urs Leonhardt,Mission,37.7591,-122.40706,Private room,80,31,0,3,231,0
 53276646,293025002,Bi,South of Market,37.78426,-122.39557,Private room,114,1,66,5,116,60
 53277674,293025002,Bi,South of Market,37.78261,-122.39561,Private room,122,1,51,5,137,50
-53685139,17933642,Onur,South of Market,37.77363,-122.42083,Entire home/apt,159,60,0,1,0,0
 53283176,431373650,Joseph,Russian Hill,37.79715707,-122.4231197,Entire home/apt,114,30,0,1,146,0
 53299611,203065170,Serhan,Noe Valley,37.74866,-122.43303,Private room,49,30,1,14,0,1
 54073573,438257304,Minnie And Paul,Visitacion Valley,37.72286,-122.40306,Entire home/apt,142,1,18,1,364,16
@@ -4954,7 +4708,6 @@
 53363558,420110768,Stephan,Bernal Heights,37.74598,-122.41271,Entire home/apt,225,3,5,1,169,4
 53839367,401361,Avlok,North Beach,37.79872,-122.40654,Entire home/apt,150,30,0,3,214,0
 53842003,401361,Avlok,North Beach,37.79873,-122.40572,Entire home/apt,150,30,0,3,309,0
-54199501,429575203,Jesse,Financial District,37.79753,-122.40483,Private room,70,32,0,3,253,0
 54208170,9219277,Henry,Parkside,37.7419,-122.47562,Private room,50,30,3,10,179,3
 53849558,3793516,Audrey,South of Market,37.78425,-122.39254,Entire home/apt,195,30,6,2,178,5
 53850659,436205910,Kristin And Kaleen,Outer Mission,37.71421,-122.44785,Entire home/apt,121,30,3,2,225,3
@@ -4987,7 +4740,6 @@
 54243455,897844,Sarah,Bayview,37.73779,-122.38779,Entire home/apt,198,2,21,1,50,21
 5.68323E+17,446418201,Christine,Outer Sunset,37.75617,-122.4786,Entire home/apt,128,2,40,3,126,39
 54245229,303118342,Jesse,Pacific Heights,37.79018,-122.43591,Entire home/apt,111,30,0,23,346,0
-54245906,226555948,Gi'Angelo,Excelsior,37.7266,-122.40328,Private room,46,120,4,14,359,4
 54248641,428980119,Juanxiu,Bayview,37.73782,-122.38747,Entire home/apt,106,1,57,3,136,57
 54248789,203835246,Justilien,Inner Richmond,37.78296,-122.46686,Entire home/apt,123,30,2,2,338,2
 54263591,440030176,Mirjam,Haight Ashbury,37.7696,-122.44924,Entire home/apt,245,2,12,1,56,7
@@ -5013,14 +4765,13 @@
 54308591,52178915,Jim,Downtown/Civic Center,37.77963,-122.4218,Entire home/apt,57,2,22,43,0,20
 5.70355E+17,94282453,Kimberly,Parkside,37.74536,-122.47367,Private room,65,2,32,1,172,32
 54315869,22694845,Kristin,Noe Valley,37.75334,-122.4311,Entire home/apt,400,30,0,1,227,0
-5.45572E+17,344518542,Trevor,North Beach,37.80468,-122.41108,Entire home/apt,185,365,0,1,365,0
 5.45591E+17,9219277,Henry,Parkside,37.74252,-122.47387,Private room,55,30,4,10,125,4
 5.45615E+17,20704144,William,Chinatown,37.79148,-122.40808,Entire home/apt,161,1,5,20,8,5
 5.45737E+17,3666375,Victoria,South of Market,37.77656,-122.40842,Entire home/apt,140,30,1,1,295,1
 54318134,265801171,Arash,South of Market,37.78238,-122.39818,Entire home/apt,121,30,5,1,252,4
 54341429,157999191,Berlin,Marina,37.79923,-122.43228,Private room,72,30,6,24,273,5
 54342697,52178915,Jim,Downtown/Civic Center,37.77916,-122.42119,Entire home/apt,60,2,7,43,0,7
-5.71085E+17,17506355,Won Chan (원찬),Noe Valley,37.74997,-122.43275,Entire home/apt,347,2,9,1,0,9
+5.71085E+17,17506355,Won Chan (??),Noe Valley,37.74997,-122.43275,Entire home/apt,347,2,9,1,0,9
 54343140,440924608,Javier,Nob Hill,37.79342,-122.40987,Entire home/apt,134,30,3,1,75,3
 54381390,2274937,Dan,Potrero Hill,37.76314,-122.38728,Entire home/apt,239,30,3,1,196,3
 54398958,25607186,Savvy Travels,Noe Valley,37.7507,-122.427,Entire home/apt,128,30,2,4,189,2
@@ -5036,14 +4787,12 @@
 5.10199E+17,4150590,Susan,Marina,37.7965114,-122.4326496,Entire home/apt,235,30,6,2,193,6
 5.71836E+17,447132047,Tana,Haight Ashbury,37.77338,-122.44675,Entire home/apt,228,2,19,1,80,19
 5.47871E+17,11164486,Juan & Ines,Bernal Heights,37.74483,-122.41636,Entire home/apt,194,30,1,1,266,1
-5.48738E+17,226555948,Gi'Angelo,Excelsior,37.7223,-122.41609,Private room,69,120,6,14,293,6
 5.71856E+17,375566645,Mark,Mission,37.76797,-122.41788,Private room,70,30,7,14,207,7
 5.71881E+17,375566645,Mark,Mission,37.7667,-122.4179,Private room,68,30,4,14,240,4
 5.719E+17,375566645,Mark,Mission,37.76658,-122.41996,Private room,46,30,4,14,248,4
 5.72489E+17,46339887,Tim And Leah,Western Addition,37.77693,-122.44399,Entire home/apt,280,31,3,1,136,3
 5.72672E+17,209113456,Cedric,Ocean View,37.71614,-122.45306,Entire home/apt,199,31,0,1,0,0
 5.73148E+17,19521091,Andrew,Mission,37.76478,-122.40694,Entire home/apt,395,3,5,1,102,5
-5.73282E+17,447451488,Dorian Jamal,Castro/Upper Market,37.76552,-122.43251,Entire home/apt,100,365,1,1,365,1
 5.87679E+17,450633207,Maureen,Haight Ashbury,37.7713,-122.44141,Private room,499,2,17,1,62,17
 5.87832E+17,1892430,Jan,Inner Sunset,37.7572,-122.46837,Entire home/apt,110,30,0,29,340,0
 5.73572E+17,263502162,Landing,South of Market,37.78072,-122.40297,Entire home/apt,408,30,0,7,356,0
@@ -5100,7 +4849,6 @@
 5.57495E+17,23320400,Darren,Mission,37.7545,-122.42019,Entire home/apt,325,30,3,1,69,3
 5.5753E+17,10800264,Ada,South of Market,37.78315,-122.39469,Entire home/apt,139,30,5,3,156,5
 5.58144E+17,81597039,Marie,Lakeshore,37.7313,-122.47612,Private room,38,30,2,3,278,2
-5.58158E+17,444243810,Daniel,Western Addition,37.7751,-122.42872,Entire home/apt,175,365,0,1,364,0
 5.58252E+17,22735680,Leslie,Outer Sunset,37.76306,-122.48215,Entire home/apt,140,30,6,2,281,6
 5.81245E+17,225170592,Murat,North Beach,37.804966,-122.408684,Private room,354,2,8,2,85,8
 5.81275E+17,52178915,Jim,Downtown/Civic Center,37.77759,-122.42117,Entire home/apt,98,2,13,43,0,13
@@ -5136,7 +4884,6 @@
 5.62579E+17,82220255,Lloyd,Inner Sunset,37.7488,-122.47347,Entire home/apt,180,1,19,1,356,19
 5.62706E+17,107434423,Blueground,South of Market,37.77406,-122.391,Entire home/apt,268,31,0,138,123,0
 5.63081E+17,262875,Paul,Twin Peaks,37.74928,-122.44407,Entire home/apt,110,30,0,3,324,0
-5.63733E+17,38836,Bernat,Pacific Heights,37.79025,-122.42544,Entire home/apt,118,90,0,22,339,0
 5.91929E+17,451493939,Sophia,Nob Hill,37.796944,-122.411377,Entire home/apt,118,30,1,2,15,1
 5.92034E+17,443464789,Kenneth,Downtown/Civic Center,37.77778,-122.42264,Entire home/apt,239,2,0,2,124,0
 5.92306E+17,7089131,Daniel,Inner Richmond,37.77501,-122.46337,Entire home/apt,91,30,2,4,281,2
@@ -5177,11 +4924,9 @@
 6.1556E+17,20704144,William,Downtown/Civic Center,37.77965,-122.42176,Entire home/apt,144,2,11,20,12,11
 6.1618E+17,147072937,Timothy,Bernal Heights,37.74396,-122.41788,Entire home/apt,139,1,8,2,0,8
 6.16257E+17,456729254,Lake,Western Addition,37.774364,-122.431107,Entire home/apt,297,4,10,1,29,10
-6.1654E+17,151399600,Pamela,Haight Ashbury,37.771351,-122.442619,Entire home/apt,375,180,0,5,314,0
 6.16733E+17,20859407,Doris,Excelsior,37.719868,-122.438248,Private room,50,30,2,3,183,2
 6.17301E+17,44360783,Kelly,Marina,37.80008,-122.43153,Entire home/apt,291,1,9,1,31,9
 6.03518E+17,24850666,Sean,South of Market,37.77297,-122.39015,Private room,97,30,0,1,0,0
-6.03609E+17,21994,Aaron,Haight Ashbury,37.76579666,-122.4522247,Private room,53,32,2,13,364,2
 6.03888E+17,30774210,Brett,Inner Sunset,37.75508,-122.4738,Entire home/apt,171,2,22,1,59,22
 6.04147E+17,32220701,Ryker,Marina,37.79936,-122.44266,Entire home/apt,477,2,8,1,85,8
 6.04268E+17,148427269,Amsi,Russian Hill,37.80067,-122.4221,Entire home/apt,175,30,0,10,70,0
@@ -5198,7 +4943,6 @@
 6.17588E+17,203065170,Serhan,Noe Valley,37.74711,-122.43284,Private room,63,30,0,14,277,0
 6.18044E+17,44134050,Olivier,Excelsior,37.72004757,-122.4305614,Entire home/apt,100,30,0,2,30,0
 6.18294E+17,1339470,Sandy,Outer Richmond,37.77486,-122.51211,Entire home/apt,120,30,0,2,169,0
-6.18928E+17,146938787,Susan,South of Market,37.78290815,-122.388948,Entire home/apt,335,90,0,1,174,0
 5.95032E+17,139272777,Janelle,Bayview,37.74109,-122.38803,Private room,93,30,3,5,59,3
 6.04447E+17,3901864,David,South of Market,37.77477,-122.39853,Entire home/apt,200,30,4,1,330,4
 6.19101E+17,17379937,Jean,Parkside,37.7358,-122.49811,Entire home/apt,275,3,0,1,2,0
@@ -5215,7 +4959,6 @@
 6.19797E+17,10501924,Karen,Western Addition,37.7796,-122.43782,Private room,75,30,0,7,364,0
 6.19818E+17,1117085,Sarah,Mission,37.76280063,-122.4207393,Entire home/apt,246,2,0,1,352,0
 5.96925E+17,452514150,Jesse,Financial District,37.7892,-122.39333,Entire home/apt,240,30,3,1,149,3
-5.97035E+17,21994,Aaron,Haight Ashbury,37.765797,-122.452225,Private room,53,32,3,13,339,3
 6.05899E+17,77776181,Himanshu,South of Market,37.78826,-122.39304,Entire home/apt,245,1,4,1,108,4
 6.2024E+17,226367074,Jerome,South of Market,37.77318,-122.40049,Entire home/apt,220,30,1,1,280,1
 5.97175E+17,152779264,William,Inner Richmond,37.78027,-122.46547,Entire home/apt,204,31,14,1,67,14
@@ -5229,7 +4972,6 @@
 5.9771E+17,38391574,Sam,Parkside,37.74481,-122.49315,Entire home/apt,126,1,29,1,29,29
 5.97836E+17,70722023,Michael,Downtown/Civic Center,37.78854,-122.4111,Entire home/apt,99,1,1,41,6,1
 5.98112E+17,450929962,Jessica,Outer Sunset,37.74923,-122.50577,Private room,67,1,24,3,93,24
-5.98586E+17,429575203,Jesse,Financial District,37.79771,-122.40336,Private room,45,32,0,3,240,0
 6.21071E+17,457803630,Eva,Parkside,37.74193,-122.49013,Entire home/apt,155,2,51,1,142,51
 5.99227E+17,70722023,Michael,Downtown/Civic Center,37.78871,-122.41157,Entire home/apt,146,1,3,41,2,3
 5.99283E+17,70722023,Michael,Downtown/Civic Center,37.78725,-122.40944,Entire home/apt,130,1,0,41,3,0
@@ -5273,7 +5015,6 @@
 6.08608E+17,1257432,San Francisco Life Real Estate,Mission,37.76705,-122.42038,Entire home/apt,115,30,1,28,361,1
 6.00855E+17,5317770,Clifton,Castro/Upper Market,37.75897,-122.44022,Entire home/apt,160,30,31,1,169,31
 6.01609E+17,453537291,Robert,Mission,37.75814,-122.42161,Entire home/apt,295,3,11,1,28,11
-6.01694E+17,21994,Aaron,Haight Ashbury,37.765797,-122.452225,Private room,53,32,1,13,364,1
 6.2686E+17,4001681,Katie,Excelsior,37.72007272,-122.4269611,Entire home/apt,142,2,3,1,107,3
 6.27336E+17,340080088,Bianka,Russian Hill,37.80582,-122.4196,Entire home/apt,305,2,0,13,89,0
 6.27365E+17,694377,Beatrice,Pacific Heights,37.79527,-122.43359,Entire home/apt,300,30,1,16,154,1
@@ -5312,7 +5053,6 @@
 6.3911E+17,31616500,Alex,Potrero Hill,37.75482,-122.40127,Entire home/apt,146,3,11,1,195,11
 6.32061E+17,14437576,Heewon,Nob Hill,37.79562,-122.42084,Entire home/apt,133,30,3,1,309,3
 6.39252E+17,4430421,Landmark,Downtown/Civic Center,37.78399,-122.41157,Entire home/apt,79,30,0,154,269,0
-6.39347E+17,21994,Aaron,Haight Ashbury,37.76579666,-122.4522247,Private room,55,32,0,13,364,0
 6.39863E+17,88566861,Kasa,Pacific Heights,37.79077,-122.43147,Entire home/apt,175,7,5,17,289,5
 6.3271E+17,176896176,Peter,Outer Richmond,37.7743,-122.49334,Entire home/apt,117,1,21,1,134,21
 6.39863E+17,88566861,Kasa,Pacific Heights,37.79111,-122.42954,Entire home/apt,165,7,3,17,285,3
@@ -5347,7 +5087,6 @@
 6.35304E+17,88593294,Mohamed,Financial District,37.79719,-122.39965,Private room,75,31,2,1,218,2
 6.42978E+17,134130503,Olga,North Beach,37.79918,-122.40273,Private room,38,30,0,1,65,0
 6.43399E+17,459402263,HesterBnB,Visitacion Valley,37.71281,-122.40052,Shared room,169,1,12,3,354,12
-6.43463E+17,9578079,Bonny,Noe Valley,37.7493,-122.42576,Entire home/apt,220,365,0,2,364,0
 6.43535E+17,1257432,San Francisco Life Real Estate,Financial District,37.78967,-122.39542,Entire home/apt,220,30,0,28,352,0
 6.43568E+17,23014965,Daria,South of Market,37.77311146,-122.3981463,Entire home/apt,270,2,4,1,91,4
 6.43687E+17,12006440,Dominik,Pacific Heights,37.79352,-122.42387,Entire home/apt,300,30,1,1,121,1
@@ -5386,7 +5125,6 @@
 6.14766E+17,450929962,Jessica,Outer Sunset,37.75039,-122.50602,Entire home/apt,215,1,9,3,83,9
 6.46234E+17,461375438,Amy,Outer Richmond,37.78236,-122.48,Entire home/apt,113,2,37,1,154,37
 6.47115E+17,117615,Christina,Bernal Heights,37.73916,-122.41246,Entire home/apt,163,30,3,1,270,3
-6.47146E+17,226555948,Gi'Angelo,Excelsior,37.72776,-122.40803,Private room,90,120,4,14,40,4
 6.47277E+17,21501318,Carlos,Financial District,37.7857425,-122.3988969,Entire home/apt,182,14,1,1,107,1
 6.53568E+17,39396179,Perryn,Haight Ashbury,37.7675,-122.44597,Entire home/apt,214,2,42,1,47,42
 6.15161E+17,55951934,Amanda,Financial District,37.79862,-122.39821,Entire home/apt,475,30,2,1,148,2
@@ -5403,7 +5141,6 @@
 6.54099E+17,6091604,Neeraj,Outer Mission,37.72747,-122.43576,Entire home/apt,82,30,0,1,340,0
 6.15447E+17,456564615,Ruixi,Excelsior,37.73111,-122.41482,Private room,66,1,36,2,344,36
 6.69571E+17,103884979,Rams,South of Market,37.7764063,-122.4151619,Private room,101,1,24,14,177,24
-6.69732E+17,9080666,Sandy,Visitacion Valley,37.70973,-122.41387,Entire home/apt,175,60,0,6,277,0
 6.54316E+17,465398543,Dai,Potrero Hill,37.75949127,-122.4030836,Entire home/apt,280,30,0,1,365,0
 6.70123E+17,469250438,Charles,Western Addition,37.77039,-122.43113,Private room,73,2,30,4,71,30
 6.47525E+17,462054616,Tina,Outer Richmond,37.78056,-122.48703,Private room,66,1,0,3,341,0
@@ -5414,7 +5151,6 @@
 6.55162E+17,465608934,Tatiana,West of Twin Peaks,37.73612,-122.45461,Entire home/apt,164,1,50,1,73,50
 6.5518E+17,76945424,Jeff,Bernal Heights,37.74703,-122.41887,Entire home/apt,170,4,3,1,144,3
 6.48546E+17,226555948,Gi'Angelo,Excelsior,37.7267606,-122.4085215,Private room,75,2,1,14,325,1
-6.48548E+17,226555948,Gi'Angelo,Excelsior,37.7267606,-122.4085215,Private room,76,120,3,14,364,3
 6.4855E+17,226555948,Gi'Angelo,Excelsior,37.7267606,-122.4085215,Private room,77,30,3,14,355,3
 6.55354E+17,465647615,Yuexiu,Excelsior,37.71932,-122.43664,Private room,50,1,22,2,164,22
 6.48576E+17,457152913,Todd,Downtown/Civic Center,37.78901,-122.40938,Entire home/apt,204,2,1,4,49,1
@@ -5457,7 +5193,6 @@
 6.59364E+17,466577367,David,North Beach,37.805077,-122.4119729,Private room,250,1,5,2,169,5
 6.59435E+17,6664188,Lindy,Mission,37.75534,-122.424,Private room,158,1,25,1,118,25
 6.59437E+17,98933000,Ryan,Pacific Heights,37.7887697,-122.4458182,Private room,95,31,0,1,364,0
-6.60142E+17,9578079,Bonny,Mission,37.75847,-122.42304,Entire home/apt,200,364,0,2,364,0
 6.51642E+17,159753287,Shaun,Outer Sunset,37.74998,-122.48783,Entire home/apt,425,2,26,3,206,26
 6.60335E+17,316202062,KeyOpp,Inner Richmond,37.7807638,-122.4764602,Entire home/apt,238,30,3,5,242,3
 6.51675E+17,159753287,Shaun,Outer Sunset,37.7479,-122.48832,Entire home/apt,369,2,3,3,206,3
@@ -5538,17 +5273,14 @@
 6.65804E+17,133987063,Gabriel,Mission,37.76196,-122.4216,Entire home/apt,303,10,5,1,336,5
 6.74847E+17,470480212,Ben,Castro/Upper Market,37.76744,-122.43074,Entire home/apt,365,30,1,1,310,1
 6.88052E+17,4344170,Katherine,Ocean View,37.72184413,-122.4598487,Entire home/apt,162,2,7,2,67,7
-6.88351E+17,151399600,Pamela,Pacific Heights,37.79114,-122.44091,Entire home/apt,300,90,0,5,248,0
 6.66093E+17,43533135,Stan,South of Market,37.78125,-122.40854,Entire home/apt,131,30,0,6,365,0
 6.88475E+17,103884979,Rams,South of Market,37.77543,-122.41416,Private room,127,1,13,14,75,13
-6.88489E+17,151399600,Pamela,South of Market,37.77573,-122.40845,Entire home/apt,400,120,0,5,364,0
 6.74903E+17,214206241,Zeev,Bernal Heights,37.7410636,-122.4201252,Entire home/apt,140,2,29,1,41,29
 6.75406E+17,387789822,Johnson,Pacific Heights,37.79572,-122.43317,Entire home/apt,135,30,4,4,183,4
 6.6735E+17,36246070,Yannan,Outer Sunset,37.74794,-122.48782,Private room,135,1,8,1,89,8
-6.67535E+17,4605418,Türker,North Beach,37.8043609,-122.4040744,Entire home/apt,303,30,0,1,64,0
+6.67535E+17,4605418,T�rker,North Beach,37.8043609,-122.4040744,Entire home/apt,303,30,0,1,64,0
 6.88667E+17,66506549,Ryan,Nob Hill,37.78987,-122.41394,Private room,480,1,2,10,358,2
 6.68094E+17,18278276,Anjali,Haight Ashbury,37.77476,-122.44305,Entire home/apt,120,30,2,1,231,2
-6.75475E+17,3257969,Justin,Western Addition,37.77309,-122.42394,Entire home/apt,123,60,0,1,359,0
 6.68199E+17,459402263,HesterBnB,Visitacion Valley,37.71295,-122.39917,Shared room,245,1,0,3,290,0
 6.88733E+17,11734816,Mohit,Western Addition,37.78747,-122.43192,Private room,117,2,40,2,148,40
 6.682E+17,468753280,Lily,Inner Richmond,37.78177,-122.46255,Entire home/apt,172,2,24,1,45,24
@@ -5704,7 +5436,6 @@
 7.04554E+17,477314210,Kevin,Mission,37.75085,-122.41199,Entire home/apt,144,30,1,1,250,1
 7.25512E+17,2605749,James,Russian Hill,37.79979,-122.4162,Entire home/apt,500,3,18,1,79,18
 7.25525E+17,150749015,Kalin,Outer Sunset,37.76343,-122.48594,Private room,40,30,0,7,0,0
-7.25604E+17,39262391,Sonya,North Beach,37.80418,-122.41333,Entire home/apt,140,60,0,1,364,0
 7.25679E+17,263574742,Michael,Inner Richmond,37.7774245,-122.4511692,Entire home/apt,285,1,35,1,252,35
 7.16902E+17,180752048,Briin,Noe Valley,37.74873,-122.43365,Entire home/apt,250,14,2,1,97,2
 7.17311E+17,48484514,Ye,Parkside,37.74231,-122.47418,Private room,89,1,1,3,163,1
@@ -5807,7 +5538,6 @@
 7.07998E+17,46977552,Amol,South of Market,37.7728,-122.41687,Entire home/apt,300,2,0,1,332,0
 7.08018E+17,3739856,Annie,South of Market,37.77559,-122.40242,Entire home/apt,181,1,40,2,134,40
 7.0804E+17,153797883,Phyllis,Mission,37.76273,-122.42096,Entire home/apt,247,3,15,3,61,15
-7.32206E+17,482579048,Aida,Downtown/Civic Center,37.78592,-122.40928,Private room,65,180,0,1,268,0
 7.08117E+17,236978,Tami,Mission,37.76213,-122.41553,Entire home/apt,464,3,11,2,61,11
 7.32271E+17,476474223,Samantha,Downtown/Civic Center,37.7888,-122.4094,Entire home/apt,163,2,3,5,9,3
 7.32655E+17,401581193,Gangqin,Outer Sunset,37.75846933,-122.4770211,Private room,58,30,1,5,217,1
@@ -5840,7 +5570,6 @@
 7.33598E+17,157999191,Berlin,Marina,37.8009,-122.43272,Private room,62,30,0,24,337,0
 7.35873E+17,253104798,Rodrigo,Outer Richmond,37.78047,-122.49866,Entire home/apt,139,30,9,5,138,9
 7.36196E+17,97229245,Carly,Pacific Heights,37.79102939,-122.4402597,Entire home/apt,353,3,0,1,5,0
-7.33959E+17,13365140,Lucile,Mission,37.76474,-122.42379,Entire home/apt,127,42,0,1,302,0
 7.22717E+17,480835,Michele,Western Addition,37.78596,-122.43052,Private room,149,2,30,1,155,30
 7.22978E+17,78224887,Eve,Mission,37.761,-122.42153,Entire home/apt,450,2,9,1,244,9
 7.4992E+17,12967588,Cr,South of Market,37.77932,-122.40238,Entire home/apt,130,30,0,2,75,0
@@ -5990,10 +5719,8 @@
 7.48774E+17,6429436,Janette,Downtown/Civic Center,37.78742,-122.41141,Entire home/apt,263,2,0,8,280,0
 7.48809E+17,27045571,Chrissy,Excelsior,37.7272353,-122.4042599,Entire home/apt,130,1,3,1,54,3
 7.57235E+17,150318647,Darya,Outer Sunset,37.7570491,-122.4833646,Entire home/apt,235,1,11,1,332,11
-7.69892E+17,383071322,Joseph,Marina,37.80135,-122.42901,Entire home/apt,42,40,0,1,202,0
 7.69895E+17,77606360,Christine,Western Addition,37.77806,-122.42339,Private room,150,2,1,3,0,1
 7.69926E+17,316202062,KeyOpp,Inner Richmond,37.77703,-122.47067,Entire home/apt,196,30,1,5,337,1
-7.70934E+17,5438423,Rachel,Castro/Upper Market,37.75639,-122.43642,Entire home/apt,325,45,0,1,358,0
 7.49289E+17,480788402,Weizhen,Bayview,37.73684,-122.39802,Private room,53,1,19,4,297,19
 7.49459E+17,318516357,Andrew,Mission,37.76912306,-122.4219213,Entire home/apt,153,30,0,1,362,0
 7.57318E+17,17239555,Jonah,Inner Richmond,37.77682,-122.46787,Entire home/apt,189,2,2,1,75,2
@@ -6090,7 +5817,7 @@
 7.75558E+17,87164837,Drew,Downtown/Civic Center,37.78702,-122.40977,Entire home/apt,157,2,5,2,9,5
 7.98472E+17,335380214,June,Mission,37.75959721,-122.4174285,Private room,84,30,0,8,365,0
 7.98472E+17,335380214,June,Mission,37.76184253,-122.418092,Private room,95,30,0,8,363,0
-7.98527E+17,324459078,Luxury Living®️,South of Market,37.78516938,-122.3930017,Entire home/apt,136,30,0,1,364,0
+7.98527E+17,324459078,Luxury Living�?,South of Market,37.78516938,-122.3930017,Entire home/apt,136,30,0,1,364,0
 7.98676E+17,108200,Deniz,Mission,37.75550237,-122.4101508,Entire home/apt,200,30,0,1,112,0
 7.98785E+17,286802480,Henry,Potrero Hill,37.75364516,-122.3989559,Private room,50,30,1,6,364,1
 7.84012E+17,442029804,Live Suite,Downtown/Civic Center,37.78805129,-122.4123278,Entire home/apt,421,2,0,43,179,0
@@ -6313,7 +6040,6 @@
 8.1739E+17,486687635,Allen,Western Addition,37.78861945,-122.4225555,Private room,80,1,1,26,316,1
 8.17535E+17,9835117,Nikita,South of Market,37.78479778,-122.3936982,Entire home/apt,175,30,0,1,248,0
 7.96396E+17,24957114,Melvin,Mission,37.74866,-122.42346,Entire home/apt,160,1,0,1,339,0
-8.17686E+17,226555948,Gi'Angelo,Excelsior,37.72523076,-122.4047762,Private room,40,120,0,14,336,0
 8.18185E+17,286802480,Henry,Potrero Hill,37.75377085,-122.3990042,Private room,56,30,0,6,339,0
 8.18195E+17,495900269,Powell,Nob Hill,37.79199434,-122.4100004,Entire home/apt,164,1,0,5,57,0
 8.18231E+17,499392537,Michaiel,Castro/Upper Market,37.76306022,-122.432023,Entire home/apt,228,1,1,1,356,1
@@ -6353,7 +6079,6 @@
 8.26247E+17,496261748,Emily,Downtown/Civic Center,37.78452653,-122.4146793,Entire home/apt,120,1,1,8,335,1
 8.26248E+17,496261748,Emily,Downtown/Civic Center,37.78428197,-122.4151601,Entire home/apt,117,1,0,8,332,0
 8.26819E+17,54358169,Dhruv,Marina,37.8049,-122.43144,Entire home/apt,200,2,0,1,330,0
-8.36532E+17,1751553,Matt,Western Addition,37.7699851,-122.4265079,Entire home/apt,186,90,0,1,359,0
 8.36682E+17,43533135,Stan,South of Market,37.77965836,-122.4068994,Private room,80,3,0,6,356,0
 8.36875E+17,286975060,Ilya,Twin Peaks,37.7567471,-122.4457196,Entire home/apt,200,30,0,1,364,0
 8.37174E+17,495900269,Powell,Chinatown,37.79066169,-122.4082721,Entire home/apt,164,1,0,5,58,0
@@ -6372,7 +6097,6 @@
 8.27589E+17,219930816,Sonder (San Francisco),Downtown/Civic Center,37.78553352,-122.4090256,Private room,311,2,0,18,338,0
 8.37915E+17,141551265,Michele,Outer Sunset,37.763031,-122.4855091,Private room,135,1,0,1,364,0
 8.27604E+17,501239744,Beresford Arms,Downtown/Civic Center,37.78819724,-122.4140033,Entire home/apt,185,1,0,1,79,0
-8.28242E+17,21994,Aaron,Haight Ashbury,37.76516002,-122.4515666,Private room,55,32,0,13,364,0
 8.28321E+17,2020398,Jeannie,South of Market,37.78764587,-122.391842,Entire home/apt,500,30,0,1,364,0
 8.28537E+17,253104798,Rodrigo,Downtown/Civic Center,37.77992,-122.4223885,Entire home/apt,117,1,0,5,27,0
 8.37978E+17,32233664,Allison,Downtown/Civic Center,37.78887732,-122.4097235,Private room,71,2,0,1,3,0
@@ -6394,7 +6118,6 @@
 8.31231E+17,19861970,Dennis,Haight Ashbury,37.76544214,-122.4466873,Private room,475,30,0,3,170,0
 8.39316E+17,502034331,David,Western Addition,37.78644,-122.42362,Private room,150,3,0,4,88,0
 8.39331E+17,502034331,David,Western Addition,37.7871394,-122.4257721,Private room,150,3,0,4,88,0
-8.31274E+17,670906,Anand,Mission,37.75203505,-122.4139352,Entire home/apt,104,120,0,1,277,0
 8.31281E+17,415840703,Anyplace,South of Market,37.7765561,-122.415815,Entire home/apt,173,30,0,24,176,0
 8.31285E+17,415840703,Anyplace,Downtown/Civic Center,37.77670416,-122.4180581,Entire home/apt,135,30,0,24,167,0
 8.31288E+17,415840703,Anyplace,Downtown/Civic Center,37.77675,-122.41796,Entire home/apt,135,30,0,24,161,0
