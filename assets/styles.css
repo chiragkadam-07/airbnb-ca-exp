@@ -169,17 +169,23 @@ body {
 } */
 
 #tab-LA {
-	margin-left: 190px;
+	/* margin-left: 190px; */
+    position: relative;
+    left: 180px;
 	
 }
 
 #tab-SD {
-	margin-left: 245px;
+	/* margin-left: 245px; */
+    position: relative;
+    left: 420px;
 }
 
 #tab-SF {
-	margin-left: 235px;
-	margin-bottom: 15px;
+	/* margin-left: 235px;
+	margin-bottom: 15px; */
+    position: relative;
+    left: 650px;
 } 
 
 
