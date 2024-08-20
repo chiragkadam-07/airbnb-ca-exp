@@ -56,7 +56,7 @@ San_diego_layout = dbc.Container([
                     {'label': 'Disabled', 'value': 'Disabled'}
                 ],value='Enabled', className='radio-items2'
                 )
-        ], width={'size': 2, 'offset': 1}, className = 'custom-inter')
+        ], width={'size': 2}, className = 'custom-inter')
     ]),
 
     dbc.Row([
