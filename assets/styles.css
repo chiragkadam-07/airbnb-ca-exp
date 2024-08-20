@@ -16,6 +16,12 @@
 	height: 40px; /* centers the box horizontally on the page */
 }
 
+.custom-inter {
+    padding-top: 11px;
+    position: relative;
+    left: 90px;
+}
+
 body {
 	font-family: sans-serif;
 	h1 {
@@ -171,21 +177,27 @@ body {
 #tab-LA {
 	/* margin-left: 190px; */
     position: relative;
-    left: 180px;
+    /* left: 180px; */
+    left: 250px;
+    bottom: 8px;
 	
 }
 
 #tab-SD {
 	/* margin-left: 245px; */
     position: relative;
-    left: 420px;
+    /* left: 420px; */
+    left: 430px;
+    bottom: 8px;
 }
 
 #tab-SF {
 	/* margin-left: 235px;
 	margin-bottom: 15px; */
     position: relative;
-    left: 650px;
+    /* left: 650px; */
+    left: 615px;
+    bottom: 8px;
 } 
 
 

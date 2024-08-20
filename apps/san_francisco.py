@@ -57,7 +57,7 @@ San_Francisco_layout = dbc.Container([
                 ],value='Enabled', className='radio-items2',
                 
             )
-        ], width={'size': 2, 'offset': 1}, style={'paddingTop': '11px'})
+        ], width={'size': 2, 'offset': 1}, className = 'custom-inter')
     ]),
 
     dbc.Row([
